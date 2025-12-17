@@ -859,8 +859,8 @@ int32,str,str,byte,byte,WorldDCGroupType,bit&01
 4031,"TcPhoenix","鳳凰",4,151,151,False
 4032,"TcOdin","奧汀",4,151,151,False
 4033,"TcBahamut","巴哈姆特",4,151,151,False
-4034,"TcRamuh","拉姆",4,0,0,False
-4035,"TcTitan","泰坦",4,0,0,False
+4034,"TcRamuh","拉姆",4,151,151,False
+4035,"TcTitan","泰坦",4,151,151,False
 4036,"tccontents11","tccontents11",4,0,0,False
 4037,"tccontents12","tccontents12",4,0,0,False
 4038,"tccontents13","tccontents13",4,0,0,False
@@ -869,6 +869,14 @@ int32,str,str,byte,byte,WorldDCGroupType,bit&01
 4041,"tccontents16","tccontents16",4,0,0,False
 4042,"tccontents17","tccontents17",4,0,0,False
 4043,"tccontents18","tccontents18",4,0,0,False
+4044,"tccontents19","tccontents19",4,0,0,False
+4045,"tccontents20","tccontents20",4,0,0,False
+4046,"tccontents21","tccontents21",4,0,0,False
+4047,"tccontents22","tccontents22",4,0,0,False
+4048,"tccontents23","tccontents23",4,0,0,False
+4049,"tccontents24","tccontents24",4,0,0,False
+4050,"tccontents25","tccontents25",4,0,0,False
+4051,"tccontents26","tccontents26",4,0,0,False
 9000,"","",0,0,0,False
 10000,"crossworld_range","",0,0,0,False
 10001,"crossworld","",0,0,0,False
