@@ -126,9 +126,9 @@ int32,str
 114,"耐力值增加24點"
 115,"靈巧值增加8點"
 116,"靈巧值增加16點"
-117,"除自動攻擊外的技能造成的傷害提高至基本傷害的1.1倍，自身設置的浮空砲塔造成的傷害也提高至基本傷害的1.1倍"
+117,"除自動攻擊外的技能造成的傷害提高至基本傷害的1.1倍，自身設置的浮游砲塔造成的傷害也提高至基本傷害的1.1倍"
 118,"靈巧值增加24點"
-119,"除自動攻擊外的技能造成的傷害提高至基本傷害的1.2倍，自身設置的浮空砲塔造成的傷害也提高至基本傷害的1.2倍"
+119,"除自動攻擊外的技能造成的傷害提高至基本傷害的1.2倍，自身設置的浮游砲塔造成的傷害也提高至基本傷害的1.2倍"
 120,"精神值增加8點"
 121,"精神值增加16點"
 122,"除自動攻擊外的技能造成的傷害提高至基本值的1.1倍，恢復技能的恢復量也提高至基本值的1.1倍"
@@ -830,7 +830,7 @@ MP不會自然恢復
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔回刺、魔交擊斬、魔連攻、魔劃圓斬·一段、魔劃圓斬·二段、魔劃圓斬·三段命中時"
 483,"赤雷電變為赤大雷電，赤勁風變為赤大勁風
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔元集<UIGlow>01</UIGlow><UIForeground>01</UIForeground>累積3階時，赤大雷電變為赤火光，赤大勁風變為赤神聖"
-484,"震盪變為激蕩
+484,"震盪變為激盪
 另外，部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔回刺的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
@@ -935,7 +935,7 @@ MP不會自然恢復
 513,"鬥魂旋風腳變為夢幻鬥舞"
 514,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>奧義斬浪預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>意氣沖天發動時"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>意氣衝天發動時"
 515,"斷絕變為夢幻三段"
 516,"部分技能的威力提高
 
@@ -998,7 +998,7 @@ MP不會自然恢復
 533,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>祖靈力<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以累積到5階
 同時，可以發動祖靈大蛇牙
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>祖靈降臨<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中"
-534,"可以發動祖靈之牙【壹】、祖靈之牙【貳】、祖靈之牙【參】、祖靈之牙【肆】
+534,"可以發動祖靈之蛇【壹】、祖靈之蛇【貳】、祖靈之蛇【參】、祖靈之蛇【肆】
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>分別為祖靈之牙【壹】、祖靈之牙【貳】、祖靈之牙【參】、祖靈之牙【肆】命中時"
 535,""
 536,""
@@ -1135,7 +1135,7 @@ MP不會自然恢復
 591,"必殺劍·紅蓮和必殺劍·閃影的複唱時間縮短到60秒"
 592,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>殘心預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>意氣沖天發動時"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>意氣衝天發動時"
 593,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天道<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>明鏡止水發動時
@@ -1165,7 +1165,7 @@ MP不會自然恢復
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>光明神的最終樂章發動時"
 603,"高熱衝擊波變為烈焰彈"
-604,"虹吸彈變為雙將，彈射變為將死"
+604,"虹吸彈變為雙將，跳彈射擊變為將死"
 605,"鑽頭和毒化衝擊變為累積技能
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 606,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>掘地飛輪預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
@@ -1207,7 +1207,7 @@ MP不會自然恢復
 621,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>顯貴衝擊預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>促進發動時
-持續時間內，激蕩和衝擊變為顯貴衝擊"
+持續時間內，激盪和衝擊變為顯貴衝擊"
 622,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>光芒四射預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>消耗全部魔元化狀態
@@ -1352,7 +1352,7 @@ MP不會自然恢復
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>熱分裂彈的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>熱獨頭彈的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>熱狙擊彈的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>烈焰彈槍的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>烈焰彈的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>240"
 659,"天語的效果量提高到27%"
 660,"部分技能的威力提高
 

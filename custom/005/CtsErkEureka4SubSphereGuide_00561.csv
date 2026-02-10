@@ -24,7 +24,7 @@ int32,str,str
 順便第7個魔素石也一起交給你，
 你用魔素融合器把這個嵌進去試試吧。"
 11,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_ENG00465_000_033","不過，我想你已經知道了，用來強化屬性之力的魔素石，
-一種屬性中最多隻能嵌入5個，
+一種屬性中最多只能嵌入5個，
 所以在使用的時候請多加注意。"
 12,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_Q2_000_000","想了解什麼？"
 13,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_A2_000_001","關於進一步改良魔素板"
@@ -47,7 +47,7 @@ int32,str,str
 23,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_SYSTEM_000_061","魔素板改良後追加的魔素石與其他的魔素石沒有區別。
 對屬性值的強化效果也相同。"
 24,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_SYSTEM_000_062","只不過，用來強化屬性之力的魔素石，
-一種屬性中最多隻能嵌入5個。"
+一種屬性中最多只能嵌入5個。"
 25,"TEXT_CTSERKEUREKA4SUBSPHEREGUIDE_00561_ENG00465_000_070","如果再進一步改良魔素板的話，就能使其能嵌入第8個魔素石了！
 ……我雖然很想這樣說，但是這是無法達成的事情，
 實在是遺憾。"

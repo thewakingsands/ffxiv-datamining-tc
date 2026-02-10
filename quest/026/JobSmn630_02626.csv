@@ -141,7 +141,7 @@ int32,str,str
 86,"TEXT_JOBSMN630_02626_YMHITRA_000_240","現在正在北薩納蘭的藍霧營地舉行第二試煉哦。"
 87,"TEXT_JOBSMN630_02626_PRINCIPIA_000_250","<If(PlayerParameter(4))>小姐<Else/>先生</If>，第二試煉的舞台在北薩納蘭的藍霧營地。"
 88,"TEXT_JOBSMN630_02626_CRISPIN_000_260","既然你準備好了，那我們就上了？
-你的對手是我和蒂妮絲召喚出來的伊弗利特 艾基！"
+你的對手是我和蒂妮絲召喚出來的伊弗利特-艾基！"
 89,"TEXT_JOBSMN630_02626_DENISE_000_270","哈哈！
 看你能不能同時對付兩隻召喚獸！"
 90,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_270","真不愧是<Highlight>ObjectParameter(1)</Highlight>！
@@ -157,12 +157,12 @@ int32,str,str
 95,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_330","克里斯平和蒂妮絲戰敗了啊。
 不好意思，我的召喚獸可比他們兩個的加起來還要強喔？"
 96,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_331","我要上了！
-這才是真正的……伊弗利特 艾基！"
+這才是真正的……伊弗利特-艾基！"
 97,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_350","接下來的對手也是加加薩姆的召喚獸，
 他可是個不服輸的人，下手從來不知輕重。
 千萬別大意啊！"
 98,"TEXT_JOBSMN630_02626_YMHITRA_000_360","雖然<Highlight>ObjectParameter(1)</Highlight>更勝一籌，
-但是這次的伊弗利特 艾基也很強啊。"
+但是這次的伊弗利特-艾基也很強啊。"
 99,"TEXT_JOBSMN630_02626_PRINCIPIA_000_370","<If(PlayerParameter(4))>小姐<Else/>先生</If>，如果您覺得累了的話，
 可以充分休息之後再繼續挑戰。"
 100,"TEXT_JOBSMN630_02626_CRISPIN_000_380","加加薩姆的召喚獸也被打敗了嗎……
@@ -176,12 +176,12 @@ int32,str,str
 除了伊弗利特之外，還與其他蠻神戰鬥過。"
 104,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_422","沒錯……能夠驅使數隻召喚獸的人，不止你一個！
 <Highlight>ObjectParameter(1)</Highlight>，你最後的對手是它
-——泰坦 艾基！"
+——泰坦-艾基！"
 105,"TEXT_JOBSMN630_02626_YMHITRA_000_440","這裡居然還有從海雄旅團出來的人，真是讓人驚訝。
 想必他將來會成為很優秀的召喚士。"
 106,"TEXT_JOBSMN630_02626_PRINCIPIA_000_450","我正在分析<If(PlayerParameter(4))>小姐<Else/>先生</If>的戰鬥記錄，
 看完這樣一連串的精彩戰鬥，相信不用我說大家也知道結果……"
-107,"TEXT_JOBSMN630_02626_CRISPIN_000_460","我還以為如果是泰坦 艾基的話，應該能打敗你呢，
+107,"TEXT_JOBSMN630_02626_CRISPIN_000_460","我還以為如果是泰坦-艾基的話，應該能打敗你呢，
 結果還是不行啊……"
 108,"TEXT_JOBSMN630_02626_DENISE_000_470","你讓我看到了一場非常精彩的戰鬥。
 等回去之後，我一定要加強特訓！"

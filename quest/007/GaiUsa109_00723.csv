@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSA109_00723_SEQ_00","風精靈暫留地的阿密希亞又有事情想委託給冒險者。"
-1,"TEXT_GAIUSA109_00723_SEQ_01","前往荊棘森，撿回3份阿密希亞丟失的<Sheet(EventItem,2000579,0)/>。"
+1,"TEXT_GAIUSA109_00723_SEQ_01","前往荊棘森，撿回3份阿密希亞弄丟的<Sheet(EventItem,2000579,0)/>。"
 2,"TEXT_GAIUSA109_00723_SEQ_02","將<Sheet(EventItem,2000579,0)/>交給風精靈暫留地的阿密希亞。"
 3,"TEXT_GAIUSA109_00723_SEQ_03","多虧冒險者取回了<Sheet(EventItem,2000579,0)/>，阿密希亞可以重新開始裁縫工作。"
 4,"TEXT_GAIUSA109_00723_SEQ_04",""

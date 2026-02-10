@@ -1239,6 +1239,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197894,1179,15,0,0,0,0,0,38587,False,False,0,0,0,True,False
 197895,1180,14,7,76,0,0,721109,38588,True,False,8,4,11,True,False
 197896,1181,14,7,77,0,0,721109,38589,True,False,9,4,11,True,False
+197897,1182,14,7,78,0,0,721109,38590,True,False,8,4,11,True,False
 197898,1183,12,0,0,0,0,0,38600,False,False,0,0,0,True,False
 197899,1184,15,0,0,0,0,0,38592,False,False,0,0,0,True,False
 197900,1185,12,0,0,0,0,0,38593,False,False,0,0,0,True,False
@@ -1367,6 +1368,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198025,1287,14,0,0,99,0,0,40663,False,False,0,0,0,True,False
 198026,1288,15,0,0,0,0,0,40664,False,False,5,0,0,True,False
 198027,1289,15,0,0,0,0,0,40665,False,False,5,0,0,True,False
+198028,1290,15,0,0,0,0,0,40666,False,False,5,0,0,True,False
 198029,1291,12,0,0,0,0,0,40667,False,False,5,0,0,True,False
 198030,1292,14,0,0,102,0,0,41814,False,False,0,0,0,True,False
 198031,1293,14,0,0,103,0,0,41815,False,False,0,0,0,True,False
@@ -1464,5 +1466,6 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198134,1389,15,0,0,0,0,0,44120,False,False,0,0,0,True,False
 198136,1391,14,0,0,0,0,0,44270,False,False,5,0,0,True,False
 198137,1392,14,0,0,0,0,0,44271,False,False,5,0,0,True,False
+198138,1393,12,0,0,0,0,0,44272,False,False,5,0,0,True,False
 198139,1288,15,0,0,0,0,0,44332,False,False,3,0,0,True,False
 198140,1289,15,0,0,0,0,0,44333,False,False,3,0,0,True,False

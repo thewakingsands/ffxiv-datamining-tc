@@ -8,7 +8,7 @@ int32,str,str
 3,"TEXT_FESANV2024LLYMLAENSTONE_00854_Q2_000_000","來的人是誰？"
 4,"TEXT_FESANV2024LLYMLAENSTONE_00854_A2_000_001","沉溺海豚亭的總管"
 5,"TEXT_FESANV2024LLYMLAENSTONE_00854_A2_000_002","俾斯麥餐廳的總廚師長"
-6,"TEXT_FESANV2024LLYMLAENSTONE_00854_A2_000_003","海之都提督"
+6,"TEXT_FESANV2024LLYMLAENSTONE_00854_A2_000_003","海都提督"
 7,"TEXT_FESANV2024LLYMLAENSTONE_00854_A2_000_004","斷罪黨的年輕代理首領"
 8,"TEXT_FESANV2024LLYMLAENSTONE_00854_A2_000_005","帶著奧猴寶寶的旅行者"
 9,"TEXT_FESANV2024LLYMLAENSTONE_00854_BADERON_000_010","喲，<Highlight>ObjectParameter(1)</Highlight>，真巧啊。
@@ -29,7 +29,7 @@ int32,str,str
 15,"TEXT_FESANV2024LLYMLAENSTONE_00854_BADERON_000_016","先不說這個了……
 我想對你為煙火大會提供的幫助表示感謝。"
 16,"TEXT_FESANV2024LLYMLAENSTONE_00854_BADERON_000_017","感謝你透過新生祭的煙火讓大家對靈災的記憶得以昇華。
-相信很多海之都市民跟我都是一樣的想法。"
+相信很多海都市民跟我都是一樣的想法。"
 17,"TEXT_FESANV2024LLYMLAENSTONE_00854_BADERON_000_018","願你今後的冒險旅程也能一帆風順。
 啊對了，還要記得好好吃飯哦？
 沉溺海豚亭也會隨時歡迎你的到來！"
@@ -46,7 +46,7 @@ int32,str,str
 因為黃衫隊的人也經常會到俾斯麥餐廳來，
 幫忙解決一下客人的糾紛之類的，也是挺照顧我們。"
 23,"TEXT_FESANV2024LLYMLAENSTONE_00854_LYNGSATH_000_025","你是在各地來往的冒險者，所以沒注意到也很正常。
-他們對於海之都市民來說也是值得信賴的「老朋友」了。"
+他們對於海都市民來說也是值得信賴的「老朋友」了。"
 24,"TEXT_FESANV2024LLYMLAENSTONE_00854_LYNGSATH_000_026","阿悠悠在靈災前好像當過某位冒險者的僱員。
 當時也不知對方從哪撿來的大量煙火，都寄存到了阿悠悠這裡，
 為了賣出去，阿悠悠有時在市集裡一站就是一天，令人哭笑不得。"
@@ -63,12 +63,12 @@ int32,str,str
 聚集在這裡的人們一同望向天空的那個時刻，
 真是太美了。"
 30,"TEXT_FESANV2024LLYMLAENSTONE_00854_MERLWYB_000_032","相信這份美好的記憶也一定會
-讓海之都市民今後出海時更有動力。
+讓海都市民今後出海時更有動力。
 我發自內心地感謝你的幫助。"
 31,"TEXT_FESANV2024LLYMLAENSTONE_00854_MERLWYB_000_033","在加爾提諾和靈災當中殞命的人不在少數。
 對於他們的朋友和家人……不，是對於艾奧傑亞所有的生還者來說，
 新生祭是具有特殊意義的活動。"
-32,"TEXT_FESANV2024LLYMLAENSTONE_00854_MERLWYB_000_034","所以我希望此次的煙火大會可以作為海之都新生祭的一大特色，
+32,"TEXT_FESANV2024LLYMLAENSTONE_00854_MERLWYB_000_034","所以我希望此次的煙火大會可以作為海都新生祭的一大特色，
 一直傳承下去，我也跟各方面都表達了這個想法。"
 33,"TEXT_FESANV2024LLYMLAENSTONE_00854_MERLWYB_000_035","那麼……抱歉佔用你這麼長時間。
 參拜過利姆萊茵秘石之後，我也要回去繼續工作了。"

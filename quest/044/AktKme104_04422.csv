@@ -50,7 +50,7 @@ int32,str,str
 46,"TEXT_AKTKME104_04422_TODO_22",""
 47,"TEXT_AKTKME104_04422_TODO_23",""
 48,"TEXT_AKTKME104_04422_EMETSELCH_000_000","嗯……冒充阿謝姆的使魔應該不會暴露，
-畢竟大家早就對<If(PlayerParameter(4))>她<Else/>他</If>的瞎胡鬧習以為常了。
+畢竟大家早就對<If(PlayerParameter(4))>她<Else/>他</If>的胡鬧習以為常了。
 <If(PlayerParameter(4))>她<Else/>他</If>要是對此有所不滿，就得先改正自己平日的行為。"
 49,"TEXT_AKTKME104_04422_EMETSELCH_000_001","……哈？我怎麼可能會把你誤認成兒童。
 你的乙太簡直稀薄到都不像是生物！"

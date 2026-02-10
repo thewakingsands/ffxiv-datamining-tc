@@ -96,11 +96,11 @@ int32,str
 54,"發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>賢者的敘事謠<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能後，畫面上會出現專用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>戰歌量譜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，以顯示當前戰歌的剩餘持續時間。
 在戰歌效果中，有一定機率觸發<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>詩心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 以縮短<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>失血箭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>與45級學會的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死亡箭雨<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的複唱時間。"
-55,"當<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>毒咬箭（烈毒咬箭）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>風蝕箭（狂風蝕箭）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的持續傷害命中時，詩心效果有一定概率會被觸發。在戰歌中觸發詩心可以大幅提高詩人的攻擊力。"
+55,"當<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>毒咬箭（烈毒咬箭）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>風蝕箭（狂風蝕箭）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的持續傷害命中時，詩心效果有一定機率會被觸發。在戰歌中觸發詩心可以大幅提高詩人的攻擊力。"
 56,"發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>軍神的讚美歌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能後，畫面上會出現專用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>戰歌量譜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，以顯示當前戰歌的剩餘持續時間。
-在戰歌效果中，有一定概率觸發<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>詩心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，詩心量值由戰歌量譜下方的音符標識表示，最多可以累積到四檔。詩心能夠提升攻擊速度，累積的量值越多，提升的幅度越大。"
+在戰歌效果中，有一定機率觸發<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>詩心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，詩心量值由戰歌量譜下方的音符標識表示，最多可以累積到四檔。詩心能夠提升攻擊速度，累積的量值越多，提升的幅度越大。"
 57,"發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>放浪神的小步舞曲<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能後，畫面上會出現專用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>戰歌量譜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，以顯示當前戰歌的剩餘持續時間。
-在戰歌效果中，有一定概率觸發<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>詩心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，詩心量值由戰歌量譜下方的箭頭標識表示，最多可以累積到三檔。消耗詩心可以發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>完美音調<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。"
+在戰歌效果中，有一定機率觸發<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>詩心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，詩心量值由戰歌量譜下方的箭頭標識表示，最多可以累積到三檔。消耗詩心可以發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>完美音調<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。"
 58,"靈魂吟唱量譜"
 59,"學會<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈魂吟唱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性後，畫面上會出現專用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈魂吟唱量譜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，以顯示當前<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈魂吟唱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的具體量值。
 觸發詩心可以增加靈魂吟唱量值，消耗累積的靈魂吟唱量值可以發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>絕峰箭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能。"
@@ -193,7 +193,7 @@ int32,str
 100,"アルカナシンボル/マイナーアルカナ"
 101,"學會<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>小奧秘卡<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後，在發動小奧秘卡時將會在奧秘量譜顯示抽到的卡牌。"
 102,"學會<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>乙太蓄能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技能後，畫面上會出現專用的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>同調量譜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，以顯示乙太蓄能的剩餘持續時間。
-發動乙太蓄能後將附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>紅寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，通過消耗紅寶石的奧秘，可以發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>紅寶石召喚<UIGlow>01</UIGlow><UIForeground>01</UIForeground>來召喚出<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>卡邦庫爾 紅寶石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+發動乙太蓄能後將附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>紅寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，通過消耗紅寶石的奧秘，可以發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>紅寶石召喚<UIGlow>01</UIGlow><UIForeground>01</UIForeground>來召喚出<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>卡邦庫爾-紅寶石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 此外在15級學會<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>乙太蓄能效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性後、在22級學會<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>乙太蓄能效果提高II<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性後，
 可以分別附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黃寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>綠寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 並能夠召喚出對應的召喚獸。"
@@ -358,7 +358,7 @@ int32,str
 集齊上述標識後，可以獲得<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>馬蒂恩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>標識，
 通過消耗馬蒂恩標識可以發動強大的技能<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>馬蒂恩懲罰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
 152,"學會<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>虛無魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性後，每消耗夜遊魂鐮刀時都會賦予<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>虛無魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
-通過消耗虛無魂，可以發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜遊魂切割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜遊魂切割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等技能。"
+透過消耗虛無魂，可以發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜遊魂切割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜遊魂收割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等技能。"
 153,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>夜遊魂量譜<UIGlow>01</UIGlow><UIForeground>01</UIForeground>上會顯示出夜遊魂狀態的持續時間以及夜遊魂鐮刀的量值。
 通過消耗夜遊魂鐮刀，可以發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>虛無收割<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和90級學會的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>團契<UIGlow>01</UIGlow><UIForeground>01</UIForeground>等技能。"
 154,""

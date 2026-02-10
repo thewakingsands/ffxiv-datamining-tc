@@ -79,10 +79,10 @@ int32,str
 75,"<CommandIcon(5)/>履歷 <CommandIcon(12)/>+ <CommandIcon(13)/>貼上 <CommandIcon(10)/>刪除 <CommandIcon(13)/>指定文字 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>虛擬鍵盤<Else/><CommandIcon(11)/>螢幕鍵盤</If><Else/><Indent/></If>"
 76,"<CommandIcon(3)/>返回  <CommandIcon(4)/>前進  <CommandIcon(13)/>指定文字"
 77,"<CommandIcon(10)/>次要指令  <CommandIcon(11)/>應用"
-78,"<CommandIcon(11)/>應用  <CommandIcon(10)/>刪除設置　"
+78,"<CommandIcon(11)/>應用  <CommandIcon(10)/>刪除設定　"
 79,"<CommandIcon(8)/>跳過劇情  <CommandIcon(9)/>取消"
 80,"<CommandIcon(12)/><CommandIcon(13)/>選擇職業分類"
-81,"<CommandIcon(8)/><CommandIcon(10)/>次要指令  <CommandIcon(11)/>設置搜尋條件"
+81,"<CommandIcon(8)/><CommandIcon(10)/>次要指令  <CommandIcon(11)/>設定搜尋條件"
 82,"<CommandIcon(5)/>順序移動  <CommandIcon(8)/>確定  <CommandIcon(9)/>取消"
 83,"<CommandIcon(7)/>移動  <CommandIcon(8)/>確定  <CommandIcon(9)/>取消"
 84,"<CommandIcon(11)/>編輯公會公告"
@@ -486,7 +486,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 310,"<CommandIcon(12)/><CommandIcon(13)/>切換關卡信息"
 311,"<CommandIcon(8)/>確定 <CommandIcon(24)/>捲動查看詳細情報"
 312,"<CommandIcon(8)/>確定"
-313,"<CommandIcon(10)/>鳴牌設置切換 <CommandIcon(11)/>協助工具"
+313,"<CommandIcon(10)/>鳴牌設定切換 <CommandIcon(11)/>協助工具"
 314,"<CommandIcon(8)/>讀取線上狀態  <CommandIcon(10)/>次要指令  <CommandIcon(9)/>返回"
 315,"<CommandIcon(12)/><CommandIcon(13)/>切換關卡資訊　<CommandIcon(8)/>確認有效的異常狀態"
 316,"<CommandIcon(8)/>選擇  <CommandIcon(10)/>次要指令"
@@ -583,10 +583,10 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 407,"<CommandIcon(8)/>隊員選定或解除 <CommandIcon(9)/>結束編成"
 408,"親信戰友"
 409,"主線任務中需要前往的71級以上的迷宮
-都可選擇與非玩家同伴角色的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>幻體<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一同前往。
-幻體可通過攻略迷宮而獲得經驗、升級。
+都可選擇與NPC同伴角色的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>幻體<UIGlow>01</UIGlow><UIForeground>01</UIForeground>一同前往。
+幻體可透過攻略迷宮而獲得經驗、升級。
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※使用“親信戰友”系統挑戰迷宮時部分寶箱中的內容會減少，
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※使用「親信戰友」系統挑戰迷宮時部分寶箱中的內容會減少，
 另外擊敗部分怪物時將無法獲得獎勵。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 410,"投影"
 411,"等級達到80級的幻體會開放<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>投影<UIGlow>01</UIGlow><UIForeground>01</UIForeground>功能。
@@ -614,7 +614,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 將會打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>劇情輔助器視窗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>輔助隊員的職業或特職<UIGlow>01</UIGlow><UIForeground>01</UIForeground>會根據你當前的職業或特職<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自動調整<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為最佳組合。
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下進入按鈕後<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以與非玩家角色一同挑戰迷宮了！"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下進入按鈕後<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以與NPC角色一同挑戰迷宮了！"
 418,"出發確認視窗"
 419,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>做好出發準備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後會有<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>聲音提示，並彈出視窗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按下出發按鈕<UIGlow>01</UIGlow><UIForeground>01</UIForeground>就可以進行挑戰了！
@@ -702,15 +702,15 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 </If>"
 443,"任務記錄方法"
 444,"想要將攻略任務的過程記錄下來，需要滿足以下條件。
-　1.任務記錄設置設為開啟
+　1.任務記錄設定設為開啟
 　2.進入的任務適用任務回顧功能
 　3.以規定人數進入任務
 　4.進行記錄準備確認
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1.任務記錄設置設為開啟<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1.任務記錄設定設為開啟<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 設定是否對任務過程進行記錄。
-將本設置設為開啟後，滿足其他條件時即會對任務過程進行記錄。
-將本設置設為關閉後，滿足其他條件時自身角色不會對任務過程進行記錄。
+將本設定設為開啟後，滿足其他條件時即會對任務過程進行記錄。
+將本設定設為關閉後，滿足其他條件時自身角色不會對任務過程進行記錄。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2.進入的任務適用任務回顧功能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 任務回顧功能僅對部分任務適用。
@@ -968,7 +968,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 會長或管理員可將想要通知同好會成員的內容寫在此處。
 
 ■投票問卷
-會長或管理員可以設置投票問卷。
+會長或管理員可以設定投票問卷。
 同好會內所有成員均可對問捲進行投票。
 每人對每份問卷僅有一次投票權利。
 
@@ -984,15 +984,15 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 1009,"關於“成員”"
 1010,"此為加入了當前同好會的成員一覽。
 
-通過子選單可以對成員進行各種設置。
+通過子選單可以對成員進行各種設定。
 會長可以任命管理員，也可以移交會長許可權。
 
 遭遇騷擾時會長可以將玩家加入同好會黑名單。
 被加入同好會黑名單後，該玩家將會被踢出對應同好會，並無法重新加入。"
 1011,"其他補充"
-1012,"■同好會設置修改
+1012,"■同好會設定修改
 只有會長能進行操作。
-可以修改同好會名稱、設置同好會的主要活動、
+可以修改同好會名稱、設定同好會的主要活動、
 查看同好會黑名單、解散同好會。
 解散後同好會會完全消失。
 
@@ -1007,7 +1007,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 1013,"關於同好招募"
 1014,"在同好招募中可以看到當前正在招募成員的各同好會資訊。
 
-可以通過搜索功能對同好會的主要活動等條件進行篩選查看。"
+可以通過搜尋功能對同好會的主要活動等條件進行篩選查看。"
 1015,"樂器演奏的注意事項"
 1016,"<UIForeground>F20202</UIForeground>■樂器演奏的注意事項<UIForeground>01</UIForeground>
 禁止通過樂器演奏功能侵犯協力廠商的權利。
@@ -1030,7 +1030,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 <UIForeground>F20202</UIForeground>■合奏助手的使用方法<UIForeground>01</UIForeground>
 合奏助手的使用方法如下：
- 1.點擊節拍器的“合奏準備確認”，打開設置介面
+ 1.點擊節拍器的“合奏準備確認”，打開設定介面
  2.勾選“使用合奏助手”後開始合奏準備確認
  3.合奏準備確認結束時合奏模式即會開啟
 
@@ -1048,7 +1048,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 演奏助手的使用方法如下：
  1.點擊琴鍵邊的“演奏助手”
  2.選擇演奏的樂曲
- 3.設置樂曲倍速與是否使用節拍器
+ 3.設定樂曲倍速與是否使用節拍器
 
 <UIForeground>F20202</UIForeground>■演奏助手中的注意事項<UIForeground>01</UIForeground>
 使用演奏助手時會自動拒絕合奏準備確認。
@@ -1094,15 +1094,15 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 如果目前還有未滿80級的職業，請務必積極地善用等級同步規則！"
 1026,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■不知道該怎麼辦了！　這種時候……<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-甘戈斯的謝羅斯以及任務內的其他非玩家角色
+甘戈斯的謝羅斯以及任務內的其他NPC角色
 將會為你解說規則及系統等事項。
-如有不明，請積極地向非玩家角色詢問！"
+如有不清楚之處，請積極地向NPC角色詢問！"
 1027,"收藏品"
 1028,"收藏品就是擁有特殊收藏價值的道具。
 
 收藏價值用於表示每個收藏品的價值。
 
-有時非玩家角色會要求玩家交納收藏品，
+有時NPC角色會要求玩家交納收藏品，
 同時也會標明需求的收藏品需要具備的收藏價值。
 
 請努力採集滿足指定收藏價值的收藏品。"
@@ -1232,7 +1232,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 只有達到“所需收藏價值”後，精選時才能獲取到水晶以外的道具。"
 1049,""
 1050,"探索特殊迷宮的方法"
-1051,"和專用的非玩家角色對話，或者選擇設定選單“任務情報”內的
+1051,"和專用的NPC角色對話，或者選擇設定選單“任務情報”內的
 “<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊迷宮探索器<UIGlow>01</UIGlow><UIForeground>01</UIForeground>”打開專用的視窗，
 進入特殊迷宮探索任務。
 
@@ -1252,7 +1252,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 需要打開<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>隊伍不滿4人時進行匹配<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的選項。"
 1054,"多變技能"
 1055,"在多變迷宮內可以使用“<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>多變技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>”，
-以方便冒險者通過任意職業構成探索迷宮。
+以方便冒險者透過任意職業構成探索迷宮。
 
 無論是防護職業還是進攻職業，
 都可以使用<UIForeground>0F</UIForeground>特殊的療傷和復活<UIForeground>01</UIForeground>來擔任治療職業的職責，
@@ -1277,7 +1277,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 通過點擊視窗上方的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>異聞迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 可以將視窗內的資訊改為異聞迷宮的資訊。
 
-異聞迷宮中沒有同行的非玩家角色和分歧路線，
+異聞迷宮中沒有同行的NPC角色和分歧路線，
 也沒有發現故事等要素。
 異聞迷宮視窗內會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>異聞迷宮清單<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，
 以及在挑戰迷宮時可以獲得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>專用貨幣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。"
@@ -1296,11 +1296,11 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 可以將特定玩家從室內或庭院中強制請離，
 或者使其一段時間內無法進入。
 
-通過設定選單→社交→房屋→住房設置→強制請離房屋許可權設置，可以從顯示視窗中進行各種設定。"
+通過設定選單→社交→房屋→住房設定→強制請離房屋許可權設定，可以從顯示視窗中進行各種設定。"
 1064,"功能的使用權限"
 1065,"能夠使用“強制請離房屋”功能的，
 只有在該房屋中擁有許可權的角色。
-主許可權人會根據房屋類型自動設置。
+主許可權人會根據房屋類型自動設定。
 另外可以根據房屋類型追加副許可權人。
 
 公會房屋的話，公會長擁有主許可權，
@@ -1313,7 +1313,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 1066,"禁止進入名單"
 1067,"禁止進入名單指的是被列為強制請離房屋對象的角色名單。
 擁有主許可權或副許可權的角色
-均可以通過“強制請離房屋許可權設置”視窗打開名單。
+均可以通過“強制請離房屋許可權設定”視窗打開名單。
 被列入禁止進入名單的角色10天之內都會被記錄在名單中，
 期間角色禁止進入室內，會從庭院強制請離。
 

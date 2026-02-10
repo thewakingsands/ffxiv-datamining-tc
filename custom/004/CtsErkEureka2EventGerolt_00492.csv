@@ -70,7 +70,7 @@ int32,str,str
 好吧，你先讓我看看素材湊齊了沒有。"
 31,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_GEROLT_000_070","……喂喂，<Sheet(Item,23309,0)/>的數量可不夠啊。
 若想強化的話，還需要<Value>IntegerParameter(1)</Value>個呢。
-趕快給我結晶化去！"
+趕快給我去收集乙太、轉化成水晶！"
 32,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_071","若想強化<Sheet(Item,IntegerParameter(1),0)/>，
 需要<Sheet(Item,23309,0)/>達到規定數量。"
 33,"TEXT_CTSERKEUREKA2EVENTGEROLT_00492_SYSTEM_000_072","此外根據強化階段的不同，

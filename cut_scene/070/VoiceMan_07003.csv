@@ -64,11 +64,11 @@ int32,str,str
 36,"TEXT_VOICEMAN_07003_000370_ERENVILLE","那不是……"
 37,"TEXT_VOICEMAN_07003_000380_ESTINIEN","住手吧。別被怒火衝昏頭了。"
 38,"TEXT_VOICEMAN_07003_000390_ZEKOWA","你說什麼？！"
-39,"TEXT_VOICEMAN_07003_000400_KEMAKKA","(-留著絡腮胡的男人-)喂——！"
-40,"TEXT_VOICEMAN_07003_000410_KEMAKKA","(-留著絡腮胡的男人-)澤寇瓦，你在這裡做什麼？！
+39,"TEXT_VOICEMAN_07003_000400_KEMAKKA","(-留著絡腮鬍的男人-)喂——！"
+40,"TEXT_VOICEMAN_07003_000410_KEMAKKA","(-留著絡腮鬍的男人-)澤寇瓦，你在這裡做什麼？！
 不要到處惹是生非！"
 41,"TEXT_VOICEMAN_07003_000420_ZEKOWA","混蛋！比犎牛糞還屎的玩意，你給我等著！"
-42,"TEXT_VOICEMAN_07003_000430_KEMAKKA","(-留著絡腮胡的男人-)維胡特，到底怎麼回事？"
+42,"TEXT_VOICEMAN_07003_000430_KEMAKKA","(-留著絡腮鬍的男人-)維胡特，到底怎麼回事？"
 43,"TEXT_VOICEMAN_07003_000440_WIHUWTE","沒什麼事，切瑪卡團長。
 澤寇瓦又來找我放人了而已。"
 44,"TEXT_VOICEMAN_07003_000450_WIHUWTE","我和部下都會看好他的，您就放心吧。"
@@ -87,9 +87,9 @@ int32,str,str
 55,"TEXT_VOICEMAN_07003_000530_ESTINIEN","和古魯加加交手讓我拿了不少報酬，
 有一段時間都不用擔心路費了。"
 56,"TEXT_VOICEMAN_07003_000540_ESTINIEN","行了，那我就先走了。"
-57,"TEXT_VOICEMAN_07003_000550_ESTINIEN","啊，對了……這邊的仙人掌非常好吃。
+57,"TEXT_VOICEMAN_07003_000550_ESTINIEN","啊，對了……這邊的仙人掌怪非常好吃。
 別看長得奇怪，真的好吃，推薦你們試試。"
-58,"TEXT_VOICEMAN_07003_000560_ERENVILLE","仙人掌？吃野生的……？"
+58,"TEXT_VOICEMAN_07003_000560_ERENVILLE","仙人掌怪？吃野生的……？"
 59,"TEXT_VOICEMAN_07003_000570_ZEKOWA","你總算來了，維胡特副團長！"
 60,"TEXT_VOICEMAN_07003_000580_WIHUWTE","我還以為是誰呢，這不是小惡棍澤寇瓦嗎？"
 61,"TEXT_VOICEMAN_07003_000590_WIHUWTE","聽說你也跑去當強盜了呀。
@@ -236,7 +236,7 @@ int32,str,str
 153,"TEXT_VOICEMAN_07003_001390_WAWLIKA","多虧了你們幫忙，列車比預期更早恢復運行，真是太感謝了。"
 154,"TEXT_VOICEMAN_07003_001400_SHENZA","剛剛你們都看到了吧！
 青磷機車真是太棒了！"
-155,"TEXT_VOICEMAN_07003_001410_ZAWPYA","沒錯！每次目睹青磷機車奔跑的樣子都令我心情激蕩！
+155,"TEXT_VOICEMAN_07003_001410_ZAWPYA","沒錯！每次目睹青磷機車奔跑的樣子都令我心情激盪！
 和以前那種貨車完全不是一個等級！"
 156,"TEXT_VOICEMAN_07003_001420_SHENZA","只要鋪上鐵軌，機車就能去往任何地方！
 總有一天我們的鐵軌會橫貫整個大陸！"
@@ -289,7 +289,7 @@ int32,str,str
 有空感謝還不如快跑！"
 194,"TEXT_VOICEMAN_07003_001720_BAKOOLJAJA","(-巴庫加加勇戰之頭-)這裡交給我！
 你們快去王宮！"
-195,"TEXT_VOICEMAN_07003_001730_BAKOOLJAJA","(-巴庫加加禦魔之頭-)很多敵人往那邊去了！"
+195,"TEXT_VOICEMAN_07003_001730_BAKOOLJAJA","(-巴庫加加御魔之頭-)很多敵人往那邊去了！"
 196,"TEXT_VOICEMAN_07003_001740_WUKLAMAT","巴庫加加……多謝了！"
 197,"TEXT_VOICEMAN_07003_001750_BAKOOLJAJA","呵哈！"
 198,"TEXT_VOICEMAN_07003_001760_BAKOOLJAJA","(-巴庫加加勇戰之頭-)這就是——老子找到的新活法！"
@@ -675,7 +675,7 @@ int32,str,str
 這我完全沒有異議……"
 433,"TEXT_VOICEMAN_07003_004010_BAKOOLJAJA","(-巴庫加加勇戰之頭-)但是！我可不想光在後面看著！
 如果是為了守護這個國家，那我也要戰鬥！"
-434,"TEXT_VOICEMAN_07003_004020_BAKOOLJAJA","(-巴庫加加禦魔之頭-)還有我！"
+434,"TEXT_VOICEMAN_07003_004020_BAKOOLJAJA","(-巴庫加加御魔之頭-)還有我！"
 435,"TEXT_VOICEMAN_07003_004030_BAKOOLJAJA","(-巴庫加加勇戰之頭-)看看，這下就有兩個人了……呃，兩個頭了？"
 436,"TEXT_VOICEMAN_07003_004040_BAKOOLJAJA","(-巴庫加加勇戰之頭-)算了！這種事怎麼都無所謂，關鍵是你們呢？！
 難道就在那裡悶不吭聲，只等著聯王保護嗎？！"
@@ -761,7 +761,7 @@ int32,str,str
 489,"TEXT_VOICEMAN_07003_004520_WUKLAMAT","有完沒完！"
 490,"TEXT_VOICEMAN_07003_004530_WUKLAMAT","真、真是太危險了……"
 491,"TEXT_VOICEMAN_07003_004540_WUKLAMAT","喂！艾倫維爾，還活著嗎？"
-492,"TEXT_VOICEMAN_07003_004550_ERENVILLE","還有口一氣……"
+492,"TEXT_VOICEMAN_07003_004550_ERENVILLE","還有一口氣……"
 493,"TEXT_VOICEMAN_07003_004560_KRILE","這裡就是基地入口……
 趁著敵人亂作一團，我們進去吧。"
 494,"TEXT_VOICEMAN_07003_004570_WUKLAMAT","不知道裡面有什麼在等著我們……

@@ -11,7 +11,7 @@ int32,str,str
 4,"TEXT_MANFST205_00660_SEQ_04","成功鎮壓了百臂巨人族。回到烏爾達哈，向流沙屋的佩恩特德·梅薩報告。"
 5,"TEXT_MANFST205_00660_SEQ_05","在向佩恩特德·梅薩報告時，冒險者聽到了一位女性的尖叫聲。在幫助了那名女性之後，出現在冒險者面前的是之前遇到過的賢人。"
 6,"TEXT_MANFST205_00660_SEQ_06","賢人說自己是秘密組織拂曉血盟的成員，並勸說冒險者前往其組織……和流沙屋的莫莫蒂對話。"
-7,"TEXT_MANFST205_00660_SEQ_07","在解決各個城市出現的問題的這段期間，<Highlight>ObjectParameter(1)</Highlight>見到了形形色色的冒險者。其中一位新人冒險者小隊裡的幻術士艾坦，被<Highlight>ObjectParameter(1)</Highlight>的奮勇姿態所打動，並決心作為一名冒險者重新開始。<Highlight>ObjectParameter(1)</Highlight>自己或許也要迎來新的旅程。堅定啟程旅行的決心之後，向莫莫蒂詢問有關拂曉血盟的事。"
+7,"TEXT_MANFST205_00660_SEQ_07","在解決各個城市出現的問題的這段期間，<Highlight>ObjectParameter(1)</Highlight>見到了形形色色的冒險者。其中一位新人冒險者小隊裡的幻術士艾妲，被<Highlight>ObjectParameter(1)</Highlight>的奮勇姿態所打動，並決心作為一名冒險者重新開始。<Highlight>ObjectParameter(1)</Highlight>自己或許也要迎來新的旅程。堅定啟程旅行的決心之後，向莫莫蒂詢問有關拂曉血盟的事。"
 8,"TEXT_MANFST205_00660_SEQ_08","空"
 9,"TEXT_MANFST205_00660_SEQ_09","空"
 10,"TEXT_MANFST205_00660_SEQ_10","空"
@@ -332,7 +332,7 @@ int32,str,str
 187,"TEXT_MANFST205_00660_MOMODI_000_237","我有個人想介紹給你。
 過來吧。"
 188,"TEXT_MANFST205_00660_EDDA_000_238","初、初次見面，
-我叫艾坦。
+我叫艾妲。
 一直想要和你見一面的。"
 189,"TEXT_MANFST205_00660_EDDA_000_239","我曾經和同樣是新人冒險者的同伴一起進行冒險。
 但是，隊長阿維爾……

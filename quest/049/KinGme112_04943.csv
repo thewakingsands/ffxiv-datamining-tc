@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_KINGME112_04943_SEQ_22",""
 23,"TEXT_KINGME112_04943_SEQ_23",""
 24,"TEXT_KINGME112_04943_TODO_00","照看市民"
-25,"TEXT_KINGME112_04943_TODO_01","和後房的烏克·拉瑪特對話"
+25,"TEXT_KINGME112_04943_TODO_01","和後室的烏克·拉瑪特對話"
 26,"TEXT_KINGME112_04943_TODO_02","和古魯加對話"
 27,"TEXT_KINGME112_04943_TODO_03","和烏克·拉瑪特對話"
 28,"TEXT_KINGME112_04943_TODO_04","和卡赫奇瓦對話"
@@ -78,7 +78,7 @@ int32,str,str
 那麼拉瑪提和<Highlight>ObjectParameter(1)</Highlight>一起負責真唯大道，
 別的地方就交給我們幾個吧！"
 60,"TEXT_KINGME112_04943_WUKLAMAT_000_029","好！
-結束之後去後房集合！"
+結束之後去後室集合！"
 61,"TEXT_KINGME112_04943_STUNNEDRESIDENT4943_000_030","啊……是活人的溫度……
 我還……活著吧……"
 62,"TEXT_KINGME112_04943_STUNNEDRESIDENT4943_000_031","真的很謝謝你……
@@ -156,7 +156,7 @@ int32,str,str
 97,"TEXT_KINGME112_04943_CAHCIUA_000_122","在大家回來之前，你也稍微休息一下吧。
 很快就該為這些事做個了……斷……"
 98,"TEXT_KINGME112_04943_CAHCIUA_000_123","做……決戰……備……
-可……在後房……休……"
+可……在後室……休……"
 99,"TEXT_KINGME112_04943_CAHCIUA_000_124","啊？剛才有雜音？
 ……現在正常了嗎？"
 100,"TEXT_KINGME112_04943_CAHCIUA_000_125","唔……

@@ -81,7 +81,7 @@ int32,str,str
 62,"TEXT_KINGZG007_05170_BROKENMACHINE05170_000_032","沙沙……"
 63,"TEXT_KINGZG007_05170_ADAPTERMAN05170_000_033","可算是啟動了。
 但包含對話能力在內的各項功能都有問題……
-光靠應急處理最多隻能這樣了嗎……"
+光靠應急處理最多只能這樣了嗎……"
 64,"TEXT_KINGZG007_05170_ADAPTERSON05170_000_034","但是它已經站起來了！
 快醒醒，機器兵，醒一醒！"
 65,"TEXT_KINGZG007_05170_ADAPTERSON05170_000_035","<If(PlayerParameter(4))>姐姐<Else/>哥哥</If>也來幫忙叫醒它吧！

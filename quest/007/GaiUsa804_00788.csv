@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSA804_00788_SEQ_00","秋瓜浮村的商人索梅希爾德想要冒險者幫忙尋找失物。"
-1,"TEXT_GAIUSA804_00788_SEQ_01","索梅希爾德的商人同伴丟失了<Sheet(EventItem,2000618,0)/>。尋找<Sheet(EventItem,2000618,0)/>。"
+1,"TEXT_GAIUSA804_00788_SEQ_01","索梅希爾德的商人同伴弄丟了<Sheet(EventItem,2000618,0)/>。尋找<Sheet(EventItem,2000618,0)/>。"
 2,"TEXT_GAIUSA804_00788_SEQ_02","找到了<Sheet(EventItem,2000618,0)/>。交給浮栓亭的艾爾溫。"
 3,"TEXT_GAIUSA804_00788_SEQ_03","艾爾溫看到鑰匙被找回來而感到安心。他聽說有蒙面的男子在附近出沒……"
 4,"TEXT_GAIUSA804_00788_SEQ_04",""

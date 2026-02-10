@@ -106,7 +106,7 @@ int32,str,str
 74,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_043","我準備了一個可以吸引魔物的<Sheet(EObj,2006265,0)/>。
 請將湧向它的魔物們當做衝鋒過來的騎士，
 進行迎擊戰的訓練。"
-75,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_044","放置在我方陣地的<Sheet(EObj,2006265,0)/>如果被破糟了就算失敗。
+75,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_044","放置在我方陣地的<Sheet(EObj,2006265,0)/>如果被破壞了就算失敗。
 <Highlight>ObjectParameter(1)</Highlight>，請找出最有效的戰法，給喬伊好好示範一下吧！"
 76,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_045","空"
 77,"TEXT_JOBMCH451_01702_QIB_001_TODO_1","保護大誘餌箱！"

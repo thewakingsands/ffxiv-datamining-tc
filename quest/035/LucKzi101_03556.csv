@@ -6,7 +6,7 @@ int32,str,str
 1,"TEXT_LUCKZI101_03556_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整任務。
 
 和貝奧圖進行了交談。貝奧圖拜託冒險者和自己的兒子羅尼圖做朋友。和特美拉村的貝奧圖談談。"
-2,"TEXT_LUCKZI101_03556_SEQ_02","和貝奧圖進行了交談。自稱硬派的羅尼圖好像不擅長打招呼。為了找到羅尼圖丟失的傳說中的<Sheet(EventItem,2002701,0)/>，向特美拉村的悠閒的矮人族打聽消息。"
+2,"TEXT_LUCKZI101_03556_SEQ_02","和貝奧圖進行了交談。自稱硬派的羅尼圖好像不擅長打招呼。為了找到羅尼圖弄丟的傳說中的<Sheet(EventItem,2002701,0)/>，向特美拉村的悠閒的矮人族打聽消息。"
 3,"TEXT_LUCKZI101_03556_SEQ_03","和悠閒的矮人族進行了交談。接下來向特美拉村的膽怯的矮人族打聽消息。"
 4,"TEXT_LUCKZI101_03556_SEQ_04","從膽怯的矮人族那裡拿到了<Sheet(EventItem,2002701,0)/>。將<Sheet(EventItem,2002701,0)/>交給特美拉村的羅尼圖。"
 5,"TEXT_LUCKZI101_03556_SEQ_05","將<Sheet(EventItem,2002701,0)/>交給了羅尼圖。羅尼圖雖然不能坦誠相對，不過他還是在感謝著冒險者。繼續陪著羅尼圖。"

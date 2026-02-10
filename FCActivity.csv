@@ -18,7 +18,7 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 14,"公會轉到了“<Sheet(GrandCompany,IntegerParameter(1),0)/>”屬下。",0,1,0,1,5
 15,"公會轉到了“<Sheet(GrandCompany,IntegerParameter(1),0)/>”屬下。",0,1,0,1,6
 16,"公會轉到了“<Sheet(GrandCompany,IntegerParameter(1),0)/>”屬下。",0,1,0,1,7
-17,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>修改了“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”階級的設置。",4,5,0,3,3
+17,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>修改了“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”階級的設定。",4,5,0,3,3
 18,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>添加了“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”階級。",4,5,0,3,3
 19,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>刪除了“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”階級。",4,5,0,3,3
 20,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>修改了階級的排序。",4,0,0,3,3
@@ -105,7 +105,7 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 101,"潛水艇“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”升為<Value>IntegerParameter(1)</Value>級。",16,15,1,9,14
 102,"通過潛水艇“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”的探索，工坊可以登記第<Value>IntegerParameter(1)</Value>艘潛水艇了。",16,15,1,9,14
 103,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>刪除了<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>的留言。",16,23,0,5,11
-104,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>修改了交流簿的設置。",16,0,0,5,11
+104,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>修改了交流簿的設定。",16,0,0,5,11
 105,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>設定了房屋宣傳標籤。",16,0,0,5,11
 106,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>改建了“<If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>”的內部。",16,15,0,5,11
 107,"",0,0,0,0,0

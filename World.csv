@@ -845,11 +845,11 @@ int32,str,str,byte,byte,WorldDCGroupType,bit&01
 4002,"TcTest3","測試3區",4,151,151,False
 4003,"tccontents1","tccontents1",4,0,0,False
 4004,"tccontents2","tccontents2",4,0,0,False
-4020,"t-euteles","t-euteles",4,151,151,False
-4021,"t-huetii","t-huetii",4,151,151,False
+4020,"t-euteles","陸行鳥t-euteles",4,151,151,False
+4021,"t-huetii","陸行鳥t-huetii",4,151,151,False
 4022,"t-contents1","t-contents1",4,0,0,False
-4023,"td-surda","td-surda",4,151,151,False
-4024,"td-ornatus","td-ornatus",4,151,151,False
+4023,"td-surda","陸行鳥td-surda",4,151,151,False
+4024,"td-ornatus","陸行鳥td-ornatus",4,151,151,False
 4025,"td-contents1","td-contents1",4,0,0,False
 4026,"t-contents2","t-contents2",4,0,0,False
 4027,"td-contents2","td-contents2",4,0,0,False

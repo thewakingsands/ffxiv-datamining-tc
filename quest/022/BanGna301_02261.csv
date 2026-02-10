@@ -54,14 +54,14 @@ int32,str,str
 45,"TEXT_BANGNA301_02261_TODO_21",""
 46,"TEXT_BANGNA301_02261_TODO_22",""
 47,"TEXT_BANGNA301_02261_TODO_23",""
-48,"TEXT_BANGNA301_02261_SEARCHER_000_000","嘁嘁嘁……人類冒險者啊，
+48,"TEXT_BANGNA301_02261_SEARCHER_000_000","嘖嘖嘖……人類冒險者啊，
 尾羽部落送來委託了哦。
 還是那個<Sheet(EventItem,2001951,0)/>，希望你能去收集一下。"
 49,"TEXT_BANGNA301_02261_SEARCHER_000_001","你去荒煙野地討伐幼年枯樹妖，
 然後從它身上把富有彈力的樹枝拿來。
 雖然不能保證肯定能找到，但是巡視3個地方應該就足夠了。"
 50,"TEXT_BANGNA301_02261_SYSTEM_100_000","在附近張望過後，並沒見到<Sheet(BNpcName,4713,0)/>……"
-51,"TEXT_BANGNA301_02261_SEARCHER_000_010","嘁嘁嘁……回來啦。
+51,"TEXT_BANGNA301_02261_SEARCHER_000_010","嘖嘖嘖……回來啦。
 拿到<Sheet(EventItem,2001951,0)/>了嗎？"
 52,"TEXT_BANGNA301_02261_SEARCHER_000_011","拿到了2隻的量啊……辛苦你了，謝謝。
 人類好像用這種樹枝來製作狩獵陸行鳥的箭。

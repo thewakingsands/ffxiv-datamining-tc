@@ -162,7 +162,7 @@ int32,str,str
 分隊員們會對玩家的目標發動攻擊。"
 107,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_345","發動「號令：撤退」後，
 分隊員們會暫時停止戰鬥，並前往玩家身邊集合。"
-108,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_346","另外，「號令：撤退」被髮動後，
+108,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_346","另外，「號令：撤退」被發動後，
 將會變為「號令：撤退解除」。"
 109,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_347","因此，想要解除撤退號令時，
 可以選擇發動「號令：撤退解除」或「號令：戰鬥開始」。"

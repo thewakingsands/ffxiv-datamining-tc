@@ -531,7 +531,7 @@ int32,str
 3：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>參之牙【咬擊】<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 4：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>壹之牙【切割】<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 5：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>貳之牙【疾速】<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-6：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>參之牙【噛碎】<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+6：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>參之牙【嚙碎】<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※吞天巨蛇成功時，且祖靈降臨狀態中，變為祖靈之牙【壹】。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※祖靈之牙【壹】成功時，且祖靈降臨狀態中，變為祖靈之牙【貳】。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>

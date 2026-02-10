@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HEAVNZ401_01819_SEQ_00","莫古利之家的莫古雷有些在意水源附近的情況。"
-1,"TEXT_HEAVNZ401_01819_SEQ_01","莫古雷正因為無法靠近水源而困擾著。前往德拉瓦尼亞雲海，在招惡荒島的水源討伐3隻<Sheet(BNpcName,3614,0)/>。"
-2,"TEXT_HEAVNZ401_01819_SEQ_02","討伐了<Sheet(BNpcName,3614,0)/>。向莫古利之家的莫古雷報告。"
-3,"TEXT_HEAVNZ401_01819_SEQ_03","向莫古雷報告完畢。原來莫古雷是受不了<Sheet(BNpcName,3614,0)/>的魚腥味。"
+0,"TEXT_HEAVNZ401_01819_SEQ_00","莫古利之家的莫古噗有些在意水源附近的情況。"
+1,"TEXT_HEAVNZ401_01819_SEQ_01","莫古噗正因為無法靠近水源而困擾著。前往德拉瓦尼亞雲海，在招惡荒島的水源討伐3隻<Sheet(BNpcName,3614,0)/>。"
+2,"TEXT_HEAVNZ401_01819_SEQ_02","討伐了<Sheet(BNpcName,3614,0)/>。向莫古利之家的莫古噗報告。"
+3,"TEXT_HEAVNZ401_01819_SEQ_03","向莫古噗報告完畢。原來莫古噗是受不了<Sheet(BNpcName,3614,0)/>的魚腥味。"
 4,"TEXT_HEAVNZ401_01819_SEQ_04","空"
 5,"TEXT_HEAVNZ401_01819_SEQ_05","空"
 6,"TEXT_HEAVNZ401_01819_SEQ_06","空"
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_HEAVNZ401_01819_SEQ_22","空"
 23,"TEXT_HEAVNZ401_01819_SEQ_23","空"
 24,"TEXT_HEAVNZ401_01819_TODO_00","討伐<Sheet(BNpcName,3614,0)/>"
-25,"TEXT_HEAVNZ401_01819_TODO_01","向莫古雷報告"
+25,"TEXT_HEAVNZ401_01819_TODO_01","向莫古噗報告"
 26,"TEXT_HEAVNZ401_01819_TODO_02","空"
 27,"TEXT_HEAVNZ401_01819_TODO_03","空"
 28,"TEXT_HEAVNZ401_01819_TODO_04","空"

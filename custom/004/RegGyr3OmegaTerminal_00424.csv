@@ -14,7 +14,7 @@ int32,str,str
 7,"TEXT_REGGYR3OMEGATERMINAL_00424_A1_000_130","取消"
 8,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_200","嗶嗶……沙沙沙……
 分公司的員工們！
-早上好，今天也是美好的一天！"
+早安，今天也是美好的一天！"
 9,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_201","昨天睡好了嗎？吃好了嗎？
 老縮在工坊裡，眼睛還受得了嗎？"
 10,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_202","為了治癒目光如死魚一般疲倦的各位，
@@ -32,7 +32,7 @@ int32,str,str
 牢記加隆德煉鐵廠的社訓！"
 16,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_220","嗶嗶……沙沙沙……
 分公司的員工們！
-早上好，今天也是美好的一天！"
+早安，今天也是美好的一天！"
 17,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_221","現在正在播放的是用音樂治癒大家的疲憊、
 幫助大家恢復身心健康的……
 零式項目第2期。"
@@ -48,7 +48,7 @@ int32,str,str
 傾聽……感受……深——入地思考……"
 22,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_240","嗶嗶……沙沙沙……
 分公司的員工們！
-早上好，今天也是美好的一天！"
+早安，今天也是美好的一天！"
 23,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_241","今日為大家獻上治癒身心的零式項目第3期。"
 24,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_242","今日的曲目是……
 嗶——沙沙沙……沙沙……沙沙沙……"
@@ -200,7 +200,7 @@ int32,str,str
 卻被其逃離了星球。"
 88,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_564","於是漫長的追逐劇拉開了帷幕。
 在這個過程中，
-歐米茄因故障丟失了關於母星位置的情報。"
+歐米茄因故障遺失了關於母星位置的情報。"
 89,"TEXT_REGGYR3OMEGATERMINAL_00424_OMEGATERMINAL_000_565","即便如此它也沒有放棄追蹤幻龍米德加爾特……
 它確認到幻龍米德加爾特的反應消失的地方有一顆星球。
 ……也就是我們所居住的星球。"

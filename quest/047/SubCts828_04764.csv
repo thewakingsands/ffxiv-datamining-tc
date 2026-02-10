@@ -84,8 +84,8 @@ int32,str,str
 隨意改變小仙女的形態。
 那麼再見了！"
 64,"TEXT_SUBCTS828_04764_SYSTEM_000_022","可以使用<UIForeground>F20222</UIForeground><Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground>改變召喚獸的外形了。"
-65,"TEXT_SUBCTS828_04764_SYSTEM_000_023","例如，想要將朝日小仙女的外形改變成卡邦庫爾 紅寶石時，
-輸入「<UIForeground>F20222</UIForeground><Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground> 朝日小仙女 卡邦庫爾 紅寶石」即可進行改變。"
+65,"TEXT_SUBCTS828_04764_SYSTEM_000_023","例如，想要將朝日小仙女的外形改變成卡邦庫爾-紅寶石時，
+輸入「<UIForeground>F20222</UIForeground><Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground> 朝日小仙女 卡邦庫爾-紅寶石」即可進行改變。"
 66,"TEXT_SUBCTS828_04764_SYSTEM_000_024","輸入<UIForeground>F20222</UIForeground>/? <Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground>
 或在「巨集管理」的「文字指令一覽」中可以查看更詳細的說明。
 請試著將小仙女變成自己喜歡的樣子吧。"

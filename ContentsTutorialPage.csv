@@ -43,12 +43,12 @@ int32,Image,str
 如果目前還有未滿80級的職業，請務必積極地善用等級同步規則！"
 6,86803,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■不知道該怎麼辦了！　這種時候……<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-甘戈斯的謝羅斯以及任務內的其他非玩家角色
+甘戈斯的謝羅斯以及任務內的其他NPC角色
 將會為你解說規則及系統等事項。
-如有不明，請積極地向非玩家角色詢問！"
+如有不清楚之處，請積極地向NPC角色詢問！"
 7,86804,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>來體驗新的冒險——挑戰迷宮吧！<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-挑戰迷宮時需要和<UIForeground>0F</UIForeground>其他的玩家<UIForeground>01</UIForeground>或<UIForeground>0F</UIForeground>非玩家角色<UIForeground>01</UIForeground>合作，一路討伐魔物、解開機關，最終<UIForeground>0F</UIForeground>打倒迷宮深處的強敵後可以獲得獎勵<UIForeground>01</UIForeground>。
+挑戰迷宮時需要和<UIForeground>0F</UIForeground>其他的玩家<UIForeground>01</UIForeground>或<UIForeground>0F</UIForeground>NPC角色<UIForeground>01</UIForeground>合作，一路討伐魔物、解開機關，最終<UIForeground>0F</UIForeground>打倒迷宮深處的強敵後可以獲得獎勵<UIForeground>01</UIForeground>。
 此外，<UIForeground>0F</UIForeground>推進部分劇情進展時，需要成功完成對應的迷宮挑戰<UIForeground>01</UIForeground>。
 挑戰迷宮時會設有時間限制，挑戰途中無法變更職業或特職。
 下一頁將說明如何進入迷宮。
@@ -66,13 +66,13 @@ int32,Image,str
 我們將這個系統稱呼為<UIForeground>0F</UIForeground>劇情輔助器<UIForeground>01</UIForeground>。
 
 可以使用劇情輔助器的迷宮，在入口處會設有<UIForeground>0F</UIForeground>進入點和劇情輔助器可用的圖示<UIForeground>01</UIForeground>。"
-10,86807,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宮吧——善用輔助隊員挑戰迷宮·續<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+10,86807,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宮吧——善用輔助隊員挑戰迷宮‧續<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 訪問進入點，選擇<UIForeground>0F</UIForeground>和輔助隊員進入<UIForeground>01</UIForeground>後，
 將會打開<UIForeground>0F</UIForeground>劇情輔助器視窗<UIForeground>01</UIForeground>。
 
 <UIForeground>0F</UIForeground>輔助隊員的職業或特職<UIForeground>01</UIForeground>會根據你當前的職業或特職<UIForeground>0F</UIForeground>自動調整<UIForeground>01</UIForeground>為最佳組合。
-<UIForeground>0F</UIForeground>按下進入按鈕後<UIForeground>01</UIForeground>就可以與非玩家角色一同挑戰迷宮了！"
+<UIForeground>0F</UIForeground>按下進入按鈕後<UIForeground>01</UIForeground>就可以與NPC角色一同挑戰迷宮了！"
 11,86808,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>前往迷宮吧——與其他玩家組隊挑戰迷宮<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>0F</UIForeground>任務搜尋器<UIForeground>01</UIForeground>是供<UIForeground>0F</UIForeground>不同玩家<UIForeground>01</UIForeground>組成小隊
@@ -134,8 +134,8 @@ int32,Image,str
 探索時可以使用2種不同的多變技能，也可以隨時透過專用的視窗更換多變技能。"
 18,86813,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>進入方法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-進入多變迷宮時，需要與<UIForeground>0F</UIForeground>入口處的非玩家角色對話<UIForeground>01</UIForeground>，
-或者選擇設定選單“任務情報”的“<UIForeground>0F</UIForeground>特殊迷宮探索器<UIForeground>01</UIForeground>”，
+進入多變迷宮時，需要與<UIForeground>0F</UIForeground>入口處的NPC角色對話<UIForeground>01</UIForeground>，
+或者選擇設定選單「任務情報」的「<UIForeground>0F</UIForeground>特殊迷宮探索器<UIForeground>01</UIForeground>」，
 打開專用的視窗進入多變迷宮。
 
 有關多變技能的設置、閱讀已發現的故事以及特殊迷宮探索相關的內容，

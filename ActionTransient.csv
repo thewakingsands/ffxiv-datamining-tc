@@ -238,7 +238,7 @@ int32,str
 76,"對目標發動物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>減速20%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(72),14))><If(Equal(PlayerParameter(68),4))>20<Else/><If(Equal(PlayerParameter(68),22))>20<Else/>10</If></If><Else/>10</If>秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>※PvP區域內的持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(72),14))><If(Equal(PlayerParameter(68),4))>10<Else/><If(Equal(PlayerParameter(68),22))>10<Else/>6</If></If><Else/>6</If>秒"
-77,"一定時間內，提升自身<If(GreaterThanOrEqualTo(PlayerParameter(72),20))><If(Equal(PlayerParameter(68),4))>80<Else/><If(Equal(PlayerParameter(68),22))>80<Else/>40</If></If><Else/>40</If>%的招架發動力
+77,"一定時間內，提升自身<If(GreaterThanOrEqualTo(PlayerParameter(72),20))><If(Equal(PlayerParameter(68),4))>80<Else/><If(Equal(PlayerParameter(68),22))>80<Else/>40</If></If><Else/>40</If>%的招架發動率
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒"
 78,"對目標發動物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),22))><If(GreaterThanOrEqualTo(PlayerParameter(72),76))>130<Else/>100</If><Else/>100</If>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>連擊條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),22))><If(GreaterThanOrEqualTo(PlayerParameter(72),76))>精準刺或龍眼雷電<Else/>精準刺</If><Else/>精準刺</If>
@@ -3803,9 +3803,9 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>※PvP區域內的持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8秒
 發動之後會停止自動攻擊
 與<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“傷腿擊”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>共用複唱時間"
-2885,"提高浮空砲塔普通攻擊技能的威力
+2885,"提高浮游砲塔普通攻擊技能的威力
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>浮空砲塔處於設置狀態"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>浮游砲塔處於設置狀態"
 2886,"對目標發動物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>沉默　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒<If(GreaterThanOrEqualTo(PlayerParameter(72),45))><If(Equal(PlayerParameter(68),31))>
 與<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>“鎮定彈”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>共用複唱時間<Else/></If><Else/></If>"
@@ -4433,8 +4433,8 @@ int32,str
 3484,""
 3485,""
 3486,""
-3487,"回收已設置的浮空砲塔
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>浮空砲塔處於設置狀態"
+3487,"回收已設置的浮游砲塔
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>浮游砲塔處於設置狀態"
 3488,""
 3489,""
 3490,""
@@ -8920,7 +8920,7 @@ int32,str
 7403,"一定時間內，<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天之印<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>地之印<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>人之印<UIGlow>01</UIGlow><UIForeground>01</UIForeground>變為忍術
 每次發動忍術後會變為別的忍術，最多可發動3種忍術
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
-效果時間內無法發動忍術之外的技能，移動後會立即解除天地人
+效果時間內無法發動忍術之外的技能
 <If(Equal(PlayerParameter(68),30))><If(GreaterThanOrEqualTo(PlayerParameter(72),100))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天理人道預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>非<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>活殺自在<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中"
@@ -19707,7 +19707,7 @@ int32,str
 若自身已經附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>暗黑<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態，則持續時間延長30秒
 最多可延長至60秒
 與<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>暗影波動<UIGlow>01</UIGlow><UIForeground>01</UIForeground>共用複唱時間"
-16471,"一定時間內，令自身和周圍隊員所受到的魔法傷害減輕5%、魔法傷害減經10%
+16471,"一定時間內，令自身和周圍隊員所受到的物理傷害減輕5%、魔法傷害減輕10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒"
 16472,"令“英雄的掠影”變為實體與自身並肩作戰
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
@@ -19856,7 +19856,7 @@ int32,str
 16501,"啟動后型自走人偶
 后型自走人偶發動的技能的威力隨發動該技能時消耗的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>電能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>而變動
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>運轉時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>12秒
-運轉時間結束後，或發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>超後后型人偶<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後，后型自走人偶會被回收
+運轉時間結束後，或發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>超檔后型人偶<UIGlow>01</UIGlow><UIForeground>01</UIForeground>後，后型自走人偶會被回收
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>電能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50點以上
 與<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>超檔后型人偶<UIGlow>01</UIGlow><UIForeground>01</UIForeground>共用複唱時間"
 16502,"命令設置的后型自走人偶發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>打樁槍<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -19997,7 +19997,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>赤火光<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>赤神聖<UIGlow>01</UIGlow><UIForeground>01</UIForeground>成功時
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※該技能無法設置到快速鍵
-　滿足發動條件後，<If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),84))>激蕩<Else/>震盪</If><Else/>震盪</If>和衝擊變為焦熱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+　滿足發動條件後，<If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),84))>激盪<Else/>震盪</If><Else/>震盪</If>和衝擊變為焦熱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 16531,"恢復目標的HP　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),24))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>800<Else/>700</If><Else/>700</If>
 <If(Equal(PlayerParameter(68),24))><If(GreaterThanOrEqualTo(PlayerParameter(72),74))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>血百合<UIGlow>01</UIGlow><UIForeground>01</UIForeground>開放
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>治療百合<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -20362,91 +20362,91 @@ int32,str
 16788,""
 16789,""
 16790,""
-16791,"令卡邦庫爾 黃寶石發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黃寶石之輝<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+16791,"令卡邦庫爾-黃寶石發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黃寶石之輝<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 對召喚該召喚獸的召喚士附加能夠抵禦一定傷害的防護罩
 該防護罩能夠抵消相當於目標最大HP30%的傷害量
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且卡邦庫爾 黃寶石處於同行狀態
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且卡邦庫爾-黃寶石處於同行狀態
 該魔法有單獨計算的複唱時間"
-16792,"令卡邦庫爾 黃寶石發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黃寶石之光<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+16792,"令卡邦庫爾-黃寶石發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黃寶石之光<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 對自身周圍的敵人發動土屬性範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且卡邦庫爾 黃寶石處於同行狀態
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且卡邦庫爾-黃寶石處於同行狀態
 該魔法有單獨計算的複唱時間"
-16793,"令卡邦庫爾 綠寶石發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>下行突風<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+16793,"令卡邦庫爾-綠寶石發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>下行突風<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 對目標及其周圍敵人發動風屬性範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>100
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且卡邦庫爾 綠寶石處於同行狀態
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且卡邦庫爾-綠寶石處於同行狀態
 該魔法有單獨計算的複唱時間"
-16794,"令卡邦庫爾 綠寶石發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>綠寶石之輝<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+16794,"令卡邦庫爾-綠寶石發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>綠寶石之輝<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 對目標及其周圍敵人發動風屬性範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以目標為中心產生傷害區域
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>9秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且卡邦庫爾 綠寶石處於同行狀態
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且卡邦庫爾-綠寶石處於同行狀態
 該魔法有單獨計算的複唱時間"
-16795,"令泰坦 艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>大地之鎧<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+16795,"令泰坦-艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>大地之鎧<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 對召喚該召喚獸的召喚士附加能夠抵禦一定傷害的防護罩
 該防護罩能夠抵消相當於目標最大HP30%的傷害量
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且泰坦 艾基處於同行狀態
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且泰坦-艾基處於同行狀態
 該魔法有單獨計算的複唱時間"
-16796,"令泰坦 艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>山崩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+16796,"令泰坦-艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>山崩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 對自身周圍的敵人發動土屬性範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且泰坦 艾基處於同行狀態
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且泰坦-艾基處於同行狀態
 該魔法有單獨計算的複唱時間"
-16797,"令迦樓羅 艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>大氣斬<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+16797,"令迦樓羅-艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>大氣斬<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 對目標及其周圍敵人發動風屬性範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>150
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且迦樓羅 艾基處於同行狀態
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且迦樓羅-艾基處於同行狀態
 該魔法有單獨計算的複唱時間"
-16798,"令迦樓羅 艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>螺旋氣流<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+16798,"令迦樓羅-艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>螺旋氣流<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 對目標及其周圍敵人發動風屬性範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以目標為中心產生傷害區域
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>9秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且迦樓羅 艾基處於同行狀態
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且迦樓羅-艾基處於同行狀態
 該魔法有單獨計算的複唱時間"
-16799,"令伊弗利特 艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>深紅旋風<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+16799,"令伊弗利特-艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>深紅旋風<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 對目標發動火屬性魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且伊弗利特 艾基處於同行狀態
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且伊弗利特-艾基處於同行狀態
 該魔法有單獨計算的複唱時間"
-16800,"令伊弗利特 艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>烈焰碎擊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+16800,"令伊弗利特-艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>烈焰碎擊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 對自身周圍的敵人發動火屬性範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>250
 攻擊複數敵人時，對第一個之外的敵人威力降低50%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且伊弗利特 艾基處於同行狀態
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且伊弗利特-艾基處於同行狀態
 該魔法有單獨計算的複唱時間"
-16801,"令泰坦 艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>大地之怒<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+16801,"令泰坦-艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>大地之怒<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 對自身周圍的敵人發動範圍土屬性魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>生成範圍傷害區域
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且泰坦 艾基處於同行狀態"
-16802,"令迦樓羅 艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>大氣爆發<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且泰坦-艾基處於同行狀態"
+16802,"令迦樓羅-艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>大氣爆發<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 對目標及其周圍敵人發動風屬性範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>350
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且迦樓羅 艾基處於同行狀態"
-16803,"令伊弗利特 艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>地獄之火炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且迦樓羅-艾基處於同行狀態"
+16803,"令伊弗利特-艾基發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>地獄之火炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 向目標所在方向發出火屬性扇形範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火屬性持續傷害
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且伊弗利特 艾基處於同行狀態"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身處於戰鬥狀態且伊弗利特-艾基處於同行狀態"
 16804,"躍向目標並發動物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>束縛<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態下無法發動"
@@ -31390,41 +31390,41 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒<If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),96))>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>灼熱之閃預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒<Else/></If><Else/></If>"
-25802,"召喚卡邦庫爾 紅寶石並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>紅寶石之輝<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+25802,"召喚卡邦庫爾-紅寶石並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>紅寶石之輝<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-令卡邦庫爾 紅寶石接近目標並發動火屬性魔法攻擊
+令卡邦庫爾-紅寶石接近目標並發動火屬性魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為自身附加2階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>火屬性乙太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火屬性乙太效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>寶石耀及寶石輝變為火屬性魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>卡邦庫爾處於同行狀態且<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>紅寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
-卡邦庫爾 紅寶石顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
-25803,"召喚卡邦庫爾 黃寶石並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黃寶石之輝<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+卡邦庫爾-紅寶石顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
+25803,"召喚卡邦庫爾-黃寶石並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黃寶石之輝<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-令卡邦庫爾 黃寶石接近目標並發動土屬性魔法攻擊
+令卡邦庫爾-黃寶石接近目標並發動土屬性魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為自身附加4階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>土屬性乙太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>土屬性乙太效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>寶石耀及寶石輝變為土屬性魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>卡邦庫爾處於同行狀態且<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黃寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
-卡邦庫爾 黃寶石顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
-25804,"召喚卡邦庫爾 綠寶石並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>綠寶石之輝<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+卡邦庫爾-黃寶石顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
+25804,"召喚卡邦庫爾-綠寶石並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>綠寶石之輝<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-令卡邦庫爾 綠寶石對目標發動風屬性魔法攻擊
+令卡邦庫爾-綠寶石對目標發動風屬性魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為自身附加4階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>風屬性乙太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>風屬性乙太效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>寶石耀及寶石輝變為風屬性魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>卡邦庫爾處於同行狀態且<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>綠寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
-卡邦庫爾 綠寶石顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
-25805,"召喚伊弗利特 艾基並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>地獄之火炎<Else/>燃火強襲</If><Else/>燃火強襲</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+卡邦庫爾-綠寶石顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
+25805,"召喚伊弗利特-艾基並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>地獄之火炎<Else/>燃火強襲</If><Else/>燃火強襲</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>令伊弗利特 艾基接近目標並對前方5米發動火屬性扇形範圍魔法攻擊
+<If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>令伊弗利特-艾基接近目標並對前方5米發動火屬性扇形範圍魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
 攻擊複數敵人時，對目標之外的敵人威力降低60%
-<Else/>令伊弗利特 艾基接近目標並發動火屬性魔法攻擊
+<Else/>令伊弗利特-艾基接近目標並發動火屬性魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
-</If><Else/>令伊弗利特 艾基接近目標並發動火屬性魔法攻擊
+</If><Else/>令伊弗利特-艾基接近目標並發動火屬性魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
 </If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為自身附加2階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>火屬性乙太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
@@ -31433,24 +31433,24 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
 發動其他召喚技能會導致該效果消失
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>卡邦庫爾處於同行狀態且<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>紅寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
-伊弗利特 艾基顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
-25806,"召喚泰坦 艾基並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>大地之怒<Else/>岩石破壞者</If><Else/>岩石破壞者</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+伊弗利特-艾基顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
+25806,"召喚泰坦-艾基並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>大地之怒<Else/>岩石破壞者</If><Else/>岩石破壞者</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>令泰坦 艾基接近目標並對自身周圍5米以內的敵人發動土屬性範圍魔法攻擊
+<If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>令泰坦-艾基接近目標並對自身周圍5米以內的敵人發動土屬性範圍魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>600
 攻擊複數敵人時，對目標之外的敵人威力降低60%
-<Else/>令泰坦 艾基接近目標並發動土屬性魔法攻擊
+<Else/>令泰坦-艾基接近目標並發動土屬性魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
-</If><Else/>令泰坦 艾基接近目標並發動土屬性魔法攻擊
+</If><Else/>令泰坦-艾基接近目標並發動土屬性魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
 </If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為自身附加4階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>土屬性乙太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>土屬性乙太效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>寶石耀及寶石輝變為土屬性魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>卡邦庫爾處於同行狀態且<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黃寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
-泰坦 艾基顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
-25807,"召喚迦樓羅 艾基並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>大氣爆發<Else/>大氣斬</If><Else/>大氣斬</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+泰坦-艾基顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
+25807,"召喚迦樓羅-艾基並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>大氣爆發<Else/>大氣斬</If><Else/>大氣斬</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-令迦樓羅 艾基對目標及其周圍5米以內的敵人發動風屬性範圍魔法攻擊
+令迦樓羅-艾基對目標及其周圍5米以內的敵人發動風屬性範圍魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>600<Else/>100</If><Else/>100</If>
 <If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>攻擊複數敵人時，對目標之外的敵人威力降低60%
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為自身附加4階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>風屬性乙太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
@@ -31460,7 +31460,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
 發動其他召喚技能會導致該效果消失
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>卡邦庫爾處於同行狀態且<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>綠寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
-迦樓羅 艾基顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
+迦樓羅-艾基顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
 25808,"對目標發動火屬性魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>火屬性乙太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 該魔法有單獨計算的複唱時間，發動後其他戰技與魔法會進入與該魔法相同的複唱時間
@@ -31633,9 +31633,9 @@ int32,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※該技能無法設置到快速鍵
 　滿足發動條件後，星極超流變為螺旋氣流<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-25838,"召喚伊弗利特·紅寶石並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>地獄之火炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+25838,"召喚伊弗利特-紅寶石並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>地獄之火炎<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-令伊弗利特·紅寶石對目標及其周圍5米以內的敵人發動火屬性範圍魔法攻擊
+令伊弗利特-紅寶石對目標及其周圍5米以內的敵人發動火屬性範圍魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),94))>800<Else/>750</If><Else/>750</If>
 攻擊複數敵人時，對目標之外的敵人威力降低60%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為自身附加2階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>火屬性乙太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
@@ -31645,20 +31645,20 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
 發動其他召喚技能會導致該效果消失
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>卡邦庫爾處於同行狀態且<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>紅寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
-伊弗利特·紅寶石顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
-25839,"召喚泰坦·黃寶石並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>大地之怒<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+伊弗利特-紅寶石顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
+25839,"召喚泰坦-黃寶石並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>大地之怒<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-令泰坦·黃寶石對目標及其周圍5米以內的敵人發動土屬性範圍魔法攻擊
+令泰坦-黃寶石對目標及其周圍5米以內的敵人發動土屬性範圍魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),94))>800<Else/>750</If><Else/>750</If>
 攻擊複數敵人時，對目標之外的敵人威力降低60%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為自身附加4階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>土屬性乙太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>土屬性乙太效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>寶石耀及寶石輝變為土屬性魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>卡邦庫爾處於同行狀態且<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黃寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
-泰坦·黃寶石顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
-25840,"召喚迦樓羅·綠寶石並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>大氣爆發<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+泰坦-黃寶石顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
+25840,"召喚迦樓羅-綠寶石並命其發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>大氣爆發<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-令迦樓羅·綠寶石對目標及其周圍5米以內的敵人發動風屬性範圍魔法攻擊
+令迦樓羅-綠寶石對目標及其周圍5米以內的敵人發動風屬性範圍魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),94))>800<Else/>750</If><Else/>750</If>
 攻擊複數敵人時，對目標之外的敵人威力降低60%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為自身附加4階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>風屬性乙太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
@@ -31668,7 +31668,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
 發動其他召喚技能會導致該效果消失
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>卡邦庫爾處於同行狀態且<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>綠寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
-迦樓羅·綠寶石顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
+迦樓羅-綠寶石顯現時，之前召喚出的卡邦庫爾會被暫時回收，並在顯現時間結束後再次出現"
 25841,"對召喚該卡邦庫爾的召喚士附加能夠抵禦一定傷害的防護罩
 該防護罩能夠抵消相當於目標最大HP20%的傷害量
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
@@ -35739,7 +35739,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
 變身狀態中無法發動淨化之外的技能
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>減少目標2500點MP
-目標處於能透過淨化解除的異常狀態失效、連續劍、刃舞狀態中時無效，同時對非玩家目標及搭乘了兵器的玩家無效"
+目標處於能透過淨化解除的異常狀態失效、連續劍、刃舞狀態中時無效，同時對NPC目標及搭乘了兵器的玩家無效"
 29229,"躍向目標並對目標及其周圍敵人發動範圍魔法攻擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令自身和周圍隊員所受到的傷害減輕10%
@@ -35779,14 +35779,14 @@ int32,str
 以自身或隊員為目標時，令其所帶的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>鼓舞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>激勵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態向周圍隊員身上擴散
 以敵人為目標時，令其所帶的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蠱毒法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蠱毒<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態向周圍的敵人身上擴散
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>擴散時狀態的剩餘持續時間
-沒有對目標附加對應狀態時無效，對非玩家目標及搭乘了兵器的玩家無效
+沒有對目標附加對應狀態時無效，對NPC目標及搭乘了兵器的玩家無效
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 29235,"向目標所在方向發出扇形範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>目標所受到的恢復效果減少25%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒"
 29236,"為自身及周圍隊員附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>疾風之計<UIGlow>01</UIGlow><UIForeground>01</UIForeground>與<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>怒濤之計<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>疾風之計效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>移動速度提高25%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>怒濤之計效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>受到的傷害減輕10%
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>怒濤之計效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻擊傷害提高10%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>為自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>秘策<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>秘策效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>強化<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>鼓舞激勵之策<UIGlow>01</UIGlow><UIForeground>01</UIForeground>和<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蠱毒法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的效果"
@@ -36530,7 +36530,7 @@ int32,str
 該技能能夠解除目標的防禦狀態，並對目標造成傷害
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>對目標附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>隕石衝擊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態，同時附加追加傷害
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3秒
-無法對非玩家目標及搭乘了兵器的玩家附加該狀態
+無法對NPC目標及搭乘了兵器的玩家附加該狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>隕石衝擊效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>身體失去控制，無法發動任何技能
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>隕石衝擊追加傷害量：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4000×3
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>極限槽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>達到最大值
@@ -36710,7 +36710,7 @@ int32,str
 目標HP低於50%時，直接令目標變為無法戰鬥狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>對目標附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死亡連鎖<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
-無法對非玩家目標及搭乘了兵器的玩家附加該狀態
+無法對NPC目標及搭乘了兵器的玩家附加該狀態
 發動該技能令目標陷入無法戰鬥狀態，或附加了死亡連鎖的目標陷入無法戰鬥狀態時，為自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星遁天誅預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8秒
 持續時間內可以再次發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星遁天誅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -36723,7 +36723,7 @@ int32,str
 目標HP低於50%時，直接令目標變為無法戰鬥狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>對目標附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死亡連鎖<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
-無法對非玩家目標及搭乘了兵器的玩家附加該狀態
+無法對NPC目標及搭乘了兵器的玩家附加該狀態
 發動該技能令目標陷入無法戰鬥狀態，或附加了死亡連鎖的目標陷入無法戰鬥狀態時，為自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星遁天誅預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8秒
 持續時間內可以再次發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星遁天誅<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -36811,7 +36811,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>24000
 當目標帶有<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>崩破<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態時，造成最大HP100%的傷害
 該技能不受防禦的效果影響
-此效果對非玩家目標及搭乘了兵器的玩家無效
+此效果對NPC目標及搭乘了兵器的玩家無效
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>極限槽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>達到最大值
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120秒
 束縛狀態下無法發動"
@@ -36898,7 +36898,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>對自身周圍的敵人附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>恐慌<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恐慌效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>受到驚嚇過大無法憑自己意願做出行動
-此效果對非玩家目標及搭乘了兵器的玩家無效
+此效果對NPC目標及搭乘了兵器的玩家無效
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>極限槽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>達到最大值
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒"
 29554,"對目標及其周圍的敵人發動範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15000
@@ -37024,7 +37024,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 無法與<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈極冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>效果共存
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星極火II<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
-該技能發動後變為高階火焰
+該技能發動後變為高階中火焰
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※該技能無法設置到快速鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29651,"對目標及其周圍的敵人發動範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>12000
@@ -37100,7 +37100,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>凍結效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無法行動
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 29662,"為自身附加5階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈魂共鳴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>靈魂共鳴效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火炎變為火光、暴雪變為冰寒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>靈魂共鳴效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火焰變為火光、暴雪變為冰寒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>元素之星<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>元素之星效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星極火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中該技能變為耀星，<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈極冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中該技能變為霜星
@@ -42467,7 +42467,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>銳牙【背裂】效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>參之牙【背裂】的威力提升100
 無法與其他<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>銳牙<UIGlow>01</UIGlow><UIForeground>01</UIForeground>效果共存
 <If(Equal(PlayerParameter(68),41))><If(GreaterThanOrEqualTo(PlayerParameter(72),90))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>獲得10點<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈力值<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>參之牙【猛襲】命中時
+<Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>貳之牙【猛襲】命中時
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※該技能無法設置到快速鍵
 　滿足發動條件後，貳之牙【疾速】變為參之牙【側裂】 <UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -42482,7 +42482,7 @@ int32,str
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>貳之牙【疾速】 命中時
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※該技能無法設置到快速鍵
-　滿足發動條件後，參之牙【猛襲】變為參之牙【背擊】<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+　滿足發動條件後，貳之牙【猛襲】變為參之牙【背擊】<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 34613,"對目標發動物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),41))><If(GreaterThanOrEqualTo(PlayerParameter(72),84))>340<Else/>320</If><Else/>320</If>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>背面攻擊威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(68),41))><If(GreaterThanOrEqualTo(PlayerParameter(72),84))>400<Else/>380</If><Else/>380</If>
 銳牙【背裂】狀態下威力提升100
@@ -42505,7 +42505,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>蛇銳牙【穿裂】 狀態中威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蛇銳牙【咬創】 <UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>60秒
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>壹之大牙【咬創】 效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>壹之牙【咬創】 的威力提升100，壹之大牙【咬創】 的威力提升20
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>蛇銳牙【咬創】 效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>壹之牙【咬創】 的威力提升100，壹之大牙【咬創】 的威力提升20
 無法與<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蛇銳牙【穿裂】 <UIGlow>01</UIGlow><UIForeground>01</UIForeground>效果共存"
 34616,"對自身周圍的敵人發動範圍物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>130
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>猛襲<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -45462,7 +45462,7 @@ int32,str
 36956,"對目標及其周圍敵人發動範圍物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
 攻擊複數敵人時，對目標之外的敵人威力降低50%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>渡星衝預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中"
-36957,"對目標發動物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
+36957,"向目標所在方向發出扇形範圍物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>目標所受傷害提高5%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>用該技能命中敵人後，打倒敵人時有可能會掉落更多的物品
@@ -45741,7 +45741,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>顯貴衝擊預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※該技能無法設置到快速鍵
-　滿足發動條件後，激蕩和衝擊變為顯貴衝擊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+　滿足發動條件後，激盪和衝擊變為顯貴衝擊<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 37007,"對目標及其周圍的敵人發動無屬性範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1000
 攻擊複數敵人時，對目標之外的敵人威力降低60%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>光芒四射預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
@@ -48147,7 +48147,7 @@ GP消耗會隨使用次數增加
 39174,"對目標發動物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4000
 該技能不受防禦的效果影響
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令自身的極限槽值增長3秒的量
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>參之牙【咬擊】或參之牙【噛碎】命中時
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>參之牙【咬擊】或參之牙【嚙碎】命中時
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※該技能無法設置到快速鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 39175,"對目標發動物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4000
@@ -48232,7 +48232,7 @@ GP消耗會隨使用次數增加
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>祖靈降臨<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 同時，自身移動速度提高50%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
-持續時間內，牙體勢連擊變為祖靈之牙【壹】，貳之蛇【血宴】變為祖靈大蛇牙
+持續時間內，牙體勢連擊變為祖靈之牙【壹】，壹之蛇【血宴】變為祖靈大蛇牙
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>對目標附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>毒烈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>毒烈效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身對目標造成的傷害提高25%
@@ -50777,7 +50777,7 @@ GP消耗會隨使用次數增加
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※該技能無法設置到快速鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 41458,"對目標及其周圍敵人發動範圍物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10000
 目標HP低於25%時，直接令目標變為無法戰鬥狀態
-此效果對非玩家目標及搭乘了兵器的玩家無效
+此效果對NPC目標及搭乘了兵器的玩家無效
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>完人預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※該技能無法設置到快速鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -50809,7 +50809,7 @@ GP消耗會隨使用次數增加
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4"
 41467,"對目標及其周圍敵人發動遠距離物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>減少目標5000點MP
-此效果對非玩家目標及搭乘了兵器的玩家無效
+此效果對NPC目標及搭乘了兵器的玩家無效
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>英雄的返場餘音預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※該技能無法設置到快速鍵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"

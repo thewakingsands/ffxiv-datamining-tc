@@ -72,31 +72,31 @@ int32,str,str
 56,"TEXT_JOBSMN451_01095_YMHITRA_000_011","和以往一樣進行冥想，
 想像自己的乙太與該地的強烈屬性相近。"
 57,"TEXT_JOBSMN451_01095_YMHITRA_000_012","再將你的乙太作為源泉，
-即可創造出召喚獸「迦樓羅 艾基」。
+即可創造出召喚獸「迦樓羅-艾基」。
 最後將其降服就行了！"
 58,"TEXT_JOBSMN451_01095_YMHITRA_000_020","做得好，<Highlight>ObjectParameter(1)</Highlight>！
-漂亮地降服了迦樓羅 艾基！"
+漂亮地降服了迦樓羅-艾基！"
 59,"TEXT_JOBSMN451_01095_YMHITRA_000_021","你竟能如此順利地陸續習得各種召喚魔法。
 沒有比你更棒的研究夥伴了！"
 60,"TEXT_JOBSMN451_01095_YMHITRA_000_022","來，我們回碧企鵝瀑布。
 先回去好好休養一下吧。"
-61,"TEXT_JOBSMN451_01095_YMHITRA_000_030","加上迦樓羅 艾基，
+61,"TEXT_JOBSMN451_01095_YMHITRA_000_030","加上迦樓羅-艾基，
 你手上已經有三隻召喚獸了。"
-62,"TEXT_JOBSMN451_01095_YMHITRA_000_031","伊弗利特 艾基、泰坦 艾基和迦樓羅 艾基，
+62,"TEXT_JOBSMN451_01095_YMHITRA_000_031","伊弗利特-艾基、泰坦-艾基和迦樓羅-艾基，
 它們三者的個性不盡相同。"
-63,"TEXT_JOBSMN451_01095_YMHITRA_000_032","迦樓羅 艾基擅長使用遠距離的攻擊魔法。
+63,"TEXT_JOBSMN451_01095_YMHITRA_000_032","迦樓羅-艾基擅長使用遠距離的攻擊魔法。
 這完美的體現了風神狂野的性質。"
 64,"TEXT_JOBSMN451_01095_YMHITRA_000_033","你學會活用性質各異的召喚獸後，
 在今後與特里斯坦的決戰中，就可以搶得先機了吧。"
 65,"TEXT_JOBSMN451_01095_YMHITRA_000_034","……我會繼續搜查特里斯坦的行蹤。
 你現在要養精蓄銳，迎接決戰的來臨。"
 66,"TEXT_JOBSMN451_01095_SYSTEM_000_035","（★未使用／削除予定★）"
-67,"TEXT_JOBSMN451_01095_QIB_001_TODO_1","打倒迦樓羅 艾基！"
+67,"TEXT_JOBSMN451_01095_QIB_001_TODO_1","打倒迦樓羅-艾基！"
 68,"TEXT_JOBSMN451_01095_QIB_001_YMHITRA_BATTLETALK_01","好強烈的風壓！
-迦樓羅 艾基……不愧是小型風神。"
-69,"TEXT_JOBSMN451_01095_QIB_001_YMHITRA_BATTLETALK_02","<Highlight>ObjectParameter(1)</Highlight>！小心迦樓羅 艾基的羽毛！"
+迦樓羅-艾基……不愧是小型風神。"
+69,"TEXT_JOBSMN451_01095_QIB_001_YMHITRA_BATTLETALK_02","<Highlight>ObjectParameter(1)</Highlight>！小心迦樓羅-艾基的羽毛！"
 70,"TEXT_JOBSMN451_01095_QIB_001_YMHITRA_BATTLETALK_03","分……分身？！
-迦樓羅 艾基還能製造分身嗎？！"
+迦樓羅-艾基還能製造分身嗎？！"
 71,"TEXT_JOBSMN451_01095_QIB_001_YMHITRA_BATTLETALK_04","真難纏啊……
 但就差一點了，一鼓作氣解決掉！"
 72,"TEXT_JOBSMN451_01095_QIB_001_YMHITRA_BATTLETALK_DEAD","糟、糟了……大意了……

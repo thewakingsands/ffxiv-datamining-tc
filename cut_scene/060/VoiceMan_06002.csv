@@ -78,7 +78,7 @@ int32,str,str
 37,"TEXT_VOICEMAN_06002_000350_WATCHEROFMOON","<UIForeground>F20223</UIForeground>因為海德林身上所寄託的期望，
 就是人應該放下過去，向前邁進……<UIForeground>01</UIForeground>"
 38,"TEXT_VOICEMAN_06002_000360_YSHTOLA","雖然海德林對我們有所隱瞞，
-但如果沒有她的指引，肯定已經有更多的世界被無影肯定合併了。"
+但如果沒有她的指引，肯定已經有更多的世界被無影合併了。"
 39,"TEXT_VOICEMAN_06002_000370_YSHTOLA","那樣的話，而現在還活著的人，
 恐怕也早已成為了讓古代人復活的祭品……"
 40,"TEXT_VOICEMAN_06002_000380_THANCRED","確實，我就暫時相信你所說的吧。"
@@ -505,7 +505,7 @@ int32,str,str
 這顆星球已經隨時都有可能滅亡。"
 264,"TEXT_VOICEMAN_06002_002580_BARNIER","因此，我們即將展開新的“大撤退”，
 離開這顆星球。"
-265,"TEXT_VOICEMAN_06002_002590_BARNIER","主導本計畫的，就是這為富爾什諾議員。
+265,"TEXT_VOICEMAN_06002_002590_BARNIER","主導本計畫的，就是這位富爾什諾議員。
 他已經在當年德拉瓦尼亞河谷地大撤退時證明過自身的能力了。"
 266,"TEXT_VOICEMAN_06002_002600_FOURCHENAULT","各位擁有知識的朋友，我聰明的同胞們。
 即將發生的這場空前危機，會讓世界陷入前所未有的混亂當中。"
@@ -656,7 +656,7 @@ int32,str,str
 347,"TEXT_VOICEMAN_06002_003310_THANCRED","行了，我回去了，你也快休息吧。
 哦對了，我來找你的事記得保密啊。
 不然我肯定會被罵。"
-348,"TEXT_VOICEMAN_06002_003320_YSHTOLA","晚上好，幸好你還沒睡。"
+348,"TEXT_VOICEMAN_06002_003320_YSHTOLA","你好，幸好你還沒睡。"
 349,"TEXT_VOICEMAN_06002_003330_YSHTOLA","總之你先站在那裡不要動。"
 350,"TEXT_VOICEMAN_06002_003340_YSHTOLA","嗯……似乎沒什麼問題。"
 351,"TEXT_VOICEMAN_06002_003350_YSHTOLA","這是預防措施。

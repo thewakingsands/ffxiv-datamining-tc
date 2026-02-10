@@ -71,7 +71,7 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 67,"聲援小紅",6248,6247,0,0,0,0,0,False,False,False,2,36,False,True,False,False,False,10024,468,64357,8088,8089,383,1
 68,"表情：平常",604,0,604,604,604,604,0,True,True,True,3,0,False,False,False,False,False,20001,469,64101,161,261,0,1
 69,"表情：微笑",605,0,605,605,605,605,0,True,True,True,3,0,False,False,False,False,False,20002,470,64102,162,262,0,1
-70,"表情：笑顏",606,0,606,606,606,606,0,True,True,True,3,0,False,False,False,False,False,20003,471,64103,163,263,0,1
+70,"表情：笑容",606,0,606,606,606,606,0,True,True,True,3,0,False,False,False,False,False,20003,471,64103,163,263,0,1
 71,"表情：自信",607,0,607,607,607,607,0,True,True,True,3,0,False,False,False,False,False,20007,472,64104,164,264,0,1
 72,"表情：無畏",608,0,608,608,608,608,0,True,True,True,3,0,False,False,False,False,False,20008,473,64105,165,265,0,1
 73,"表情：閉目",611,0,611,611,611,611,0,True,True,True,3,0,False,False,False,False,False,20009,474,64106,166,266,0,1
@@ -134,7 +134,7 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 130,"戰隊演武正紅一式",4785,4784,0,0,0,0,0,False,False,False,2,15,False,True,False,False,False,10012,531,64094,8008,8009,315,1
 131,"戰隊演武正黑二式",4789,4788,0,0,0,0,0,False,False,False,2,16,False,True,False,False,False,10014,532,64095,8010,8011,316,1
 132,"戰隊演武正黃三式",4787,4786,0,0,0,0,0,False,False,False,2,17,False,True,False,False,False,10016,533,64096,8012,8013,317,1
-133,"表情：右飛眼",621,0,621,621,621,621,0,True,True,True,3,0,False,False,False,False,False,20004,534,64118,8014,8015,0,1
+133,"表情：拋媚眼右",621,0,621,621,621,621,0,True,True,True,3,0,False,False,False,False,False,20004,534,64118,8014,8015,0,1
 134,"戰隊演武逆紅一式",4793,4792,0,0,0,0,0,False,False,False,2,18,False,True,False,False,False,10013,535,64097,8016,8017,315,1
 135,"戰隊演武逆黑二式",4797,4796,0,0,0,0,0,False,False,False,2,19,False,True,False,False,False,10015,536,64098,8018,8019,316,1
 136,"戰隊演武逆黃三式",4795,4794,0,0,0,0,0,False,False,False,2,20,False,True,False,False,False,10017,537,64099,8020,8021,317,1
@@ -152,7 +152,7 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 148,"托眼鏡",4676,0,4677,4677,4677,0,0,True,True,True,1,0,False,True,False,False,False,6003,549,64335,8042,8043,334,1
 149,"小黃鶯之舞",4818,4817,0,0,0,0,0,False,False,False,2,23,False,True,False,False,False,10019,550,64336,8044,8045,335,1
 150,"浮水",0,4806,0,0,4807,0,0,False,True,False,2,24,False,True,False,False,False,11001,551,64337,0,0,0,1
-151,"水中翻跟頭",0,0,0,0,4808,0,0,False,False,True,1,0,False,True,False,False,False,6004,552,64338,0,0,340,1
+151,"水中翻跟斗",0,0,0,0,4808,0,0,False,False,True,1,0,False,True,False,False,False,6004,552,64338,0,0,340,1
 152,"表情：嘟嘴",623,0,623,623,623,623,0,True,True,True,3,0,False,False,False,False,False,20018,553,64120,8046,8047,0,1
 153,"蓄力迸發",4825,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,6005,554,64339,8048,8049,343,1
 154,"行東方禮",4829,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,2,555,64340,8050,8051,68016,1
@@ -185,7 +185,7 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 181,"好冷",6239,6238,0,0,0,0,0,False,False,False,2,43,False,True,False,False,False,11010,582,64368,8118,8119,264,1
 182,"說明",6224,0,6225,6225,6225,0,0,True,True,True,1,0,False,True,False,False,False,6007,583,64369,8120,8121,265,1
 183,"表情：思索",6261,0,6261,6261,6261,6261,0,True,True,True,3,0,False,False,False,False,False,20027,584,64129,8122,8123,68612,1
-184,"表情：左飛眼",6262,0,6262,6262,6262,6262,0,True,True,True,3,0,False,False,False,False,False,20005,585,64130,8124,8125,0,1
+184,"表情：拋媚眼左",6262,0,6262,6262,6262,6262,0,True,True,True,3,0,False,False,False,False,False,20005,585,64130,8124,8125,0,1
 185,"幻想舞步",6294,6293,0,0,0,0,0,False,False,False,2,44,False,True,False,False,False,10103,586,64370,8126,8127,393,1
 186,"波波托步",6296,6295,0,0,0,0,0,False,False,False,2,45,False,True,False,False,False,10104,587,64371,8128,8129,394,1
 187,"哼歌",6271,6270,0,0,0,0,0,False,False,False,2,46,False,True,False,False,False,10107,588,64372,8130,8131,68688,1
@@ -198,7 +198,7 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 194,"心意",6297,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,3100,595,64378,8144,8145,68700,1
 195,"振作精神",6278,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,3101,596,64379,8146,8147,234,1
 196,"提醒",6277,6276,0,0,0,0,0,False,False,False,2,51,False,True,False,False,False,11015,597,64380,8148,8149,235,1
-197,"優雅仙人掌",6250,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,3102,598,64381,8150,8151,236,1
+197,"優雅仙人掌怪",6250,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,3102,598,64381,8150,8151,236,1
 198,"紳士舞步",6305,6304,0,0,0,0,0,False,False,False,2,52,False,True,False,False,False,10108,599,64382,8152,8153,68704,1
 199,"啦哩吼",7333,0,7334,7334,7334,0,0,True,True,True,1,0,False,True,False,False,False,13,600,64383,8154,8155,69095,1
 200,"歐米茄M架勢",6307,6306,0,0,0,0,0,False,False,False,2,53,False,True,False,False,False,12005,601,64384,8156,8157,75,1

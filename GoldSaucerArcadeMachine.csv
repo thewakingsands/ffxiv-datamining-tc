@@ -32,7 +32,7 @@ int32,byte,byte,byte,byte,uint16,byte,Image,sbyte,sbyte,sbyte,uint32,byte,sbyte,
 
 泰坦：4次
 毛爾波爾：5次
-仙人掌：6次
+仙人掌怪：6次
 
 可供採掘的次數越少，
 能獲得的金碟幣就越多。","揮下十字鎬來採掘礦石！
@@ -47,7 +47,7 @@ int32,byte,byte,byte,byte,uint16,byte,Image,sbyte,sbyte,sbyte,uint32,byte,sbyte,
 
 泰坦：非常快
 毛爾波爾：快
-仙人掌：慢
+仙人掌怪：慢
 
 速度越快，能獲得的金碟幣就越多。","揮下手斧來砍伐樹木！
 

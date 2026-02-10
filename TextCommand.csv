@@ -9,7 +9,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 發起記錄準備確認。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>秒數(5-30)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-發起記錄準備確認，全員確認後開啟戰鬥開始倒計時。記錄準備確認完畢後再次使用時功能將變為普通的準備確認加戰鬥開始倒計時。
+發起記錄準備確認，全員確認後開啟戰鬥開始倒數。記錄準備確認完畢後再次使用時功能將變為普通的準備確認加戰鬥開始倒數。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 打開記錄準備確認視窗。","/記錄準備確認","/replayready",0,0
 3,1,0,0,0,0,"/pvpteamcmd","","/戰隊命令
@@ -164,9 +164,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 在跨服通訊貝頻道8中發送消息“大家好！”。
 /跨8
 將默認聊天頻道變更為跨服通訊貝頻道8。","/跨服貝頻道8","/跨8",1021,0
-21,2,0,0,0,0,"/graphicpresets","/gpresets","/圖像設置預設 預設組編號
+21,2,0,0,0,0,"/graphicpresets","/gpresets","/圖像設定預設 預設組編號
 /graphicpresets、/gpreset
-將圖像設置切換為預設設置。
+將圖像設定切換為預設設定。
 
 >>預設組編號（1-5）
 1：標準品質（筆記型電腦）
@@ -175,9 +175,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 4：高品質（桌上型電腦）
 5：最高品質
 
-示例
-/圖像設置預設 1
-將圖像設置切換為“標準品質（筆記型電腦）”。","/圖像設置預設","",993,0
+範例
+/圖像設定預設 1
+將圖像設定切換為“標準品質（筆記型電腦）”。","/圖像設定預設","",993,0
 22,1,0,0,0,0,"/fellowship","/fs","/同好會
 /fellowship、/fs
 打開同好會視窗。","/同好會","",32,0
@@ -214,8 +214,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 在跨服通訊貝1發送隨機擲骰數字。
 /擲骰 跨服貝1 16
 在跨服通訊貝1～16中發送隨機擲骰數字。","/擲骰","",36,1000
-28,3,1,2,0,0,"/nameplatedisp","","/名牌顯示 對象 設置代號/nameplatedisp
-進行玩家名牌顯示設置。
+28,3,1,2,0,0,"/nameplatedisp","","/名牌顯示 對象 設定代號/nameplatedisp
+進行玩家名牌顯示設定。
 >>對象
 全部(all)
 所有玩家為對象
@@ -232,15 +232,15 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>水晶衝突<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(feast)
 水晶衝突中的敵人為對象
 
->>設置代號1-4
+>>設定代號1-4
 1:一直顯示
 2:戰鬥時顯示
 3:選定為目標時顯示
 4:不顯示
 
->>示例
+>>範例
 /名牌顯示 全部 4
-將所有玩家的名牌顯示設置改為不顯示。","/名牌顯示","",36,0
+將所有玩家的名牌顯示設定改為不顯示。","/名牌顯示","",36,0
 29,2,1,20,0,0,"/fashion","","/時尚配飾 時尚配飾名
 /fashion
 使用指定的時尚配飾。
@@ -263,18 +263,18 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 但在PvP任務中無效。
 >>召喚獸的名字
 卡邦庫爾
-迦樓羅 艾基
-泰坦 艾基
-伊弗利特 艾基
+迦樓羅-艾基
+泰坦-艾基
+伊弗利特-艾基
 朝日小仙女
 >>外貌
 卡邦庫爾
-卡邦庫爾 綠寶石
-卡邦庫爾 黃寶石
-卡邦庫爾 紅寶石
-伊弗利特 艾基
-泰坦 艾基
-迦樓羅 艾基
+卡邦庫爾-綠寶石
+卡邦庫爾-黃寶石
+卡邦庫爾-紅寶石
+伊弗利特-艾基
+泰坦-艾基
+迦樓羅-艾基
 夕月小仙女
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>省略外貌或在外貌處輸入“撤除(clear)”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 召喚獸會恢復原狀。
@@ -282,10 +282,10 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 顯示召喚獸的外貌設定列表。
 
 >>示例
-/召喚獸投影 迦樓羅 艾基 卡邦庫爾 紅寶石
-將迦樓羅 艾基的外貌變成卡邦庫爾 紅寶石。
-/召喚獸投影 迦樓羅 艾基
-將迦樓羅 艾基的外貌恢復原狀。
+/召喚獸投影 迦樓羅-艾基 卡邦庫爾-紅寶石
+將迦樓羅-艾基的外貌變成卡邦庫爾-紅寶石。
+/召喚獸投影 迦樓羅-艾基
+將迦樓羅-艾基的外貌恢復原狀。
 /召喚獸投影
 顯示召喚獸的外貌設定列表。","/召喚獸投影","/petmirage",36,0
 34,3,2,7,2,0,"/petsize","","/召喚獸尺寸 召喚獸的名字 尺寸
@@ -297,9 +297,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 >>召喚獸的名字
 亞靈神巴哈姆特
 亞靈神鳳凰
-伊弗利特·紅寶石
-泰坦·黃寶石
-迦樓羅·綠寶石
+伊弗利特-紅寶石
+泰坦-黃寶石
+迦樓羅-綠寶石
 烈日巴哈姆特
 全部
 
@@ -311,8 +311,8 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將召喚獸的顯示尺寸變為“小”。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　按“小→中→大”的順序切換設置。當尺寸目標為全部時，返回錯誤。
->>示例
+　按“小→中→大”的順序切換設定。當尺寸目標為全部時，返回錯誤。
+>>範例
 /召喚獸尺寸 亞靈神巴哈姆特 中
 　將亞靈神巴哈姆特的尺寸變為“中”。
 /召喚獸尺寸 全部 小
@@ -339,32 +339,32 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 打開自己的冒險者銘牌。","/冒險者銘牌","",32,0
 39,2,1,2,0,0,"/rclickpc","","/右鍵不可選中玩家 指令
 /rclickpc 
-設置右鍵不可選中玩家角色作為目標。
+設定右鍵不可選中玩家角色作為目標。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　啟用右鍵不可選中玩家設置。
+　啟用右鍵不可選中玩家設定。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　關閉右鍵不可選中玩家設置。
+　關閉右鍵不可選中玩家設定。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　在開啟與關閉之間切換。","/右鍵不可選中玩家","",36,0
-40,2,1,2,0,0,"/rclickbattlenpc","","/右鍵不可選中非玩家角色 指令
+40,2,1,2,0,0,"/rclickbattlenpc","","/右鍵不可選中NPC角色 指令
 /rclickbattlenpc 
-設置右鍵不可選中敵方或我方非玩家角色作為目標。
+設定右鍵不可選中敵方或我方NPC角色作為目標。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　啟用右鍵不可選中非玩家設置。
+　啟用右鍵不可選中NPC設定。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　關閉右鍵不可選中非玩家設置。
+　關閉右鍵不可選中NPC設定。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　在開啟與關閉之間切換。","/右鍵不可選中非玩家角色","",36,0
+　在開啟與關閉之間切換。","/右鍵不可選中NPC角色","",36,0
 41,2,1,2,0,0,"/rclickminion","","/右鍵不可選中寵物 指令
 /rclickminion 
-設置右鍵不可選中寵物作為目標。
+設定右鍵不可選中寵物作為目標。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　啟用右鍵不可選中寵物設置。
+　啟用右鍵不可選中寵物設定。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　關閉右鍵不可選中寵物設置。
+　關閉右鍵不可選中寵物設定。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　在開啟與關閉之間切換。","/右鍵不可選中寵物","",36,0
 42,2,1,21,0,0,"/facewear","","/面部配飾 “面部配飾名”
@@ -384,7 +384,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 打開面部配飾選單。","/面部配飾選單","/faceaccessorylist",32,0
 46,2,1,2,0,0,"/visualalerts","","/聲音的視覺表現 指令
 /visualalerts
-設置聲音的視覺表現。
+設定聲音的視覺表現。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 將視覺表現設定為有效。
@@ -394,7 +394,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 在開啟與關閉之間切換。","/聲音的視覺表現","",509,0
 47,2,1,2,0,0,"/colorfiltering","","/色覺多樣性 指令
 /colorfiltering
-設置色覺多樣性：顏色輔助。
+設定色覺多樣性：顏色輔助。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 將色覺多樣性：顏色輔助設定為有效。
@@ -618,33 +618,33 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 　將指定玩家關聯的帳號移出黑名單。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　打開黑名單。","/黑名單命令","/黑名單",0,0
-153,20,0,0,0,0,"/search","/sea","/搜索命令(/搜索) 條件
+153,20,0,0,0,0,"/search","/sea","/搜尋命令(/搜尋) 條件
 /search、/sea
-以指定條件搜索玩家，並將結果顯示在玩家搜索視窗中。
+以指定條件搜尋玩家，並將結果顯示在玩家搜尋視窗中。
 >>條件(※可以指定多種條件，順序不限。)
 【指定玩家姓名】
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>名字(name) 玩家名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定的部分作為玩家的名字進行搜索。
+　將指定的部分作為玩家的名字進行搜尋。
 【指定在線狀態】
 隊長(leader)　離開(away)　忙碌(busy)　任務中(contents)　劇情中(event)　希望組隊(lookingforparty)　接受鑲嵌魔晶石請求(lookingformeld)　隊員招募中(recruit)　新人(beginner)　指導者(mentor)　戰鬥指導者(pvementor)　製作採集指導者(tradementor)　PvP指導者(pvpmentor)　角色扮演中(roleplay)　回歸者(returner)
 【指定職業】
 劍術士(GLA)　格鬥士(PGL)　斧術士(MRD)　槍術士(LNC)　弓術士(ARC)　幻術士(CNJ)　雙劍士(ROG)　咒術士(THM)　巴術士(ACN)　木工師(CRP)　鍛造師(BSM)　甲冑師(ARM)　金工師(GSM)　皮革師(LTW)　裁縫師(WVR)　鍊金術師(ALC)　烹調師(CUL)　採掘師(MIN)　園藝師(BTN)　漁師(FSH)　騎士(PLD)　武僧(MNK)　戰士(WAR)　龍騎士(DRG)　吟遊詩人(BRD)　忍者(NIN)　白魔道士(WHM)　黑魔道士(BLM)　召喚士(SMN)　學者(SCH)　暗黑騎士(DRK)　占星術師(AST)　機工士(MCH)　武士(SAM)　赤魔道士(RDM)　青魔道士(BLU)　絕槍戰士(GNB)　舞者(DNC)　奪魂者(RPR)　賢者(SGE)　毒蛇劍士(VPR)　繪靈法師(PCT)
-　※省略該條件會默認為以所有職業為對象進行搜索。
+　※省略該條件會默認為以所有職業為對象進行搜尋。
 【指定等級】
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>數字<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　以指定數字等級作為條件進行搜索。
+　以指定數字等級作為條件進行搜尋。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>數字-數字<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將兩個數字以半角橫線進行連接，會以兩個數字之間的等級範圍內進行搜索。
-　※省略該條件會默認以全等級為範圍進行搜索。
+　將兩個數字以半角橫線進行連接，會以兩個數字之間的等級範圍內進行搜尋。
+　※省略該條件會默認以全等級為範圍進行搜尋。
 【指定所屬軍隊】
 黑渦團(Maelstrom)　雙蛇黨(Order of the Twin Adder)　不滅隊(Immortal Flames)
 　※指令中使用英文名字時需要用半角雙引號將帶有空格的軍隊名引用起來。
 【指定地點】
 全世界(world)　利姆薩·羅敏薩(Limsa Lominsa)　格里達尼亞(Gridania)　烏爾達哈(Ul'dah)　金碟遊樂園(The Gold Saucer)　狼獄(The Wolves' Den)　伊修加爾德(Ishgard)　田園郡(Idyllshire)　黃金港(Kugane)　神拳痕(Rhalgr's Reach)　水晶都(The Crystarium)　遊末邦(Eulmore)　舊薩雷安(Old Sharlayan)　拉札漢(Radz-at-Han)　圖萊尤拉(Tuliyollal)　九號解決方案(Solution Nine)　拉諾西亞(La Noscea)　黑衣森林(The Black Shroud)　薩納蘭(Thanalan)　庫爾札斯(Coerthas)　摩杜納(Mor Dhona)　阿巴拉提亞(Abalathia)　德拉瓦尼亞(Dravania)　基拉巴尼亞(Gyr Abania)　奧薩德(Othard)　諾弗蘭特(Norvrandt)　薩維奈島(Thavnair)　加雷馬(Garlemald)　迷津(Labyrinthos)　尤卡圖拉爾(Yok Tural)　薩卡圖拉爾(Xak Tural)　其他區域
-　※省略該條件會默認為以全世界為對象進行搜索，使用英文名字時需要用半角雙引號將帶有空格的地名引用起來。
->>示例
-/搜索命令 劍術士 20-30 拉諾西亞
-搜索目前位於拉諾西亞，劍術士等級在20～30範圍內的玩家。","/搜索命令","/搜索",0,0
+　※省略該條件會默認為以全世界為對象進行搜尋，使用英文名字時需要用半角雙引號將帶有空格的地名引用起來。
+>>範例
+/搜尋命令 劍術士 20-30 拉諾西亞
+搜尋目前位於拉諾西亞，劍術士等級在20～30範圍內的玩家。","/搜尋命令","/搜尋",0,0
 154,1,0,0,0,0,"/map","","/地圖
 /map
 打開地圖視窗。","/地圖","",104,0
@@ -703,30 +703,30 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 165,1,0,0,0,0,"/activehelp","","/新手指南(/指南)
 /activehelp
 打開新手指南。","/新手指南","/指南",32,0
-167,1,0,0,0,0,"/characterconfig","/cconfig","/角色設置
+167,1,0,0,0,0,"/characterconfig","/cconfig","/角色設定
 /characterconfig、/cconfig
-打開角色設置視窗。","/角色設置","",32,0
-168,1,0,0,0,0,"/systemconfig","/sconfig","/系統設置
+打開角色設定視窗。","/角色設定","",32,0
+168,1,0,0,0,0,"/systemconfig","/sconfig","/系統設定
 /systemconfig、/sconfig
-打開系統設置視窗。","/系統設置","",32,0
-169,1,0,0,0,0,"/keybind","/keyconfig","/鍵位設置
+打開系統設定視窗。","/系統設定","",32,0
+169,1,0,0,0,0,"/keybind","/keyconfig","/鍵位設定
 /keybind、/keyconfig
-打開鍵位設置視窗。","/鍵位設置","",32,0
+打開鍵位設定視窗。","/鍵位設定","",32,0
 170,1,0,0,0,0,"/macros","","/巨集(/巨)
 /macros
 打開巨集管理。","/巨集","/巨",32,0
-171,2,0,0,0,0,"/hudlayout","","/介面設置 指令
+171,2,0,0,0,0,"/hudlayout","","/介面設定 指令
 /hudlayout
-進行介面設置相關的操作。
+進行介面設定相關的操作。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>介面編號(1-4)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　切換為指定編號的介面。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　打開介面設置視窗。
+　打開介面設定視窗。
 
->>示例
-/介面設置 3
-切換為介面3。","/介面設置","/介面設置",32,0
+>>範例
+/介面設定 3
+切換為介面3。","/介面設定","/介面設定",32,0
 172,1,0,0,0,0,"/logout","","/標題畫面
 /logout
 退出遊戲，回到標題畫面。","/標題畫面","/標題畫面",32,0
@@ -740,9 +740,9 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 數字1 數字2
 將小隊列表中的小隊成員按指定的數字（1-8）交換排列位置。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-按角色設置＞介面設置＞小隊列表＞隊員排序設置中設定的順序進行排列。
+按角色設定＞介面設定＞小隊列表＞隊員排序設定中設定的順序進行排列。
 
->>示例
+>>範例
 /小隊排序 2 3
 將小隊列表中的2號隊員與3號隊員交換排列位置。","/小隊排序","/小隊排序",36,0
 175,1,0,0,0,0,"/readycheck","/rcheck","/準備確認
@@ -821,7 +821,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 打開風脈泉視窗。","/風脈泉","/風脈",32,0
 192,1,0,0,0,0,"/logcolor","/lcolor","/訊息顏色
 /logcolor、/lcolor
-打開訊息顏色設置視窗。","/訊息顏色","",32,0
+打開訊息顏色設定視窗。","/訊息顏色","",32,0
 193,1,0,0,0,0,"/playguide","/pguide","/資訊中心(/資訊)
 /playguide、/pguide
 打開資訊中心視窗。","/資訊中心","/資訊",32,0
@@ -838,17 +838,17 @@ F.A.T.E.範圍內
 196,1,0,0,0,0,"/orchestrion","","/管弦樂琴
 /orchestrion
 打開管弦樂琴樂譜集視窗。","/管弦樂琴","",32,0
-197,2,1,0,0,0,"/countdown","/cd","/倒計時 指令
+197,2,1,0,0,0,"/countdown","/cd","/倒數 指令
 /countdown、/cd
-設置戰鬥開始倒計時時間。
+設定戰鬥開始倒數時間。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>秒數(5-30)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　實行指定時間的戰鬥開始倒計時。以文本指令實行此操作時將不會保存指定秒數，同時也不會在消息視窗中顯示每5秒一次的通知信息。
+　實行指定時間的戰鬥開始倒數。以文本指令實行此操作時將不會保存指定秒數，同時也不會在消息視窗中顯示每5秒一次的通知信息。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　打開戰鬥開始倒計時視窗。
->>示例
-/倒計時 10
-執行10秒的戰鬥開始倒計時。","/倒計時","/倒計時",32,0
+　打開戰鬥開始倒數視窗。
+>>範例
+/倒數 10
+執行10秒的戰鬥開始倒數。","/倒數","/倒數",32,0
 198,1,0,0,0,0,"/contactlist","","/戰友列表
 /contactlist
 打開戰友列表。","/戰友列表","",32,0
@@ -860,11 +860,11 @@ F.A.T.E.範圍內
 202,2,1,0,0,0,"/wait","","/等待 等待時間
 /wait
 巨集專用指令。可以讓巨集在等待指定時間後發動。
-設置等待時間的數值時，“1”大約相當於1秒，且只可以設置整數。
-等待時間最多可以設置為60，超過60時按60算。","/等待","",181,0
+設定等待時間的數值時，“1”大約相當於1秒，且只可以設定整數。
+等待時間最多可以設定為60，超過60時按60算。","/等待","",181,0
 204,2,1,2,0,0,"/legacymark","/lmark","/十二神印記(/神印) 指令
 /legacymark、/lmark
-設置是否顯示自己角色的十二神印記。
+設定是否顯示自己角色的十二神印記。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　顯示十二神印記。
@@ -941,15 +941,15 @@ F.A.T.E.範圍內
 裝備編號1的套裝並將其投影成投影範本編號2的外觀。","/套裝","",32,0
 210,4,2,2,2,0,"/itemsort","/isort","/道具整理(整理) 指令
 /itemsort、/isort
-可以以比“自動整理”更加詳細的設置來整理物品的排列順序。該命令中設置的條件與原有的“自動整理”條件不會發生衝突，只會對該命令有影響。
+可以以比“自動整理”更加詳細的設定來整理物品的排列順序。該命令中設定的條件與原有的“自動整理”條件不會發生衝突，只會對該命令有影響。
 
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>條件(condition) 對象 條件 順序<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　在指定的對象範圍內將指定的順序設置為排列條件。
+　在指定的對象範圍內將指定的順序設定為排列條件。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>實行(execute) 對象<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　在指定的對象範圍內以設置的條件進行排列。
+　在指定的對象範圍內以設定的條件進行排列。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>撤除(clear) 對象<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　撤除指定對象範圍內設置的排列條件，該狀態下由於排列條件已經撤除，透過命令進行排列時不會有任何效果。
+　撤除指定對象範圍內設定的排列條件，該狀態下由於排列條件已經撤除，透過命令進行排列時不會有任何效果。
 
 >>對象指定
 物品(Inventory) 僱員物品(Retainer) 兵裝庫(ArmouryChest) 陸行鳥鞍囊（saddlebag） 陸行鳥鞍囊2（rightsaddlebag） 主手(main) 副手(sub) 頭部(head) 身體(body) 手臂(hands)  腿部(legs) 腳部(feet) 頸部(neck) 耳部(ears) 腕部(wrists) 戒指(rings) 靈魂水晶(soul)
@@ -961,9 +961,9 @@ F.A.T.E.範圍內
 >>順序指定
 升序(asc) 降序(des)
 ※順序省略時會按照升序進行處理。
-※條件指定設為“分欄(tab)”時不需要設置。
+※條件指定設為“分欄(tab)”時不需要設定。
 
->>示例
+>>範例
 /道具整理 條件 主手 精煉度 升序
 /道具整理 條件 主手 物品品級 降序
 /道具整理 實行 主手
@@ -989,7 +989,7 @@ F.A.T.E.範圍內
 巨集管理專用，使用該命令之後，在同一個巨集內的所有指令完成之前不允許執行其他巨集指令。","/鎖定巨集指令","/鎖巨集",36,0
 215,2,1,2,0,0,"/macroerror","/merror","/巨集錯誤提示 指令
 /macroerror、/merror
-巨集管理專用。設置是否顯示在執行巨集命令的過程中出現的錯誤提示。巨集命令執行前默認為顯示狀態。巨集命令結束後，即使之前設置成了不顯示狀態，也會自動回到默認的顯示狀態。
+巨集管理專用。設定是否顯示在執行巨集命令的過程中出現的錯誤提示。巨集命令執行前默認為顯示狀態。巨集命令結束後，即使之前設定成了不顯示狀態，也會自動回到默認的顯示狀態。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　顯示錯誤提示。
@@ -1010,7 +1010,7 @@ F.A.T.E.範圍內
 /grouppose、/gpose
 執行集體動作。
 >>功能內操作
-顯示鏡頭設置視窗
+顯示鏡頭設定視窗
 <CommandIcon(10)/>/R鍵、小鍵盤*/滑鼠滾輪
 角色面朝鏡頭方向(開/關)
 <CommandIcon(11)/>/空格鍵
@@ -1038,7 +1038,7 @@ F.A.T.E.範圍內
 切換為景觀視角。
 代名詞可以省略。在指定了代名詞的情況下，攝像機鏡頭將會鎖定該目標進行觀景。如果指定的目標無法作為鎖定目標進行觀景，則會隨機進行觀景。
 >>功能內操作
-顯示鏡頭設置視窗
+顯示鏡頭設定視窗
 <CommandIcon(10)/>/R鍵、小鍵盤*/鼠標滾輪
 暫時停止或繼續進行觀景視角的切換
 <CommandIcon(8)/>/小鍵盤0/左鍵單次點擊
@@ -1048,14 +1048,14 @@ F.A.T.E.範圍內
 <CommandIcon(20)/>/W,A,S,D,Q,E鍵
 重置鏡頭
 <Gui(16)/>/Z鍵
->>示例
+>>範例
 /觀景視角
 隨機選擇對象執行觀景。
 /觀景視角 <目標>
 選擇指定目標作為對象來執行觀景。","/觀景視角","",40,0
 223,2,1,2,0,0,"/duelswitch","","/決鬥申請攔截 指令
 /duelswitch
-更改是否接受決鬥申請的設置。
+更改是否接受決鬥申請的設定。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 強制拒絕決鬥申請。
@@ -1063,7 +1063,7 @@ F.A.T.E.範圍內
 接受決鬥申請。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 在拒絕和接受之間切換。
->>示例
+>>範例
 /決鬥申請攔截 開
 強制拒絕決鬥申請。","/決鬥申請攔截","",4,0
 224,2,1,2,0,0,"/beginnerchannelinvitation","/bchannelinvitation","/接受新人頻道的邀請（/新人邀請） 指令
@@ -1090,18 +1090,18 @@ F.A.T.E.範圍內
 但在PvP任務中無效。
 >>召喚獸的名字
 卡邦庫爾
-迦樓羅 艾基
-泰坦 艾基
-伊弗利特 艾基
+迦樓羅-艾基
+泰坦-艾基
+伊弗利特-艾基
 朝日小仙女
 >>外貌
 卡邦庫爾
-卡邦庫爾 綠寶石
-卡邦庫爾 黃寶石
-卡邦庫爾 紅寶石
-迦樓羅 艾基
-泰坦 艾基
-伊弗利特 艾基
+卡邦庫爾-綠寶石
+卡邦庫爾-黃寶石
+卡邦庫爾-紅寶石
+迦樓羅-艾基
+泰坦-艾基
+伊弗利特-艾基
 夕月小仙女
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>省略外貌或在外貌處輸入“撤除(clear)”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 召喚獸會恢復原狀。
@@ -1109,24 +1109,24 @@ F.A.T.E.範圍內
 顯示召喚獸的外貌設定列表。
 
 >>示例
-/召喚獸投影 迦樓羅 艾基 卡邦庫爾 紅寶石
-將迦樓羅 艾基的外貌變成卡邦庫爾 紅寶石。
-/召喚獸投影 迦樓羅 艾基
-將迦樓羅 艾基的外貌恢復原狀。
+/召喚獸投影 迦樓羅-艾基 卡邦庫爾-紅寶石
+將迦樓羅-艾基的外貌變成卡邦庫爾-紅寶石。
+/召喚獸投影 迦樓羅-艾基
+將迦樓羅-艾基的外貌恢復原狀。
 /召喚獸投影
 顯示召喚獸的外貌設定列表。","/召喚物投影","/egimirage",36,0
 227,3,1,2,0,0,"/title","","/稱號 指令
 /title
 改變稱號。
 >>指令
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>設置 稱號名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將稱號設置為稱號名對應的稱號。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>設定 稱號名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　將稱號設定為稱號名對應的稱號。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>撤除<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將稱號撤除。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將稱號變為隨機一個已獲得的稱號。
->>示例
-/稱號 設置 銀劍
+>>範例
+/稱號 設定 銀劍
 　將稱號設為“銀劍”。","/稱號","/title",36,1000
 228,2,1,2,0,0,"/bahamutsize","","/巴哈姆特尺寸
 /bahamutsize
@@ -1134,7 +1134,7 @@ F.A.T.E.範圍內
 ※此文本指令已和“/召喚獸尺寸”合並，今後請使用新指令。","/巴哈姆特尺寸","/bahamutsize",36,0
 229,8,3,2,2,2,"/alarm","","/鬧鐘 指令
 /alarm
-設置鬧鐘。
+設定鬧鐘。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>""鬧鐘名"" 時間類型(本、服、艾) 重覆通知(重覆) 時間(0000-2400) 提前(0-60)分鐘提醒 音效編號(音效00-音效05) 副本任務中靜音(靜音)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　設定在指定時間進行通知提醒的鬧鐘。
@@ -1152,14 +1152,14 @@ F.A.T.E.範圍內
 服（st） 伺服器時間
 艾（et） 艾奧傑亞時間
 
->>示例
+>>範例
 /鬧鐘 ""集合時間"" 本 2000 10 音效04
 　設定一個名為集合時間的鬧鐘，在本地時間20點前提前10分鐘以4號音效提醒。
 /鬧鐘 ""休息"" 本 重覆 30 音效05
 　設定一個名為休息的鬧鐘，在本地時間每個小時的30分時以5號音效提醒。","/鬧鐘","",32,0
 231,2,1,2,0,0,"/busy","","/忙碌 指令
 /busy
-將在線狀態設置為“忙碌”。
+將在線狀態設定為“忙碌”。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將狀態改成“忙碌”。
@@ -1169,7 +1169,7 @@ F.A.T.E.範圍內
 　在“忙碌”與“在線”之間切換。","/忙碌","",36,0
 232,2,1,2,0,0,"/away","/afk","/離開 指令
 /away、/afk
-將在線狀態設置為“離開”。
+將在線狀態設定為“離開”。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將狀態改成“離開”。
@@ -1179,7 +1179,7 @@ F.A.T.E.範圍內
 　在“離開”與“在線”之間切換。","/離開","",36,0
 233,1,0,0,0,0,"/lookingforparty","/lfp","/希望組隊 指令 職業
 /lookingforparty、/lfp
-將在線狀態設置為“希望組隊”，並附加希望組隊的職業。
+將在線狀態設定為“希望組隊”，並附加希望組隊的職業。
 >>職業(※可以指定多個職業，順序不限)
 騎士(PLD)　劍術士(GLA)　戰士(WAR)　斧術士(MRD)　暗黑騎士(DRK)　絕槍戰士(GNB)　白魔道士(WHM)　幻術士(CNJ)　學者(SCH)　占星術師(AST)　賢者(SGE)　武僧(MNK)　格鬥士(PGL)　龍騎士(DRG)　槍術士(LNC)　忍者(NIN)　雙劍士(ROG)　武士(SAM)　奪魂者(RPR)　毒蛇劍士(VPR)　吟遊詩人(BRD)　弓術士(ARC)　機工士(MCH)　舞者(DNC)　黑魔道士(BLM)　咒術士(THM)　召喚士(SMN)　巴術士(ACN)　赤魔道士(RDM)　繪靈法師(PCT)　青魔道士(BLU)　木工師(CRP)　鍛造師(BSM)　甲冑師(ARM)　金工師(GSM)　皮革師(LTW)　裁縫師(WVR)　鍊金術師(ALC)　烹調師(CUL)　採掘師(MIN)　園藝師(BTN)　漁師(FSH)
 ※省略該條件會默認為指定目前職業。
@@ -1192,7 +1192,7 @@ F.A.T.E.範圍內
 　在“希望組隊”與“在線”之間切換。","/希望組隊","",36,0
 234,2,1,2,0,0,"/lookingformeld","/lfm","/接受鑲嵌魔晶石請求(/鑲嵌魔晶石) 指令
 /lookingformeld、/lfm
-將在線狀態設置為“接受鑲嵌魔晶石請求”。
+將在線狀態設定為“接受鑲嵌魔晶石請求”。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將狀態改成“接受鑲嵌魔晶石請求”。
@@ -1202,7 +1202,7 @@ F.A.T.E.範圍內
 　在“接受鑲嵌魔晶石請求”與“在線”之間切換。","/接受鑲嵌魔晶石請求","/鑲嵌魔晶石",36,0
 235,1,0,0,0,0,"/searchcomment","/scomment","/個性簽名(/簽名) 文字內容
 /searchcomment、/scomment
-將指定文字內容設置成搜索玩家時的簽名。","/個性簽名","/簽名",36,0
+將指定文字內容設定成搜尋玩家時的簽名。","/個性簽名","/簽名",36,0
 236,2,1,2,0,0,"/beginnerstatus","/bstatus","/新人狀態 指令
 /beginnerstatus、/bstatus
 更改自己的新人在線狀態。
@@ -1218,24 +1218,24 @@ F.A.T.E.範圍內
 開啟新人狀態。","/新人狀態","",36,1000
 237,2,1,2,0,0,"/beginnerchannel","/bchannel","/加入新人頻道 指令
 /beginnerchannel、/bchannel
-設置指導者是否自動加入新人頻道。
+設定指導者是否自動加入新人頻道。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　開啟自動加入新人頻道的設置，並加入新人頻道。
+　開啟自動加入新人頻道的設定，並加入新人頻道。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　解除自動加入新人頻道的設置，如果已經加入了新人頻道則會退出。
+　解除自動加入新人頻道的設定，如果已經加入了新人頻道則會退出。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　在開啟與解除之間切換。
->>示例
+>>範例
 /加入新人頻道 開
-開啟自動加入新人頻道的設置。
+開啟自動加入新人頻道的設定。
 ","/加入新人頻道","/bchannel",36,1000
 238,1,0,0,0,0,"/returnerstatusoff","","/解除回歸者狀態
 /returnerstatusoff
 解除回歸者狀態。","/解除回歸者狀態","",36,1000
 239,2,1,2,0,0,"/roleplaying","","/角色扮演中 指令
 /roleplaying
-將在線狀態設置為“角色扮演中”。
+將在線狀態設定為“角色扮演中”。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將狀態改成“角色扮演中”。
@@ -1281,9 +1281,9 @@ F.A.T.E.範圍內
 254,1,0,0,0,0,"/targetpc","/tpc","/選中最近玩家(/最近玩家)
 /targetpc、/tpc
 選中可選範圍內離自己距離最近的玩家。","/選中最近玩家","/最近玩家",36,0
-255,1,0,0,0,0,"/targetnpc","/tnpc","/選中最近非玩家(/最近非玩家)
+255,1,0,0,0,0,"/targetnpc","/tnpc","/選中最近NPC(/最近NPC)
 /targetnpc、/tnpc
-選中可選範圍內離自己最近的非玩家角色。","/選中最近非玩家","/最近非玩家",36,0
+選中可選範圍內離自己最近的NPC角色。","/選中最近NPC","/最近NPC",36,0
 256,1,0,0,0,0,"/targetenemy","/tenemy","/選中最近敵人(/最近敵人)
 /targetenemy、/tenemy
 選中可選範圍內離自己距離最近的敵人。","/選中最近敵人","/最近敵人",36,0
@@ -1323,10 +1323,10 @@ F.A.T.E.範圍內
 　在鎖定與解除鎖定之間切換。","/鎖定","",36,0
 265,2,0,0,0,0,"/focustarget","","/焦點目標 代名詞
 /focustarget
-將指定玩家設置為焦點目標。省略代名詞會指定目前所選目標為焦點目標。
->>示例
+將指定玩家設定為焦點目標。省略代名詞會指定目前所選目標為焦點目標。
+>>範例
 /焦點目標 <目標>
-將目前所選擇的目標設置為焦點目標。","/焦點目標","",36,0
+將目前所選擇的目標設定為焦點目標。","/焦點目標","",36,0
 267,3,2,5,2,0,"/petaction","/pac","/召喚獸技能 召喚獸技能名 代名詞
 /petaction、/pac
 命令召喚獸對指定目標使用指定召喚獸技能。以自己或召喚獸為目標的技能可省略輸入代名詞。如果身處無法使用技能的環境，或者指定召喚獸技能以外的技能，或者還沒有學會指定召喚獸技能，則命令無效。
@@ -1432,7 +1432,7 @@ F.A.T.E.範圍內
 　在開啟和關閉之間切換","/自動鎖定","",36,0
 302,2,1,2,0,0,"/autofacetarget","","/自動轉向目標 指令
 /autofacetarget
-開啟角色設置中“發動技能時轉身面向目標”的功能。
+開啟角色設定中“發動技能時轉身面向目標”的功能。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　開啟自動轉向目標。
@@ -1532,7 +1532,7 @@ F.A.T.E.範圍內
 　在開啟和關閉之間切換","/場景點擊","",36,0
 312,4,3,2,2,2,"/chatlog","","/訊息視窗 指令
 /chatlog
-對訊息視窗進行設置。
+對訊息視窗進行設定。
 >>指令
 <If(Equal(PlayerParameter(75),1))><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>字體(fontsize) 數值<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　調整字體大小。
@@ -1570,7 +1570,7 @@ F.A.T.E.範圍內
 他人對自己做出的情感動作(emote)　悄悄話(tell)　小隊(party)　公會(freecompany)　團隊(alliance)　通訊貝1～8(linkshell1～8) 新人(beginner)　戰隊(pvpteam)　跨服貝1～8(cwlinkshell1～8)","/訊息視窗","",36,0
 313,3,2,2,2,0,"/battleeffect","","/戰鬥特效 目標 類型
 /battleeffect
-對角色設置中的“戰鬥特效”進行設置。
+對角色設定中的“戰鬥特效”進行設定。
 >>目標
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自己(self)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　以“自己”為目標。
@@ -1582,16 +1582,16 @@ F.A.T.E.範圍內
 　以“PvP時的敵方玩家”為目標。
 >>類型
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>全部(all)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　設置為“完全顯示”。
+　設定為“完全顯示”。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>簡單(simple)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　設置為“簡單顯示”。
+　設定為“簡單顯示”。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　設置為“不顯示”。
+　設定為“不顯示”。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　在“完全顯示”和“不顯示”之間切換。","/戰鬥特效","/戰鬥特效",228,0
 314,3,2,4,2,0,"/hud","","/指定視窗 視窗名 指令
 /hud
-設置是否顯示指定的介面視窗。
+設定是否顯示指定的介面視窗。
 >>視窗名
 目標情報(TargetInfo,target)
 目標情報：HP欄(TargetInfo:HP)
@@ -1648,7 +1648,7 @@ F.A.T.E.範圍內
 　關閉指定視窗顯示。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　在開啟和關閉之間切換。
->>示例
+>>範例
 /指定視窗 基本情報
 令基本情報視窗在開啟和關閉之間切換。","/指定視窗","",32,0
 315,6,3,2,3,7,"/hotbar","","/快速鍵 指令
@@ -1753,7 +1753,7 @@ F.A.T.E.範圍內
 將目前的介面位置以及縮放率、透明度重置回初始狀態。","/重置介面","",32,0
 318,1,0,0,0,0,"/uireset","","/重置介面視窗
 /uireset
-將全部介面設置(1-4)和視窗的位置以及縮放率、透明度重置回初始狀態。","/重置介面視窗","",32,0
+將全部介面設定(1-4)和視窗的位置以及縮放率、透明度重置回初始狀態。","/重置介面視窗","",32,0
 319,2,1,0,0,0,"/uiscale","","/介面縮放
 /uiscale
 更改目前介面視窗的縮放倍率。
@@ -1792,17 +1792,17 @@ F.A.T.E.範圍內
 ゲーム内の設定をリアルイベント用に初期化する。","","",32,0
 323,2,1,2,0,0,"/crosshotbartype","/chotbartype","/操作類型 指令
 /crosshotbartype、/chotbartype
-變更角色設置中“十字快速鍵的操作類型”。
+變更角色設定中“十字快速鍵的操作類型”。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按住(hold)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將操作類型設置為按住。
+　將操作類型設定為按住。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>單次點擊(toggle)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將操作類型設置為單次點擊。
+　將操作類型設定為單次點擊。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>混合(mix)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將操作類型設置為混合。","/操作類型","",36,0
+　將操作類型設定為混合。","/操作類型","",36,0
 324,2,1,2,0,0,"/crosshotbardisplay","/chotbardisplay","/一直顯示十字快速鍵 指令
 /crosshotbardisplay、/chotbardisplay
-對角色設置中的“一直顯示十字快速鍵”項進行設置。
+對角色設定中的“一直顯示十字快速鍵”項進行設定。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　開啟一直顯示。
@@ -2033,16 +2033,16 @@ F.A.T.E.範圍內
 　將音量設為50。","/喇叭系統音","",229,0
 339,2,0,0,0,0,"/tiltcamera","","/第三人稱視角俯視角度 指令
 /tiltcamera
-改變角色設置中第三人稱視角俯視角度的數值。
+改變角色設定中第三人稱視角俯視角度的數值。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>數值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將第三人稱視角俯視角度設為指定的數值。
->>示例
+>>範例
 /第三人稱視角俯視角度 50
 　將第三人稱視角俯視角度設為50。","/第三人稱視角俯視角度","",36,0
 340,2,1,2,0,0,"/mountbgm","","/坐騎音樂 指令
 /mountbgm
-設置系統設置中的“騎乘狀態下播放音樂”。
+設定系統設定中的“騎乘狀態下播放音樂”。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 播放坐騎自帶的背景音樂。
@@ -2052,7 +2052,7 @@ F.A.T.E.範圍內
 在開啟與關閉之間切換。","/坐騎音樂","",100,0
 341,2,0,0,0,0,"/performsounds","","/演奏音量 指令
 /performsounds
-設置樂器演奏的音量。
+設定樂器演奏的音量。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>數值(0-100)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 將音量設為指定數值。
@@ -2574,14 +2574,14 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/微笑","",293,0
-471,2,1,2,0,0,"/grin","","/笑顏 指令
+471,2,1,2,0,0,"/grin","","/笑容 指令
 /grin
-臉上露出笑顏。
+臉上露出笑容。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出動作並顯示文字提示。","/笑顏","",293,0
+做出動作並顯示文字提示。","/笑容","",293,0
 472,2,1,2,0,0,"/smirk","","/自信 指令
 /smirk
 做出自信的表情。
@@ -2930,14 +2930,14 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/戰隊演武正黃三式","/正黃三式",293,0
-534,2,1,2,0,0,"/wink","/rightwink","/右飛眼(/飛眼) 指令
+534,2,1,2,0,0,"/wink","/rightwink","/拋媚眼右(/拋媚眼) 指令
 /rightwink、/wink
-右眼拋出飛眼。
+右眼拋出媚眼。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出動作並顯示文字提示。","/右飛眼","/飛眼",293,0
+做出動作並顯示文字提示。","/拋媚眼右","/拋媚眼",293,0
 535,2,1,2,0,0,"/rangerpose1l","/rpose1l","/戰隊演武逆紅一式(/逆紅一式) 指令
 /rangerpose1l、/rpose1l
 擺出戰隊演武逆紅一式造型。
@@ -3298,14 +3298,14 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/思索","",293,0
-585,2,1,2,0,0,"/leftwink","","/左飛眼 指令
+585,2,1,2,0,0,"/leftwink","","/拋媚眼左 指令
 /leftwink
-左眼拋出飛眼。
+左眼拋出媚眼。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出動作並顯示文字提示。","/左飛眼","",293,0
+做出動作並顯示文字提示。","/拋媚眼左","",293,0
 586,2,1,2,0,0,"/getfantasy","","/幻想舞步 指令
 /getfantasy
 跳起幻想舞步。
@@ -3402,14 +3402,14 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/提醒","",293,0
-598,2,1,2,0,0,"/sabotender","","/優雅仙人掌 指令
+598,2,1,2,0,0,"/sabotender","","/優雅仙人掌怪 指令
 /sabotender
-做出優雅仙人掌的動作。
+做出優雅仙人掌怪的動作。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出動作並顯示文字提示。","/優雅仙人掌","",293,0
+做出動作並顯示文字提示。","/優雅仙人掌怪","",293,0
 599,2,1,2,0,0,"/mandervillemambo","/mmambo","/紳士舞步 指令
 /mandervillemambo(/mmambo)
 踏上最具紳士風度的舞步。
@@ -3864,7 +3864,7 @@ F.A.T.E.範圍內
 做出動作並顯示文字提示。","/雀躍4","",293,0
 663,2,1,2,0,0,"/jumpforjoy5","/jj5","/雀躍5 指令
 /jumpforjoy5、/jj5
-開心地跳了起來，動作好像仙人掌。
+開心地跳了起來，動作好像仙人掌怪。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做動作。

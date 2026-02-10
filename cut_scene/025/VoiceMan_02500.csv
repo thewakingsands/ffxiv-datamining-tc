@@ -220,7 +220,7 @@ int32,str,str
 桑克瑞德和帕帕力莫也去幫忙。"
 104,"TEXT_VOICEMAN_02500_400450_MINFILIA","穆恩布瑞達和伊達、雅·修朵拉一同行動。
 你們先去勘察場地，做好準備。
-以便在牽製作戰結束後立刻進行實驗。"
+以便在牽制作戰結束後立刻進行實驗。"
 105,"TEXT_VOICEMAN_02500_400460_URIANGER","那麼這段時間我就繼續驗證白聖石的性能吧。"
 106,"TEXT_VOICEMAN_02500_400470_MINFILIA","好的，就拜託您了。
 那麼大家各自準備出發吧。
@@ -259,7 +259,7 @@ int32,str,str
 122,"TEXT_VOICEMAN_02500_500160_NABRIALES","<UIForeground>F20223</UIForeground>我還是和能聽懂的人談談吧。
 擁有超越之力的光之戰士，我們終於見面了，
 我名為那布里亞勒斯，如你所見是無影的一員。<UIForeground>01</UIForeground>"
-123,"TEXT_VOICEMAN_02500_500170_NABRIALES","<UIForeground>F20223</UIForeground>真是的太佩服你了。
+123,"TEXT_VOICEMAN_02500_500170_NABRIALES","<UIForeground>F20223</UIForeground>真的是太佩服你了。
 我好不容易配合拉哈布雷亞，將神靈降臨在人身上，
 你卻那麼簡單輕鬆地幹掉了。<UIForeground>01</UIForeground>"
 124,"TEXT_VOICEMAN_02500_500180_MOENBRYDA","呀啊啊啊啊！"

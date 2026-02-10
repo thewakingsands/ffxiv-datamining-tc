@@ -52,9 +52,9 @@ int32,str,str
 45,"TEXT_BANKJN505_02995_TODO_21",""
 46,"TEXT_BANKJN505_02995_TODO_22",""
 47,"TEXT_BANKJN505_02995_TODO_23",""
-48,"TEXT_BANKJN505_02995_ZUKIN_000_000","<If(PlayerParameter(4))>大姐<Else/>大哥</If>，有幾個大個兒的貝殼漂流到了岸邊——
+48,"TEXT_BANKJN505_02995_ZUKIN_000_000","<If(PlayerParameter(4))>大姐<Else/>大哥</If>，有幾個大顆的貝殼漂流到了岸邊——
 我們想把它們分割成小塊用作螺鈿工藝品的材料，
-可這貝殼硬得不行，怎麼也弄不開——"
+可這貝殼硬得不得了，怎麼也弄不開——"
 49,"TEXT_BANKJN505_02995_ZUKIN_000_001","因此，我希望<If(PlayerParameter(4))>大姐<Else/>大哥</If>能幫我們個忙——
 去和龜甲島海邊的碧甲族的貝殼匠人談談——"
 50,"TEXT_BANKJN505_02995_KAISURI02995_000_010","哦哦——這不是幫我們收集寶貝的人類嗎——

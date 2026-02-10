@@ -67,13 +67,13 @@ int32,str,str
 她說薩蓋特別墅遺跡那裡的裝置上的零件說不定可以拿過來用。"
 28,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_044","所以拜託你了，冒險者！
 請你去調查一下薩蓋特別墅遺跡那裡的裝置，
-將能使的零件拿回來吧！"
+將能用的零件拿回來吧！"
 29,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_050","請你去調查一下薩蓋特別墅遺跡那裡的裝置，
 拿回一些能使的零件。
 ……話說回來，你找我還有其他什麼事嗎？"
 30,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_060","辛苦你了，冒險者！
 你拿到零件了嗎？"
-31,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_061","哇，這個就是啊！
+31,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_061","哇，就是這個啊！
 我會用這個零件嘗試一下改良方案的。
 用不了太長的時間，請你稍等一會吧。"
 32,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_062","呼……文理融合器改良成功了。
@@ -139,7 +139,7 @@ int32,str,str
 研究終於快要完成了！"
 54,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_DRAKE_000_121","我想差不多應該能確立完美的記憶嵌寫方法了……"
 55,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_122","什麼啊，你怎麼又在這啊。
-每次我出來的時候你都像是瞅準了時機一樣，在跟德雷克聊著啊。
+每次我出來的時候你都像是看準了時機一樣，在跟德雷克聊著啊。
 所謂的優秀的冒險者是不會錯過這種場合的是吧。"
 56,"TEXT_CTSERKEUREKA3MAGIAARCAGUIDE_00516_GEROLT_000_123","你也察覺到了吧，我們的研究總算完成了。
 雖說是請可露兒小姐幫了一下忙才得以確立了非常完美的提取方法。

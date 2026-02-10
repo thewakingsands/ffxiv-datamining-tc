@@ -4,10 +4,10 @@ int32,str,str
 0,"TEXT_BANKOB305_01368_SEQ_00","第789洞穴團採礦地的第789團清潔工博布，想阻止某件事情的發生。"
 1,"TEXT_BANKOB305_01368_SEQ_01","第13洞穴團的地靈族使用了<Sheet(BNpcName,2529,0)/>，來增產炸彈。因此，第789團清潔工博布委託冒險者阻止他們的計劃。在第789洞穴團採礦地，向第789團輔祭巴戈詢問破壞<Sheet(BNpcName,2529,0)/>的方法。"
 2,"TEXT_BANKOB305_01368_SEQ_02","第789團輔祭巴戈告訴冒險者，只要攻擊<Sheet(BNpcName,2529,0)/>，就能將其破壞。前往武伽瑪羅武裝礦山，破壞<Sheet(BNpcName,2529,0)/>。"
-3,"TEXT_BANKOB305_01368_SEQ_03","成功破糟了<Sheet(BNpcName,2529,0)/>。調查飛散在附近的<Sheet(EObj,2003703,0)/>，討伐<Sheet(BNpcName,2707,0)/>。"
+3,"TEXT_BANKOB305_01368_SEQ_03","成功破壞了<Sheet(BNpcName,2529,0)/>。調查飛散在附近的<Sheet(EObj,2003703,0)/>，討伐<Sheet(BNpcName,2707,0)/>。"
 4,"TEXT_BANKOB305_01368_SEQ_04","討伐了<Sheet(BNpcName,2707,0)/>。繼續調查<Sheet(EObj,2003703,0)/>，從出現的<Sheet(BNpcName,2708,0)/>那裡獲取<Sheet(EventItem,2001231,0)/>。"
 5,"TEXT_BANKOB305_01368_SEQ_05","從<Sheet(BNpcName,2708,0)/>那裡獲得了<Sheet(EventItem,2001231,0)/>。前往第789洞穴團採礦地，將<Sheet(EventItem,2001231,0)/>交給第789團清潔工博布。"
-6,"TEXT_BANKOB305_01368_SEQ_06","將<Sheet(EventItem,2001231,0)/>交給了第789團清潔工博布，並告訴他成功破糟了<Sheet(BNpcName,2529,0)/>的訊息。雖然他是為私利私慾而委託的工作，但結果也破糟了第13團指導者佐加的危險計劃。如果第13洞穴團再次開始增產炸彈的話，就繼續協助破壞<Sheet(BNpcName,2529,0)/>。"
+6,"TEXT_BANKOB305_01368_SEQ_06","將<Sheet(EventItem,2001231,0)/>交給了第789團清潔工博布，並告訴他成功破壞了<Sheet(BNpcName,2529,0)/>的訊息。雖然他是為私利私慾而委託的工作，但結果也破壞了第13團指導者佐加的危險計劃。如果第13洞穴團再次開始增產炸彈的話，就繼續協助破壞<Sheet(BNpcName,2529,0)/>。"
 7,"TEXT_BANKOB305_01368_SEQ_07",""
 8,"TEXT_BANKOB305_01368_SEQ_08",""
 9,"TEXT_BANKOB305_01368_SEQ_09",""
@@ -63,7 +63,7 @@ int32,str,str
 51,"TEXT_BANKOB305_01368_BOBU_000_003","為了破壞 <Sheet(BNpcName,2529,0)/>
 你去找 第789團輔祭巴戈 問問話。"
 52,"TEXT_BANKOB305_01368_BAGO_000_010","嘿嘿嘿……<Sheet(BNpcName,2529,0)/>的破壞方法？
-很簡單的啊 只要攻擊 就能破糟了哦……"
+很簡單的啊 只要攻擊 就能破壞了哦……"
 53,"TEXT_BANKOB305_01368_BAGO_000_011","嘿嘿嘿……如果你要去的話 就順便幫人家個忙吧。
 在你完成破壞後 調查<Sheet(EObj,2003703,0)/>
 然後 就會出現<Sheet(BNpcName,2707,0)/>……"
