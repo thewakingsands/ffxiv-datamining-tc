@@ -87,81 +87,81 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 13,1,0,0,0,0,"/cwlinkshell1","/cwl1","/跨服貝頻道1(/跨1) 發言內容
 /cwlinkshell1、/cwl1
 向跨服通訊貝頻道1內的玩家發送聊天消息，無論離多遠、是不是在同一地圖都可以看到。
-只輸入“/跨服貝頻道1(/跨1)”可將默認聊天頻道變更為跨服通訊貝頻道1。
+只輸入「/跨服貝頻道1(/跨1)」可將默認聊天頻道變更為跨服通訊貝頻道1。
 >>示例
 
 /跨1 大家好！
-在跨服通訊貝頻道1中發送消息“大家好！”。
+在跨服通訊貝頻道1中發送消息「大家好！」。
 /跨1
 將默認聊天頻道變更為跨服通訊貝頻道1。","/跨服貝頻道1","/跨1",1021,0
 14,1,0,0,0,0,"/cwlinkshell2","/cwl2","/跨服貝頻道2(/跨2) 發言內容
 /cwlinkshell2、/cwl2
 向跨服通訊貝頻道2內的玩家發送聊天消息，無論離多遠、是不是在同一地圖都可以看到。
-只輸入“/跨服貝頻道2(/跨2)”可將默認聊天頻道變更為跨服通訊貝頻道2。
+只輸入「/跨服貝頻道2(/跨2)」可將默認聊天頻道變更為跨服通訊貝頻道2。
 >>示例
 
 /跨2 大家好！
-在跨服通訊貝頻道2中發送消息“大家好！”。
+在跨服通訊貝頻道2中發送消息「大家好！」。
 /跨2
 將默認聊天頻道變更為跨服通訊貝頻道2。","/跨服貝頻道2","/跨2",1021,0
 15,1,0,0,0,0,"/cwlinkshell3","/cwl3","/跨服貝頻道3(/跨3) 發言內容
 /cwlinkshell3、/cwl3
 向跨服通訊貝頻道3內的玩家發送聊天消息，無論離多遠、是不是在同一地圖都可以看到。
-只輸入“/跨服貝頻道3(/跨3)”可將默認聊天頻道變更為跨服通訊貝頻道3。
+只輸入「/跨服貝頻道3(/跨3)」可將默認聊天頻道變更為跨服通訊貝頻道3。
 >>示例
 
 /跨3 大家好！
-在跨服通訊貝頻道3中發送消息“大家好！”。
+在跨服通訊貝頻道3中發送消息「大家好！」。
 /跨3
 將默認聊天頻道變更為跨服通訊貝頻道3。","/跨服貝頻道3","/跨3",1021,0
 16,1,0,0,0,0,"/cwlinkshell4","/cwl4","/跨服貝頻道4(/跨4) 發言內容
 /cwlinkshell4、/cwl4
 向跨服通訊貝頻道4內的玩家發送聊天消息，無論離多遠、是不是在同一地圖都可以看到。
-只輸入“/跨服貝頻道4(/跨4)”可將默認聊天頻道變更為跨服通訊貝頻道4。
+只輸入「/跨服貝頻道4(/跨4)」可將默認聊天頻道變更為跨服通訊貝頻道4。
 >>示例
 
 /跨4 大家好！
-在跨服通訊貝頻道4中發送消息“大家好！”。
+在跨服通訊貝頻道4中發送消息「大家好！」。
 /跨4
 將默認聊天頻道變更為跨服通訊貝頻道4。","/跨服貝頻道4","/跨4",1021,0
 17,1,0,0,0,0,"/cwlinkshell5","/cwl5","/跨服貝頻道5(/跨5) 發言內容
 /cwlinkshell5、/cwl5
 向跨服通訊貝頻道5內的玩家發送聊天消息，無論離多遠、是不是在同一地圖都可以看到。
-只輸入“/跨服貝頻道5(/跨5)”可將默認聊天頻道變更為跨服通訊貝頻道5。
+只輸入「/跨服貝頻道5(/跨5)」可將默認聊天頻道變更為跨服通訊貝頻道5。
 >>示例
 
 /跨5 大家好！
-在跨服通訊貝頻道5中發送消息“大家好！”。
+在跨服通訊貝頻道5中發送消息「大家好！」。
 /跨5
 將默認聊天頻道變更為跨服通訊貝頻道5。","/跨服貝頻道5","/跨5",1021,0
 18,1,0,0,0,0,"/cwlinkshell6","/cwl6","/跨服貝頻道6(/跨6) 發言內容
 /cwlinkshell6、/cwl6
 向跨服通訊貝頻道6內的玩家發送聊天消息，無論離多遠、是不是在同一地圖都可以看到。
-只輸入“/跨服貝頻道6(/跨6)”可將默認聊天頻道變更為跨服通訊貝頻道6。
+只輸入「/跨服貝頻道6(/跨6)」可將默認聊天頻道變更為跨服通訊貝頻道6。
 >>示例
 
 /跨6 大家好！
-在跨服通訊貝頻道6中發送消息“大家好！”。
+在跨服通訊貝頻道6中發送消息「大家好！」。
 /跨6
 將默認聊天頻道變更為跨服通訊貝頻道6。","/跨服貝頻道6","/跨6",1021,0
 19,1,0,0,0,0,"/cwlinkshell7","/cwl7","/跨服貝頻道7(/跨7) 發言內容
 /cwlinkshell7、/cwl7
 向跨服通訊貝頻道7內的玩家發送聊天消息，無論離多遠、是不是在同一地圖都可以看到。
-只輸入“/跨服貝頻道7(/跨7)”可將默認聊天頻道變更為跨服通訊貝頻道7。
+只輸入「/跨服貝頻道7(/跨7)」可將默認聊天頻道變更為跨服通訊貝頻道7。
 >>示例
 
 /跨7 大家好！
-在跨服通訊貝頻道7中發送消息“大家好！”。
+在跨服通訊貝頻道7中發送消息「大家好！」。
 /跨7
 將默認聊天頻道變更為跨服通訊貝頻道7。","/跨服貝頻道7","/跨7",1021,0
 20,1,0,0,0,0,"/cwlinkshell8","/cwl8","/跨服貝頻道8(/跨8) 發言內容
 /cwlinkshell8、/cwl8
 向跨服通訊貝頻道8內的玩家發送聊天消息，無論離多遠、是不是在同一地圖都可以看到。
-只輸入“/跨服貝頻道8(/跨8)”可將默認聊天頻道變更為跨服通訊貝頻道8。
+只輸入「/跨服貝頻道8(/跨8)」可將默認聊天頻道變更為跨服通訊貝頻道8。
 >>示例
 
 /跨8 大家好！
-在跨服通訊貝頻道8中發送消息“大家好！”。
+在跨服通訊貝頻道8中發送消息「大家好！」。
 /跨8
 將默認聊天頻道變更為跨服通訊貝頻道8。","/跨服貝頻道8","/跨8",1021,0
 21,2,0,0,0,0,"/graphicpresets","/gpresets","/圖像設定預設 預設組編號
@@ -177,7 +177,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 
 範例
 /圖像設定預設 1
-將圖像設定切換為“標準品質（筆記型電腦）”。","/圖像設定預設","",993,0
+將圖像設定切換為「標準品質（筆記型電腦）」。","/圖像設定預設","",993,0
 22,1,0,0,0,0,"/fellowship","/fs","/同好會
 /fellowship、/fs
 打開同好會視窗。","/同好會","",32,0
@@ -247,7 +247,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 
 >>示例
 /時尚配飾 陽傘
-使用時尚配飾“陽傘”。","/時尚配飾","",36,0
+使用時尚配飾「陽傘」。","/時尚配飾","",36,0
 30,1,0,0,0,0,"/fashionguide","","/時尚配飾一覽
 /fashionlist、/fashionguide
 打開時尚配飾選單。","/時尚配飾一覽","/fashionlist",32,0
@@ -276,7 +276,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 泰坦-艾基
 迦樓羅-艾基
 夕月小仙女
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>省略外貌或在外貌處輸入“撤除(clear)”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>省略外貌或在外貌處輸入「撤除(clear)」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 召喚獸會恢復原狀。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 顯示召喚獸的外貌設定列表。
@@ -305,18 +305,18 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 
 >>尺寸
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>大<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將召喚獸的顯示尺寸變為“大”。
+　將召喚獸的顯示尺寸變為「大」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>中<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將召喚獸的顯示尺寸變為“中”。
+　將召喚獸的顯示尺寸變為「中」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將召喚獸的顯示尺寸變為“小”。
+　將召喚獸的顯示尺寸變為「小」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　按“小→中→大”的順序切換設定。當尺寸目標為全部時，返回錯誤。
+　按「小→中→大」的順序切換設定。當尺寸目標為全部時，返回錯誤。
 >>範例
 /召喚獸尺寸 亞靈神巴哈姆特 中
-　將亞靈神巴哈姆特的尺寸變為“中”。
+　將亞靈神巴哈姆特的尺寸變為「中」。
 /召喚獸尺寸 全部 小
-　所有召喚獸的顯示尺寸全部變為“小”。","/召喚獸尺寸","",36,0
+　所有召喚獸的顯示尺寸全部變為「小」。","/召喚獸尺寸","",36,0
 35,3,0,0,0,0,"/ridepillion","","/共同騎乘 隊員編號 座位編號
 /ridepillion
 搭乘所選隊員的坐騎。
@@ -367,21 +367,21 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 　關閉右鍵不可選中寵物設定。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　在開啟與關閉之間切換。","/右鍵不可選中寵物","",36,0
-42,2,1,21,0,0,"/facewear","","/面部配飾 “面部配飾名”
+42,2,1,21,0,0,"/facewear","","/臉部配件 「臉部配件名」
 /faceaccessory、/facewear
-裝備指定的面部配飾。
->>示例
+裝備指定的臉部配件。
+>>範例
 /faceaccessory 橢圓眼鏡
-裝備面部配飾“橢圓眼睛”。","/面部配飾","/faceaccessory",36,0
+裝備臉部配件「橢圓眼睛」。","/臉部配件","/faceaccessory",36,0
 43,1,0,0,0,0,"/mutelist","","/禁音列表
 /mutelist
 打開禁音列表。","/禁音列表","",32,0
 44,1,0,0,0,0,"/termfilter","","/過濾詞
 /wordfilter、/termfilter
 打開過濾詞一覽。","/過濾詞","/wordfilter",32,0
-45,1,0,0,0,0,"/facewearlist","","/面部配飾選單
+45,1,0,0,0,0,"/facewearlist","","/臉部配件選單
 /faceaccessorylist、/facewearlist
-打開面部配飾選單。","/面部配飾選單","/faceaccessorylist",32,0
+打開臉部配件選單。","/臉部配件選單","/faceaccessorylist",32,0
 46,2,1,2,0,0,"/visualalerts","","/聲音的視覺表現 指令
 /visualalerts
 設定聲音的視覺表現。
@@ -415,36 +415,36 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 91,1,0,0,0,0,"/pvpteam","/pt","/戰隊頻道(/戰) 發言內容
 /pvpteam、/pt
 向同一戰隊內的全體成員發送聊天消息，無論離多遠、無論在哪個地區都可以看到。
-只輸入“/戰隊頻道(/戰)”可將默認聊天頻道變更為戰隊頻道。
+只輸入「/戰隊頻道(/戰)」可將默認聊天頻道變更為戰隊頻道。
 >>示例
 
 /戰 我來啦！
-在戰隊頻道中發送消息“我來啦！”。
+在戰隊頻道中發送消息「我來啦！」。
 /戰
 將默認聊天頻道變更為戰隊頻道。","/戰隊頻道","/戰",1021,0
 92,1,0,0,0,0,"/cwlinkshell","/cwl","/跨服貝頻道(/跨) 發言內容
 /cwlinkshell、/cwl
 向常用跨服通訊貝內的玩家發送聊天消息，無論離多遠、是不是在同一地圖都可以看到。
-只輸入“/跨服貝頻道(/跨)”可將默認聊天頻道變更為常用跨服通訊貝頻道。
+只輸入「/跨服貝頻道(/跨)」可將默認聊天頻道變更為常用跨服通訊貝頻道。
 >>示例
 
 /跨 大家好！
-在常用跨服通訊貝頻道中發送消息“大家好！”。
+在常用跨服通訊貝頻道中發送消息「大家好！」。
 /跨
 將默認聊天頻道變更為常用跨服通訊貝頻道。","/跨服貝頻道","/跨",1021,0
 101,1,0,0,0,0,"/beginner","/b","/新人頻道(/新) 發言內容
 /beginner、/b
 向參加新人頻道的所有玩家發送聊天消息，無論離多遠、是不是在同一地圖都可以看到。
-只輸入“/新人頻道(/新)”可將默認聊天頻道變更為新人頻道。
+只輸入「/新人頻道(/新)」可將默認聊天頻道變更為新人頻道。
 >>示例
 /新人頻道 你好。
-在新人頻道發送“你好。”的聊天消息。
+在新人頻道發送「你好。」的聊天消息。
 /新人頻道
 將默認聊天頻道變更為新人頻道。","/新人頻道","/新",1021,0
 102,1,0,0,0,0,"/say","/s","/說話頻道(/說) 發言內容
 /say、/s
 讓身邊小範圍內的玩家看到自己的發言。
-只輸入“/說話頻道(/說)”可將默認聊天頻道變更為說話頻道。","/說話頻道","/說",1023,0
+只輸入「/說話頻道(/說)」可將默認聊天頻道變更為說話頻道。","/說話頻道","/說",1023,0
 103,1,0,0,0,0,"/shout","/sh","/喊話頻道(/喊) 發言內容
 /shout、/sh
 讓目前所在區域的所有玩家看到自己的發言。","/喊話頻道","/喊",1021,0
@@ -452,18 +452,18 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 /tell、/t
 向和自己屬於同一伺服器的指定玩家發送聊天消息。
 跨伺服器發送時只能對好友或正在募集隊員的隊長生效。
-只輸入“/悄悄話頻道(/悄) 玩家名@伺服器名”可將默認聊天頻道變更為對該玩家的悄悄話頻道。
+只輸入「/悄悄話頻道(/悄) 玩家名@伺服器名」可將默認聊天頻道變更為對該玩家的悄悄話頻道。
 >>示例
 /悄 阿魯瑪@萌芽池 你好。
-對萌芽池伺服器的阿魯瑪發送“你好。”的聊天消息。","/悄悄話頻道","/悄",1021,0
+對萌芽池伺服器的阿魯瑪發送「你好。」的聊天消息。","/悄悄話頻道","/悄",1021,0
 105,1,0,0,0,0,"/party","/p","/小隊頻道(/隊) 發言內容
 /party、/p
 向同一小隊內的全體成員發送聊天消息，無論離多遠、是不是在同一地圖都可以看到。
-只輸入“/小隊頻道(/隊)”可將默認聊天頻道變更為小隊頻道。","/小隊頻道","/隊",1021,0
+只輸入「/小隊頻道(/隊)」可將默認聊天頻道變更為小隊頻道。","/小隊頻道","/隊",1021,0
 106,1,0,0,0,0,"/linkshell","/l","/通訊貝頻道(/訊) 發言內容
 /linkshell、/l
 向常用通訊貝內的玩家發送聊天消息，無論離多遠、是不是在同一地圖都可以看到。
-只輸入“/通訊貝頻道(/訊)”可將默認聊天頻道變更為常用通訊貝頻道。","/通訊貝頻道","/訊",1021,0
+只輸入「/通訊貝頻道(/訊)」可將默認聊天頻道變更為常用通訊貝頻道。","/通訊貝頻道","/訊",1021,0
 107,1,0,0,0,0,"/linkshell1","/l1","/通訊貝頻道1(/訊1) 發言內容
 /linkshell1、/l1
 向１號通訊貝內的玩家發送聊天信息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道1","/訊1",1021,0
@@ -491,21 +491,21 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 115,1,0,0,0,0,"/freecompany","/fc","/公會頻道(/公) 發言內容
 /freecompany、/fc
 向同一公會內的全體成員發送聊天消息，無論離多遠、無論在哪個地區都可以看到。
-只輸入“/公會頻道(/公)”可將默認聊天頻道變更為公會頻道。","/公會頻道","/公",1021,0
+只輸入「/公會頻道(/公)」可將默認聊天頻道變更為公會頻道。","/公會頻道","/公",1021,0
 116,1,0,0,0,0,"/echo","/e","/默語(/默) 發言內容
 /echo、/e
 顯示只有自己能看到的發言內容。","/默語","/默",1021,0
 117,1,0,0,0,0,"/yell","/y","/呼喊頻道(/呼) 發言內容
 /yell、/y
 讓身邊大範圍內的玩家看到自己的發言。
-只輸入“/呼喊頻道(/呼)”可將默認聊天頻道變更為呼喊頻道。","/呼喊頻道","/呼",1021,0
+只輸入「/呼喊頻道(/呼)」可將默認聊天頻道變更為呼喊頻道。","/呼喊頻道","/呼",1021,0
 118,1,0,0,0,0,"/reply","/r","/回答(/回) 發言內容
 /reply、/r
 向最後一次收到悄悄話的玩家發送聊天消息。","/回答","/回",1021,0
 119,1,0,0,0,0,"/alliance","/a","/團隊頻道(/團) 發言內容
 /alliance、/a
 向同一團隊的全體成員發送聊天消息，無論離多遠、無論在哪個地區都可以看到。
-只輸入“/團隊頻道(/團)”可將默認聊天頻道變更為團隊頻道。","/團隊頻道","/團",1021,0
+只輸入「/團隊頻道(/團)」可將默認聊天頻道變更為團隊頻道。","/團隊頻道","/團",1021,0
 121,1,0,0,0,0,"/join","","/參加
 /join
 接受組隊邀請。","/參加","",4,0
@@ -576,7 +576,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 150,3,1,2,0,0,"/partycmd","/pcmd","/小隊命令(/小隊) 指令
 /partycmd、/pcmd
 執行各種組隊指令。
-※跨服組隊時僅會打開小隊隊員視窗以及使用“加入”指令。
+※跨服組隊時僅會打開小隊隊員視窗以及使用「加入」指令。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>加入(add) 代名詞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　邀請指定玩家加入小隊。
@@ -675,7 +675,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 　打開目標標記視窗。
 >>示例
 /標記 攻擊3 <目標> 
-給目標加上“攻擊3”的標記。","/標記","",32,0
+給目標加上「攻擊3」的標記。","/標記","",32,0
 157,1,0,0,0,0,"/actionlist","/alist","/技能選單
 /actionlist、/alist
 打開技能選單。","/技能選單","",32,0
@@ -860,7 +860,7 @@ F.A.T.E.範圍內
 202,2,1,0,0,0,"/wait","","/等待 等待時間
 /wait
 巨集專用指令。可以讓巨集在等待指定時間後發動。
-設定等待時間的數值時，“1”大約相當於1秒，且只可以設定整數。
+設定等待時間的數值時，「1」大約相當於1秒，且只可以設定整數。
 等待時間最多可以設定為60，超過60時按60算。","/等待","",181,0
 204,2,1,2,0,0,"/legacymark","/lmark","/十二神印記(/神印) 指令
 /legacymark、/lmark
@@ -885,13 +885,13 @@ F.A.T.E.範圍內
 巨集管理專用。在快速鍵上顯示指定圖標名的圖標，在同一個巨集管理命令內只能生效一次。
 >>分類名
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能(action)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　…將技能名指定到圖標名上，可以顯示出該技能的圖標及技能的複唱時間、所需MP等情報。
+　…將技能名指定到圖標名上，可以顯示出該技能的圖標及技能的冷卻時間、所需MP等情報。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法技能(blueaction)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　…將技能名指定到圖標名上，可以顯示出該技能的圖標及技能的複唱時間、所需MP等情報。
+　…將技能名指定到圖標名上，可以顯示出該技能的圖標及技能的冷卻時間、所需MP等情報。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>PvP技能(pvpaction)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　…將PvP技能名指定到圖標名上，可以顯示出該技能的圖標及技能的複唱時間、所需MP等情報。
+　…將PvP技能名指定到圖標名上，可以顯示出該技能的圖標及技能的冷卻時間、所需MP等情報。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通技能(general)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　…將共通技能名指定到圖標名上，可以顯示出該技能的圖標及技能的複唱時間。
+　…將共通技能名指定到圖標名上，可以顯示出該技能的圖標及技能的冷卻時間。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>情感動作(emote)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　…將情感動作名指定到圖標名上，可以顯示出該情感動作的圖標。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搭檔(buddy) 搭檔名<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -916,12 +916,12 @@ F.A.T.E.範圍內
 　…將快捷發言名指定到圖標名上，可以顯示出該快捷發言的圖標。
 ※省略分類
 　…會按照技能名來處理。","/巨集圖標","",36,0
-208,2,1,3,0,0,"/recast","","/複唱時間(/複唱) 技能名
+208,2,1,3,0,0,"/recast","","/冷卻時間(/冷卻) 技能名
 /recast
-在對話框內顯示技能的複唱時間，即還有多久可以再次使用。
+在對話框內顯示技能的冷卻時間，即還有多久可以再次使用。
 >>示例
-/複唱時間 乙太超流
-顯示距離可再次使用“乙太超流”技能還有多少時間。","/複唱時間","/複唱",36,0
+/冷卻時間 乙太超流
+顯示距離可再次使用「乙太超流」技能還有多少時間。","/冷卻時間","/冷卻",36,0
 209,4,1,2,0,0,"/gearset","/gs","/套裝 指令
 /gearset、/gs
 進行套裝相關的操作。
@@ -941,7 +941,7 @@ F.A.T.E.範圍內
 裝備編號1的套裝並將其投影成投影範本編號2的外觀。","/套裝","",32,0
 210,4,2,2,2,0,"/itemsort","/isort","/道具整理(整理) 指令
 /itemsort、/isort
-可以以比“自動整理”更加詳細的設定來整理物品的排列順序。該命令中設定的條件與原有的“自動整理”條件不會發生衝突，只會對該命令有影響。
+可以以比「自動整理」更加詳細的設定來整理物品的排列順序。該命令中設定的條件與原有的「自動整理」條件不會發生衝突，只會對該命令有影響。
 
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>條件(condition) 對象 條件 順序<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -961,7 +961,7 @@ F.A.T.E.範圍內
 >>順序指定
 升序(asc) 降序(des)
 ※順序省略時會按照升序進行處理。
-※條件指定設為“分欄(tab)”時不需要設定。
+※條件指定設為「分欄(tab)」時不需要設定。
 
 >>範例
 /道具整理 條件 主手 精煉度 升序
@@ -1032,7 +1032,7 @@ F.A.T.E.範圍內
 檢索對象為裝備中的物品、背包、陸行鳥鞍囊、兵裝庫、僱員物品欄、收藏櫃、投影台。
 >>示例
 /道具檢索 治療劑
-檢索所持品中名稱包含了關鍵詞“治療劑”的道具。","/道具檢索","",32,3000
+檢索所持品中名稱包含了關鍵詞「治療劑」的道具。","/道具檢索","",32,3000
 221,2,0,0,0,0,"/idlingcamera","/icam","/觀景視角 代名詞
 /idlingcamera、/icam
 切換為景觀視角。
@@ -1103,7 +1103,7 @@ F.A.T.E.範圍內
 泰坦-艾基
 伊弗利特-艾基
 夕月小仙女
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>省略外貌或在外貌處輸入“撤除(clear)”<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>省略外貌或在外貌處輸入「撤除(clear)」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 召喚獸會恢復原狀。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 顯示召喚獸的外貌設定列表。
@@ -1127,11 +1127,11 @@ F.A.T.E.範圍內
 　將稱號變為隨機一個已獲得的稱號。
 >>範例
 /稱號 設定 銀劍
-　將稱號設為“銀劍”。","/稱號","/title",36,1000
+　將稱號設為「銀劍」。","/稱號","/title",36,1000
 228,2,1,2,0,0,"/bahamutsize","","/巴哈姆特尺寸
 /bahamutsize
 可以變更亞靈神巴哈姆特的尺寸。
-※此文本指令已和“/召喚獸尺寸”合並，今後請使用新指令。","/巴哈姆特尺寸","/bahamutsize",36,0
+※此文本指令已和「/召喚獸尺寸」合並，今後請使用新指令。","/巴哈姆特尺寸","/bahamutsize",36,0
 229,8,3,2,2,2,"/alarm","","/鬧鐘 指令
 /alarm
 設定鬧鐘。
@@ -1159,47 +1159,47 @@ F.A.T.E.範圍內
 　設定一個名為休息的鬧鐘，在本地時間每個小時的30分時以5號音效提醒。","/鬧鐘","",32,0
 231,2,1,2,0,0,"/busy","","/忙碌 指令
 /busy
-將在線狀態設定為“忙碌”。
+將在線狀態設定為「忙碌」。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將狀態改成“忙碌”。
+　將狀態改成「忙碌」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將狀態改回“在線”。
+　將狀態改回「在線」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　在“忙碌”與“在線”之間切換。","/忙碌","",36,0
+　在「忙碌」與「在線」之間切換。","/忙碌","",36,0
 232,2,1,2,0,0,"/away","/afk","/離開 指令
 /away、/afk
-將在線狀態設定為“離開”。
+將在線狀態設定為「離開」。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將狀態改成“離開”。
+　將狀態改成「離開」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將狀態改回“在線”。
+　將狀態改回「在線」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　在“離開”與“在線”之間切換。","/離開","",36,0
+　在「離開」與「在線」之間切換。","/離開","",36,0
 233,1,0,0,0,0,"/lookingforparty","/lfp","/希望組隊 指令 職業
 /lookingforparty、/lfp
-將在線狀態設定為“希望組隊”，並附加希望組隊的職業。
+將在線狀態設定為「希望組隊」，並附加希望組隊的職業。
 >>職業(※可以指定多個職業，順序不限)
 騎士(PLD)　劍術士(GLA)　戰士(WAR)　斧術士(MRD)　暗黑騎士(DRK)　絕槍戰士(GNB)　白魔道士(WHM)　幻術士(CNJ)　學者(SCH)　占星術師(AST)　賢者(SGE)　武僧(MNK)　格鬥士(PGL)　龍騎士(DRG)　槍術士(LNC)　忍者(NIN)　雙劍士(ROG)　武士(SAM)　奪魂者(RPR)　毒蛇劍士(VPR)　吟遊詩人(BRD)　弓術士(ARC)　機工士(MCH)　舞者(DNC)　黑魔道士(BLM)　咒術士(THM)　召喚士(SMN)　巴術士(ACN)　赤魔道士(RDM)　繪靈法師(PCT)　青魔道士(BLU)　木工師(CRP)　鍛造師(BSM)　甲冑師(ARM)　金工師(GSM)　皮革師(LTW)　裁縫師(WVR)　鍊金術師(ALC)　烹調師(CUL)　採掘師(MIN)　園藝師(BTN)　漁師(FSH)
 ※省略該條件會默認為指定目前職業。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將狀態改成“希望組隊”。
+　將狀態改成「希望組隊」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將狀態改回“在線”。
+　將狀態改回「在線」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　在“希望組隊”與“在線”之間切換。","/希望組隊","",36,0
+　在「希望組隊」與「在線」之間切換。","/希望組隊","",36,0
 234,2,1,2,0,0,"/lookingformeld","/lfm","/接受鑲嵌魔晶石請求(/鑲嵌魔晶石) 指令
 /lookingformeld、/lfm
-將在線狀態設定為“接受鑲嵌魔晶石請求”。
+將在線狀態設定為「接受鑲嵌魔晶石請求」。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將狀態改成“接受鑲嵌魔晶石請求”。
+　將狀態改成「接受鑲嵌魔晶石請求」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將狀態改回“在線”。
+　將狀態改回「在線」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　在“接受鑲嵌魔晶石請求”與“在線”之間切換。","/接受鑲嵌魔晶石請求","/鑲嵌魔晶石",36,0
+　在「接受鑲嵌魔晶石請求」與「在線」之間切換。","/接受鑲嵌魔晶石請求","/鑲嵌魔晶石",36,0
 235,1,0,0,0,0,"/searchcomment","/scomment","/個性簽名(/簽名) 文字內容
 /searchcomment、/scomment
 將指定文字內容設定成搜尋玩家時的簽名。","/個性簽名","/簽名",36,0
@@ -1235,14 +1235,14 @@ F.A.T.E.範圍內
 解除回歸者狀態。","/解除回歸者狀態","",36,1000
 239,2,1,2,0,0,"/roleplaying","","/角色扮演中 指令
 /roleplaying
-將在線狀態設定為“角色扮演中”。
+將在線狀態設定為「角色扮演中」。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將狀態改成“角色扮演中”。
+　將狀態改成「角色扮演中」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將狀態改回“在線”。
+　將狀態改回「在線」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　在“角色扮演中”與“在線”之間切換。","/角色扮演中","/roleplaying",36,0
+　在「角色扮演中」與「在線」之間切換。","/角色扮演中","/roleplaying",36,0
 251,3,2,3,2,0,"/action","/ac","/技能 技能名 代名詞
 /action、/ac
 對指定目標使用指定技能。如果身處無法使用技能的環境，或者還沒有學會指定技能，則命令無效。
@@ -1254,13 +1254,13 @@ F.A.T.E.範圍內
 　省略地面目標模式，直接發動技能。
 >>示例
 /技能 重劈 <目標>
-對目前所選擇的目標執行技能“重劈”。
+對目前所選擇的目標執行技能「重劈」。
 /技能 療傷 <2>
-對小隊列表中的2號隊員執行技能“療傷”。
+對小隊列表中的2號隊員執行技能「療傷」。
 /技能 縮地 <目標>
-對選擇目標的位置執行技能“縮地”。
+對選擇目標的位置執行技能「縮地」。
 /技能 縮地 地面關
-對所指的位置直接執行技能“縮地”。","/技能","",36,0
+對所指的位置直接執行技能「縮地」。","/技能","",36,0
 252,2,1,2,0,0,"/battlemode","/bm","/武器狀態 指令
 /battlemode、/bm
 切換拔出和收回武器狀態。
@@ -1332,13 +1332,13 @@ F.A.T.E.範圍內
 命令召喚獸對指定目標使用指定召喚獸技能。以自己或召喚獸為目標的技能可省略輸入代名詞。如果身處無法使用技能的環境，或者指定召喚獸技能以外的技能，或者還沒有學會指定召喚獸技能，則命令無效。
 >>示例
 /召喚獸技能 等待指示
-讓召喚獸執行“等待指示”的命令。","/召喚獸技能","",36,0
+讓召喚獸執行「等待指示」的命令。","/召喚獸技能","",36,0
 268,2,1,6,0,0,"/companionaction","/cac","/搭檔技能 搭檔技能名
 /companionaction、/cac
 命令搭檔使用指定搭檔技能。無需指定目標。如果身處無法使用技能的環境，或者命令搭檔技能以外的技能，或者還沒有學會命令的搭檔技能，則命令無效。
 >>示例
 /搭檔技能 自由戰術
-讓搭檔執行“自由戰術”的命令。","/搭檔技能","/cac",36,0
+讓搭檔執行「自由戰術」的命令。","/搭檔技能","/cac",36,0
 269,1,0,0,0,0,"/facecamera","/fcam","/面向鏡頭
 /facecamera、/fcam
 將角色視線轉向鏡頭視角，再次發動時會解除。","/面向鏡頭","",36,0
@@ -1357,7 +1357,7 @@ F.A.T.E.範圍內
 乘上指定的坐騎。在騎乘狀態下會跳下坐騎。省略坐騎名時也會跳下坐騎。在飛行狀態時會迅速下降。
 >>示例
 /坐騎 專屬陸行鳥
-騎上坐騎“專屬陸行鳥”。","/坐騎","",36,0
+騎上坐騎「專屬陸行鳥」。","/坐騎","",36,0
 272,3,2,3,2,0,"/additionalaction","/aaction","/額外技能 技能名 指令
 /additionalaction、/aaction
 曾經被認為是可以設定額外技能的功能。
@@ -1373,7 +1373,7 @@ F.A.T.E.範圍內
 　省略地面目標模式，直接發動技能。
 >>示例
 /共通技能 隨機坐騎
-發動共通技能“隨機坐騎”。
+發動共通技能「隨機坐騎」。
 /共通技能 任務指令1 <目標>
 對目標發動任務指令中的第一個技能。","/共通技能","",36,0
 274,2,1,8,0,0,"/minion","","/寵物 寵物名
@@ -1381,13 +1381,13 @@ F.A.T.E.範圍內
 召喚出指定的寵物。在已經召喚出寵物的情況下，指定該寵物的名字或省略寵物名會讓寵物離開。
 >>示例
 /寵物 巧兒陸行鳥
-召喚出寵物“巧兒陸行鳥”。","/寵物","",36,0
+召喚出寵物「巧兒陸行鳥」。","/寵物","",36,0
 275,2,0,0,0,0,"/statusoff","","/解除狀態 強化狀態名
 /statusoff
 解除指定的強化狀態效果。
 >>示例
 /解除狀態 捨身
-解除強化效果“捨身”。","/解除狀態","",36,0
+解除強化效果「捨身」。","/解除狀態","",36,0
 276,3,0,0,0,0,"/addpvpaction","/apa","/PvP額外技能 PvP額外技能1  PvP額外技能2
 /addpvpaction、/apa
 曾經被認為是可以設定 PvP額外技能的功能。
@@ -1405,9 +1405,9 @@ F.A.T.E.範圍內
 /PvP技能 暴風斬連擊 <目標>
 對目前所選擇的對象執行連擊中的技能。
 /PvP技能 縮地 <目標>
-對選擇目標的位置執行技能“縮地”。
+對選擇目標的位置執行技能「縮地」。
 /PvP技能 縮地 地面關
-對所指的位置直接執行技能“縮地”。","/PvP技能","",4,0
+對所指的位置直接執行技能「縮地」。","/PvP技能","",4,0
 279,3,2,18,2,0,"/blueaction","","/青魔法技能 青魔法名 代名詞
 /blueaction
 對指定目標使用指定青魔法技能。身處無法使用技能的環境或發動未學習的技能時無法執行該命令。
@@ -1419,10 +1419,10 @@ F.A.T.E.範圍內
 　省略地面目標模式，直接發動技能。
 >>示例
 /青魔法技能 水槍 <目標>
-對目前所選擇的目標執行技能“水槍”。","/青魔法技能","",36,0
+對目前所選擇的目標執行技能「水槍」。","/青魔法技能","",36,0
 301,2,1,2,0,0,"/autolockon","","/自動鎖定 指令
 /autolockon
-開啟“開始自動攻擊時自動鎖定”功能。
+開啟「開始自動攻擊時自動鎖定」功能。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　開啟自動鎖定。
@@ -1432,7 +1432,7 @@ F.A.T.E.範圍內
 　在開啟和關閉之間切換","/自動鎖定","",36,0
 302,2,1,2,0,0,"/autofacetarget","","/自動轉向目標 指令
 /autofacetarget
-開啟角色設定中“發動技能時轉身面向目標”的功能。
+開啟角色設定中「發動技能時轉身面向目標」的功能。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　開啟自動轉向目標。
@@ -1472,7 +1472,7 @@ F.A.T.E.範圍內
 　在開啟和關閉之間切換","/聯繫線","",36,0
 306,2,1,2,0,0,"/autotarget","","/自動選中 指令
 /autotarget
-開啟“遭受敵對性質技能時自動選中目標”的功能。
+開啟「遭受敵對性質技能時自動選中目標」的功能。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　開啟自動選中功能。
@@ -1570,25 +1570,25 @@ F.A.T.E.範圍內
 他人對自己做出的情感動作(emote)　悄悄話(tell)　小隊(party)　公會(freecompany)　團隊(alliance)　通訊貝1～8(linkshell1～8) 新人(beginner)　戰隊(pvpteam)　跨服貝1～8(cwlinkshell1～8)","/訊息視窗","",36,0
 313,3,2,2,2,0,"/battleeffect","","/戰鬥特效 目標 類型
 /battleeffect
-對角色設定中的“戰鬥特效”進行設定。
+對角色設定中的「戰鬥特效」進行設定。
 >>目標
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>自己(self)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　以“自己”為目標。
+　以「自己」為目標。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小隊(party)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　以“小隊”為目標。
+　以「小隊」為目標。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>他人(other)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　以“他人”為目標。
+　以「他人」為目標。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>敵人(enemypc)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　以“PvP時的敵方玩家”為目標。
+　以「PvP時的敵方玩家」為目標。
 >>類型
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>全部(all)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　設定為“完全顯示”。
+　設定為「完全顯示」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>簡單(simple)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　設定為“簡單顯示”。
+　設定為「簡單顯示」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　設定為“不顯示”。
+　設定為「不顯示」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　在“完全顯示”和“不顯示”之間切換。","/戰鬥特效","/戰鬥特效",228,0
+　在「完全顯示」和「不顯示」之間切換。","/戰鬥特效","/戰鬥特效",228,0
 314,3,2,4,2,0,"/hud","","/指定視窗 視窗名 指令
 /hud
 設定是否顯示指定的介面視窗。
@@ -1656,31 +1656,31 @@ F.A.T.E.範圍內
 對快速鍵進行操作及設置。只能在非PvP區域內使用。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>設置(set)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能(action) 技能名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定技能設置到編號1快速鍵的編號2位置上。編號1可以用“目前(current)”來表示目前快速鍵1位置的快速鍵。省略編號2會默認為設置到編號最小的空位上。兩個編號都省略則會默認設置到編號最小快速鍵的編號最小空位上。
+　將指定技能設置到編號1快速鍵的編號2位置上。編號1可以用「目前(current)」來表示目前快速鍵1位置的快速鍵。省略編號2會默認為設置到編號最小的空位上。兩個編號都省略則會默認設置到編號最小快速鍵的編號最小空位上。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法技能(blueaction) 青魔法名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定青魔法設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定青魔法設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通技能(general) 共通技能名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定共通技能設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定共通技能設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具(item) 道具名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定道具設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定道具設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>情感動作(emote) 情感動作名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定情感動作設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定情感動作設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搭檔(buddy) 搭檔技能名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定搭檔技能設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定搭檔技能設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>召喚獸(pet) 召喚獸技能名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定召喚獸技能設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定召喚獸技能設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寵物(minion) 寵物名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定寵物設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定寵物設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>坐騎(mount) 坐騎名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定坐騎設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定坐騎設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>標記(marking) 標記名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定標記設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定標記設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>場景標記(waymark) 場景標記名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定場景標記設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定場景標記設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更換(change) 編號<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定編號的快速鍵切換到默認快速鍵1的位置。編號用“下一個(next)”或“上一個(prev)”可以將目前快速鍵1位置所表示的技能切換到上一組或者下一組快速鍵。
+　將指定編號的快速鍵切換到默認快速鍵1的位置。編號用「下一個(next)」或「上一個(prev)」可以將目前快速鍵1位置所表示的技能切換到上一組或者下一組快速鍵。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>複製(copy) 職業名1 編號1 職業名2 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將職業名1的編號1快速鍵的內容複製到職業名2的編號2快速鍵上。職業名設置為“目前(current)”時會指定目前的職業。職業名設置為“共通(share)”時會指定共通快速鍵。
+　將職業名1的編號1快速鍵的內容複製到職業名2的編號2快速鍵上。職業名設置為「目前(current)」時會指定目前的職業。職業名設置為「共通(share)」時會指定共通快速鍵。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>顯示(display) 編號 開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　顯示指定編號的快速鍵。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>顯示(display) 編號 關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -1694,11 +1694,11 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 編號<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　設置指定編號的快速鍵在目前職業專用和全職業共通之間切換。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　解除編號1快速鍵編號2位置上的技能或用戶巨集指令。編號2設置為“全部(all)”的時候會將該快速鍵上的所有指令都解除。
+　解除編號1快速鍵編號2位置上的技能或用戶巨集指令。編號2設置為「全部(all)」的時候會將該快速鍵上的所有指令都解除。
 
 >>示例
 /快速鍵 設置 隨機坐騎 1 1
-將“隨機坐騎”放入快速鍵1的位置1中。
+將「隨機坐騎」放入快速鍵1的位置1中。
 /快速鍵 更換 2
 將快速鍵2的內容切換到默認快速鍵1的位置。","/快速鍵","",36,0
 316,6,3,2,3,7,"/crosshotbar","/chotbar","/十字快速鍵 指令
@@ -1706,7 +1706,7 @@ F.A.T.E.範圍內
 對十字快速鍵進行操作及設置。只能在非PvP區域內使用。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>設置(set)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能(action) 技能名 編號 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定技能設置到指定編號十字快速鍵的指定位置上。編號可以用“目前(current)”來表示目前的十字快速鍵。
+　將指定技能設置到指定編號十字快速鍵的指定位置上。編號可以用「目前(current)」來表示目前的十字快速鍵。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>青魔法技能(blueaction) 青魔法名 編號 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將指定青魔法設置到指定編號十字快速鍵的指定位置上。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通技能(general) 共通技能名 編號 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -1728,9 +1728,9 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>場景標記(waymark) 場景標記名 編號 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將指定場景標記設置到指定編號十字快速鍵的指定位置上。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更換(change) 編號<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　切換到指定編號的十字快速鍵。編號用“下一個(next)”或“上一個(prev)”可以將目前十字快速鍵位置所表示的技能切換到上一組或者下一組快速鍵。
+　切換到指定編號的十字快速鍵。編號用「下一個(next)」或「上一個(prev)」可以將目前十字快速鍵位置所表示的技能切換到上一組或者下一組快速鍵。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>複製(copy) 職業名1 編號1 職業名2 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將職業名1的編號1十字快速鍵的內容複製到職業名2的編號2十字快速鍵上。職業名設置為“目前(current)”時會指定目前的職業。職業名設置為“共通(share)”時會指定共通快速鍵。
+　將職業名1的編號1十字快速鍵的內容複製到職業名2的編號2十字快速鍵上。職業名設置為「目前(current)」時會指定目前的職業。職業名設置為「共通(share)」時會指定共通快速鍵。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 編號 開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將指定編號的十字快速鍵設置成全職業共通。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 編號 關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -1738,7 +1738,7 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 編號<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　設置指定編號的十字快速鍵在目前職業專用和全職業共通之間切換。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 編號 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　解除指定編號十字快速鍵指定位置上的技能或用戶巨集指令。指定位置設置為“全部(all)”的時候會將該十字快速鍵上的所有指令都解除。
+　解除指定編號十字快速鍵指定位置上的技能或用戶巨集指令。指定位置設置為「全部(all)」的時候會將該十字快速鍵上的所有指令都解除。
 >>指定位置
 <Gui(14)/>＋<Gui(3)/> … LDL(LD1)　<Gui(15)/>＋<Gui(3)/> … RDL(RD1)
 <Gui(14)/>＋<Gui(1)/> … LDU(LD2)　<Gui(15)/>＋<Gui(1)/> … RDU(RD2)
@@ -1777,22 +1777,22 @@ F.A.T.E.範圍內
 　關閉錯誤提示。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　在顯示和關閉之間切換","/技能錯誤","",36,0
-321,2,1,2,0,0,"/recasterror","/rerror","/複唱錯誤 指令
+321,2,1,2,0,0,"/recasterror","/rerror","/冷卻錯誤 指令
 /recasterror、/rerror
-開啟顯示複唱中無法使用技能的錯誤提示。
+開啟顯示冷卻中無法使用技能的錯誤提示。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　顯示錯誤提示。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　關閉錯誤提示。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　在顯示和關閉之間切換","/複唱錯誤","",36,0
+　在顯示和關閉之間切換","/冷卻錯誤","",36,0
 322,1,0,0,0,0,"//eventReset","","//eventReset
 リアルイベント用コマンド。
 ゲーム内の設定をリアルイベント用に初期化する。","","",32,0
 323,2,1,2,0,0,"/crosshotbartype","/chotbartype","/操作類型 指令
 /crosshotbartype、/chotbartype
-變更角色設定中“十字快速鍵的操作類型”。
+變更角色設定中「十字快速鍵的操作類型」。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>按住(hold)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將操作類型設定為按住。
@@ -1802,7 +1802,7 @@ F.A.T.E.範圍內
 　將操作類型設定為混合。","/操作類型","",36,0
 324,2,1,2,0,0,"/crosshotbardisplay","/chotbardisplay","/一直顯示十字快速鍵 指令
 /crosshotbardisplay、/chotbardisplay
-對角色設定中的“一直顯示十字快速鍵”項進行設定。
+對角色設定中的「一直顯示十字快速鍵」項進行設定。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　開啟一直顯示。
@@ -1815,29 +1815,29 @@ F.A.T.E.範圍內
 對用於PvP的快速鍵進行操作及設置。只能在PvP區域內使用。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>設置(set)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能(action) PvP技能名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定的PvP技能設置到編號1快速鍵的編號2位置上。編號1可以用“目前(current)”來表示目前的快速鍵1。省略編號2會默認為設置到編號最小的空位上。兩個編號都省略則會默認設置到編號最小快速鍵的編號最小空位上。
+　將指定的PvP技能設置到編號1快速鍵的編號2位置上。編號1可以用「目前(current)」來表示目前的快速鍵1。省略編號2會默認為設置到編號最小的空位上。兩個編號都省略則會默認設置到編號最小快速鍵的編號最小空位上。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通技能(general) 共通技能名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定共通技能設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定共通技能設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具(item) 道具名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定道具設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定道具設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>情感動作(emote) 情感動作名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定情感動作設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定情感動作設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>搭檔(buddy) 搭檔技能名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定搭檔技能設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定搭檔技能設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>召喚獸(pet) 召喚獸技能名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定召喚獸技能設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定召喚獸技能設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>寵物(minion) 寵物名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定寵物設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定寵物設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>坐騎(mount) 坐騎名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定坐騎設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定坐騎設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>標記(marking) 標記名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定標記設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定標記設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>場景標記(waymark) 場景標記名 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定場景標記設置到編號1快速鍵的編號2位置上。設置規則與“設置(set)”相同。
+　將指定場景標記設置到編號1快速鍵的編號2位置上。設置規則與「設置(set)」相同。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更換(change) 編號<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定編號的快速鍵切換到默認快速鍵1的位置。編號用“下一個(next)”或“上一個(prev)”可以將目前快速鍵1位置所表示的技能切換到上一組或者下一組快速鍵。
+　將指定編號的快速鍵切換到默認快速鍵1的位置。編號用「下一個(next)」或「上一個(prev)」可以將目前快速鍵1位置所表示的技能切換到上一組或者下一組快速鍵。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>複製(copy) 特職名1 編號1 特職名2 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將特職名1的編號1快速鍵的內容複製到特職名2的編號2快速鍵上。特職名設置為“目前(current)”時會指定目前的特職。特職名設置為“共通(share)”時會指定共通快速鍵。
+　將特職名1的編號1快速鍵的內容複製到特職名2的編號2快速鍵上。特職名設置為「目前(current)」時會指定目前的特職。特職名設置為「共通(share)」時會指定共通快速鍵。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>顯示(display) 編號 開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　開啟顯示指定編號的快速鍵。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>顯示(display) 編號 關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -1851,11 +1851,11 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 編號<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　設置指定編號的快速鍵在目前專用和全職業共通之間切換。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 編號1 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　解除編號1快速鍵編號2位置上的技能或用戶巨集指令。編號2設置為“全部(all)”的時候會將該快速鍵上的所有指令都解除。
+　解除編號1快速鍵編號2位置上的技能或用戶巨集指令。編號2設置為「全部(all)」的時候會將該快速鍵上的所有指令都解除。
 
 >>示例
 /PvP快速鍵 技能 淨化 1 1
-將“淨化”放入快速鍵1的位置1中。
+將「淨化」放入快速鍵1的位置1中。
 /PvP快速鍵 更換 2
 將快速鍵2的內容切換到默認快速鍵1的位置。","/PvP快速鍵","/PvP快速鍵",36,0
 326,6,3,2,16,7,"/pvpcrosshotbar","/pvpchotbar","/PvP十字快速鍵 指令
@@ -1863,7 +1863,7 @@ F.A.T.E.範圍內
 對用於PvP的十字快速鍵進行操作及設置。只能在PvP區域內使用。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>設置(set)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>技能(action) PvP技能名 編號 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將指定的PvP技能設置到指定編號十字快速鍵的指定位置上。編號可以用“目前(current)”來表示目前的十字快速鍵。
+　將指定的PvP技能設置到指定編號十字快速鍵的指定位置上。編號可以用「目前(current)」來表示目前的十字快速鍵。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通技能(general) 共通技能名 編號 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將指定共通技能設置到指定編號十字快速鍵的指定位置上。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>道具(item) 道具名 編號 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -1883,9 +1883,9 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>場景標記(waymark) 場景標記名 編號 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將指定場景標記設置到指定編號十字快速鍵的指定位置上。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>更換(change) 編號<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　切換到指定編號的十字快速鍵。編號用“下一個(next)”或“上一個(prev)”可以將目前十字快速鍵位置所表示的技能切換到上一組或者下一組快速鍵。
+　切換到指定編號的十字快速鍵。編號用「下一個(next)」或「上一個(prev)」可以將目前十字快速鍵位置所表示的技能切換到上一組或者下一組快速鍵。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>複製(copy) 特職名1 編號1 特職名2 編號2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　將特職名1的編號1十字快速鍵的內容複製到特職名2的編號2十字快速鍵上。特職名設置為“目前(current)”時會指定目前的特職。特職名設置為“共通(share)”時會指定共通快速鍵。
+　將特職名1的編號1十字快速鍵的內容複製到特職名2的編號2十字快速鍵上。特職名設置為「目前(current)」時會指定目前的特職。特職名設置為「共通(share)」時會指定共通快速鍵。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 編號 開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將指定編號的十字快速鍵設置成全職業共通。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 編號 關(off)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -1893,7 +1893,7 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>共通(share) 編號<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　設置指定編號的十字快速鍵在目前職業專用和全職業共通之間切換。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>清除(remove) 編號 位置<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　解除指定編號十字快速鍵指定位置上的技能或用戶巨集指令。指定位置設置為“全部(all)”的時候會將該十字快速鍵上的所有指令都解除。
+　解除指定編號十字快速鍵指定位置上的技能或用戶巨集指令。指定位置設置為「全部(all)」的時候會將該十字快速鍵上的所有指令都解除。
 >>指定位置
 <Gui(14)/>＋<Gui(3)/> … LDL(LD1)　<Gui(15)/>＋<Gui(3)/> … RDL(RD1)
 <Gui(14)/>＋<Gui(1)/> … LDU(LD2)　<Gui(15)/>＋<Gui(1)/> … RDU(RD2)
@@ -1915,7 +1915,7 @@ F.A.T.E.範圍內
 　在開啟與關閉之間切換。","/情感動作文字提示","",36,0
 328,2,0,0,0,0,"/jobhudmode","","/職業量譜模式 指令
 /jobhudmode
-將目前職業的職業量譜顯示模式改為“普通”或“簡潔”。
+將目前職業的職業量譜顯示模式改為「普通」或「簡潔」。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　切換目前職業第1個職業量譜的顯示模式。
@@ -2042,7 +2042,7 @@ F.A.T.E.範圍內
 　將第三人稱視角俯視角度設為50。","/第三人稱視角俯視角度","",36,0
 340,2,1,2,0,0,"/mountbgm","","/坐騎音樂 指令
 /mountbgm
-設定系統設定中的“騎乘狀態下播放音樂”。
+設定系統設定中的「騎乘狀態下播放音樂」。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開(on)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 播放坐騎自帶的背景音樂。
@@ -2277,14 +2277,14 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/指向","",293,0
-429,2,1,2,0,0,"/poke","","/戳指 指令
+429,2,1,2,0,0,"/poke","","/用手指戳 指令
 /poke
-做出戳指的動作。
+做出用手指戳的動作。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出動作並顯示文字提示。","/戳指","",293,0
+做出動作並顯示文字提示。","/用手指戳","",293,0
 430,2,1,2,0,0,"/congratulate","","/稱讚 指令
 /congratulate
 做出稱讚的動作。
@@ -2884,7 +2884,7 @@ F.A.T.E.範圍內
 做出動作並顯示文字提示。","/莫古莫古舞","",293,0
 528,2,1,2,0,0,"/haurchefant","/hknight","/太棒了 指令
 /haurchefant、/hknight
-做出“太棒了！”的動作。
+做出「太棒了！」的動作。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做動作。

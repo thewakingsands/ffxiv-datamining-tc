@@ -400,7 +400,7 @@ int32,str,byte,byte,bit&01,byte,uint16,byte,str
 515,"MENU_SDS",255,255,False,3,44,0,"劇情輔助器"
 516,"MENU_CHARA_CARD",255,255,False,3,4,0,"冒險者銘牌"
 517,"MENU_VVD",255,255,False,3,43,0,"特殊迷宮探索器"
-518,"MENU_FACE_ACCESSORY",255,255,False,3,16,0,"面部配飾"
+518,"MENU_FACE_ACCESSORY",255,255,False,3,16,0,"臉部配件"
 519,"MENU_MUTE_LIST",255,255,False,3,27,0,"禁音名單"
 520,"TERM_FILTER",255,255,False,3,28,0,"過濾詞"
 550,"CMD_BEGINNER",255,255,False,4,32,5,"臨時切換到新人頻道"

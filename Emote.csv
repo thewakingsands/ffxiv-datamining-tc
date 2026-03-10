@@ -29,7 +29,7 @@ int32,str,ActionTimeline,ActionTimeline,ActionTimeline,ActionTimeline,ActionTime
 25,"否定",717,0,746,746,746,0,0,True,True,True,1,0,False,True,False,False,False,5001,426,64025,124,224,0,1
 26,"慌張",719,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,5005,427,64026,125,225,0,1
 27,"指向",720,0,687,687,687,0,0,True,True,True,1,0,False,True,False,False,False,5108,428,64027,126,226,0,1
-28,"戳指",721,0,748,748,748,0,3185,True,True,True,1,0,False,True,False,False,False,5109,429,64028,127,227,0,1
+28,"用手指戳",721,0,748,748,748,0,3185,True,True,True,1,0,False,True,False,False,False,5109,429,64028,127,227,0,1
 29,"稱讚",723,0,749,749,749,0,0,True,True,True,1,0,False,True,False,False,False,2003,430,64029,128,228,0,1
 30,"激勵",724,0,0,0,0,0,0,False,False,False,1,0,False,True,False,False,False,1008,431,64030,129,229,0,1
 31,"敬禮",725,0,750,750,750,0,0,True,True,True,1,0,False,True,False,False,False,9,432,64031,130,230,0,1

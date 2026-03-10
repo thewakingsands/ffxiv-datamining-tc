@@ -38,8 +38,8 @@ int32,uint32,uint32,uint32,str,str,str
 25,0,0,0,"要以<Highlight>StringParameter(1)</Highlight>登入嗎？","",""
 26,0,0,0,"以該角色登入遊戲需要修改姓名。請輸入新的名字。","",""
 27,0,0,0,"<If(GreaterThan(IntegerParameter(1),0))>請在取得角色情報後修改姓名。<Else/>以該角色登入遊戲需要修改姓名。</If>","",""
-28,0,0,0,"要將姓名改為“<Highlight>StringParameter(1)</Highlight>”嗎？","",""
-29,0,0,0,"要將僱員的姓名改為“<Highlight>StringParameter(1)</Highlight>”嗎？","",""
+28,0,0,0,"要將姓名改為「<Highlight>StringParameter(1)</Highlight>」嗎？","",""
+29,0,0,0,"要將僱員的姓名改為「<Highlight>StringParameter(1)</Highlight>」嗎？","",""
 30,0,0,0,"創建新角色","",""
 31,0,0,0,"要結束角色創建嗎？
 目前正在處理的角色資訊都會消失。","",""
@@ -87,8 +87,8 @@ int32,uint32,uint32,uint32,str,str,str
 70,0,0,0,"該角色為«FINAL FANTASY XIV»1.0版的繼承角色。使用該角色進入遊戲需要重新設定初始戰鬥職業。","",""
 71,0,0,0,"確定","",""
 72,0,0,0,"取消","",""
-73,0,0,0,"初始戰鬥職業設定為“<Sheet(ClassJob,IntegerParameter(1),0)/>”。
-遊戲開始時的城市為“<Sheet(Town,IntegerParameter(2),0)/>”。","",""
+73,0,0,0,"初始戰鬥職業設定為「<Sheet(ClassJob,IntegerParameter(1),0)/>」。
+遊戲開始時的城市為「<Sheet(Town,IntegerParameter(2),0)/>」。","",""
 74,0,0,0,"確定","",""
 75,0,0,0,"取消","",""
 76,0,0,0,"該角色為«FINAL FANTASY XIV»1.0版的繼承角色。使用該角色進入遊戲需要重新設定初始戰鬥職業，同時角色的種族、性別、外貌以及姓名也會有一次修改的機會。","",""
@@ -100,7 +100,7 @@ int32,uint32,uint32,uint32,str,str,str
 82,0,0,0,"使用已儲存的角色形象","",""
 83,0,0,0,"為減緩登入壓力，暫時簡化角色情報顯示。
 如需編輯角色外貌或改名，
-可透過右鍵選單選擇“取得角色情報”。","",""
+可透過右鍵選單選擇「取得角色情報」。","",""
 84,0,0,0,"歡迎來到«FINAL FANTASY XIV»的世界。
 請創建一個新角色來開始您的冒險。","",""
 85,0,0,0,"確定","",""
@@ -125,7 +125,7 @@ int32,uint32,uint32,uint32,str,str,str
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>該角色正在非原始DC遊玩。
 想要返回原始伺服器時，
 可以在登入前角色名稱的右鍵選單中
-選擇“返回原始伺服器”。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+選擇「返回原始伺服器」。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 97,0,120,0,"","",""
 98,0,0,0,"","",""
 99,0,0,0,"
@@ -163,7 +163,7 @@ int32,uint32,uint32,uint32,str,str,str
 無論和哪個種族都建立起了良好的關係。"
 115,0,0,0,"","",""
 116,0,0,0,"貓魅族<Switch(IntegerParameter(1))><Case(1)> 男</Case><Case(2)> 女</Case><Case(3)></Case></Switch>","","高揚的耳朵與柔軟的尾巴是貓魅族的特點。
-在第五靈災“大冰雪時代”，有一支狩獵種族為了追捕獵物而渡過了海洋，
+在第五靈災「大冰雪時代」，有一支狩獵種族為了追捕獵物而渡過了海洋，
 貓魅族正是這成功到達艾奧傑亞的勇敢種族的後裔。
 不過也因為這個原因，種族人數在艾奧傑亞地區屬於少數。
 他們在族內的領地意識也很強，所以即使是成為了城邦居民，
@@ -205,17 +205,17 @@ int32,uint32,uint32,uint32,str,str,str
 沙漠之民傾向於有了想法便立刻動手去做，基本都是實踐主義者，
 這種性格對於他們捕捉商機也帶來了很大幫助。"
 131,0,0,0,"","",""
-132,0,0,0,"逐日之民","","逐日之民通常自稱為“太陽的使者”，信仰太陽神阿澤瑪的信徒很多。
+132,0,0,0,"逐日之民","","逐日之民通常自稱為「太陽的使者」，信仰太陽神阿澤瑪的信徒很多。
 雖然從艾奧傑亞整體來看，這一種族的總人口數量很少，
 不過在利姆薩·羅敏薩，卻有著相當一部分已經融入了和其他種族共同生活的環境中。
 此外，據說這一種族內還有一部分氏族生活在撒溝厲沙漠等邊境地區。"
 133,0,0,0,"","",""
-134,0,0,0,"護月之民","","護月之民通常自稱為“月亮的守衛”，信仰月亮神梅茵菲娜的信徒很多。
+134,0,0,0,"護月之民","","護月之民通常自稱為「月亮的守衛」，信仰月亮神梅茵菲娜的信徒很多。
 他們主要在黑衣森林過著狩獵生活，也因此與將他們視為偷獵者的
 格里達尼亞居民長年處於對立的狀態。
 不過近年來似乎有所和解，現在也有一部分人生活在城邦內。"
 135,0,0,0,"","",""
-136,0,0,0,"北洋之民","","北洋之民曾是以“海狼”之名從北方的海域侵襲而來的海盜。
+136,0,0,0,"北洋之民","","北洋之民曾是以「海狼」之名從北方的海域侵襲而來的海盜。
 現在作為構成海洋城邦利姆薩·羅敏薩的主要部族，
 多數人都在從事著水手及水兵一類的工作。
 北洋之民一直遵從著古老的傳統習慣，他們的名字也是由古魯加語而來。"
@@ -298,7 +298,7 @@ int32,uint32,uint32,uint32,str,str,str
 以格鬥士為初始職業的特職：武僧
 開始地點：烏爾達哈"
 181,0,0,0,"","",""
-182,0,230906,0,"斧術士"," ","“大斧”通常是海盜們在破壞敵船或強襲登陸時使用的武器，
+182,0,230906,0,"斧術士"," ","「大斧」通常是海盜們在破壞敵船或強襲登陸時使用的武器，
 斧術士則是以使用這種高破壞性武器為主的專家。
 雖然大斧給人以很強烈的傳統海盜武器的印象，
 但是由於在戰爭以及討伐魔物時都有著非常出色的表現，
@@ -328,7 +328,7 @@ int32,uint32,uint32,uint32,str,str,str
 187,0,0,0,"","",""
 188,0,230909,0,"幻術士"," ","幻術士能夠使用幻術魔法，這是一種受到屬性影響很強烈的魔法。
 透過感受自身周圍萬物，可以發現土、風、水等自然屬性。
-攜帶上以自然物為素材做出的魔器“幻具”，
+攜帶上以自然物為素材做出的魔器「幻具」，
 便可以將自己的乙太與周圍的元素轉換成魔法。
 由於幻術士都很擅長恢復及強化等施展到肉體身上的魔法，
 所以高級幻術士同時也是一名優秀的醫療能手。
@@ -338,15 +338,15 @@ int32,uint32,uint32,uint32,str,str,str
 189,0,0,0,"","",""
 190,0,230910,0,"咒術士"," ","所謂咒術，是指利用自身的消極性情而發動的魔法。
 咒術士能夠透過觀測自己的內心本性，將心中蘊藏的神秘力量發動出來。
-咒術士所持有的魔器被稱為“咒具”，是將念珠嵌入到笏板之中構成。
+咒術士所持有的魔器被稱為「咒具」，是將念珠嵌入到笏板之中構成。
 並以念珠為集中點注入乙太力，便可發動出破壞性極強的魔法。
 
 以咒術士為初始職業的特職：黑魔道士
 開始地點：烏爾達哈"
 191,0,0,0,"","",""
 192,0,230929,0,"巴術士"," ","巴術士能夠透過秘術來操縱特定的使魔。
-巴術以南洋傳來的算術為源頭，透過獨特的幾何學圖形“魔紋”來控制精神力。
-平時巴術士都會攜帶描繪有多種魔紋的“魔導書”以便隨時變更乙太的流動。
+巴術以南洋傳來的算術為源頭，透過獨特的幾何學圖形「魔紋」來控制精神力。
+平時巴術士都會攜帶描繪有多種魔紋的「魔導書」以便隨時變更乙太的流動。
 另外，在解開寶珠的神秘原理後，透過特定的魔紋還能夠召喚出卡邦庫爾靈獸。
 
 以巴術士為初始職業的特職：召喚士、學者（治療職業）
@@ -856,9 +856,9 @@ https://www.ffxiv.com.tw","",""
 627,0,0,0,"確定要放棄編輯中的容貌嗎？
 角色會還原成之前的容貌。","",""
 628,0,0,0,"","",""
-629,0,0,0,"確定要以“<Highlight>StringParameter(1)</Highlight>”登入遊戲嗎？
+629,0,0,0,"確定要以「<Highlight>StringParameter(1)</Highlight>」登入遊戲嗎？
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※可以透過右鍵選單重新編輯角色形象。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
-630,0,0,0,"可以對角色的種族、性別及外貌進行更改。請在右鍵選單中選擇“重新編輯角色”。","",""
+630,0,0,0,"可以對角色的種族、性別及外貌進行更改。請在右鍵選單中選擇「重新編輯角色」。","",""
 631,0,0,0,"確定要對角色的種族、性別及外貌進行更改嗎？
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※不進行重新編輯也可以直接登入遊戲。
 ※特定條件下的髮型和妝容會回到初始狀態。
@@ -871,11 +871,11 @@ https://www.ffxiv.com.tw","",""
 636,0,0,0,"：標記髮型","",""
 637,0,0,0,"<CommandIcon(13)/>：標記髮型","",""
 638,0,0,0,"只顯示標記的髮型","",""
-639,0,0,0,"透過使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容師處選擇的特殊髮型。","",""
-640,0,0,0,"透過完成季節活動“未知的女騎士”或使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容師處選擇的特殊髮型。","",""
-641,0,0,0,"為舉辦“永結同心典禮”做準備後才可以在美容師處選擇的特殊髮型。","",""
-642,0,0,0,"透過完成季節活動“令人驚訝的變身奇術”至“帶來歡笑的幸運魔咒”或使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容師處選擇的特殊妝容。","",""
-643,0,0,0,"透過使用“<Sheet(Item,IntegerParameter(1),0)/>”才可以在美容師處選擇的特殊面妝。","",""
+639,0,0,0,"透過使用「<Sheet(Item,IntegerParameter(1),0)/>」才可以在美容師處選擇的特殊髮型。","",""
+640,0,0,0,"透過完成季節活動「未知的女騎士」或使用「<Sheet(Item,IntegerParameter(1),0)/>」才可以在美容師處選擇的特殊髮型。","",""
+641,0,0,0,"為舉辦「永結同心典禮」做準備後才可以在美容師處選擇的特殊髮型。","",""
+642,0,0,0,"透過完成季節活動「令人驚訝的變身奇術」至「帶來歡笑的幸運魔咒」或使用「<Sheet(Item,IntegerParameter(1),0)/>」才可以在美容師處選擇的特殊妝容。","",""
+643,0,0,0,"透過使用「<Sheet(Item,IntegerParameter(1),0)/>」才可以在美容師處選擇的特殊面妝。","",""
 644,0,0,0,"","",""
 645,0,0,0,"因角色在任務過程中登出或中斷連線，無法重新編輯角色。
 請先登入遊戲，退出任務後重新嘗試。","",""
@@ -888,8 +888,8 @@ https://www.ffxiv.com.tw","",""
 包含部分視窗內儲存的設定情報。","介面設定",""
 652,0,1,0,"儲存每個職業的快速鍵與十字快速鍵情報。","快速鍵",""
 653,0,2,0,"儲存套裝列表情報。","套裝列表",""
-654,0,3,0,"儲存角色的滑鼠指標或手把的操作類型設定，
-包括快速鍵設定、訊消過濾等情報。","角色設定",""
+654,0,3,0,"儲存角色的滑鼠或手把的操作類型設定，
+包括快速鍵設定、訊息過濾等情報。","角色設定",""
 655,0,4,0,"儲存各個角色專用巨集的情報。","角色專用巨集",""
 656,0,5,0,"儲存技能變換設定、坐騎列表的常用列表
 以及肖像設計等情報。","其他",""
@@ -1057,7 +1057,7 @@ https://www.ffxiv.com.tw","",""
 817,0,0,0,"","",""
 818,0,0,0,"","",""
 819,0,0,0,"","",""
-820,0,0,0,"“伺服器”即是您的角色所在的世界。
+820,0,0,0,"「伺服器」即是您的角色所在的世界。
 選定原始伺服器之後，沒有特殊情況無法變更。
 如果想和朋友一起體驗«FINAL FANTASY XIV»的樂趣，
 建議將角色建在同一個伺服器裡。
@@ -1076,7 +1076,7 @@ https://www.ffxiv.com.tw","",""
 821,0,0,0,"(Skipped)","",""
 822,0,0,0,"<Switch(IntegerParameter(2))><Case(1)><Sheet(Tribe,IntegerParameter(1),0)/>♂</Case><Case(2)><Sheet(Tribe,IntegerParameter(1),1)/>♀</Case></Switch>の外見やクラス・名前などのキャラクターメイクデータを一時保存データスロット<Value>IntegerParameter(3)</Value>に保存します。","",""
 823,0,0,0,"讀取在<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>儲存的<Value>IntegerParameter(2)</Value>號<Switch(IntegerParameter(4))><Case(1)><Sheet(Tribe,IntegerParameter(3),0)/>男</Case><Case(2)><Sheet(Tribe,IntegerParameter(3),1)/>女</Case></Switch>人物形象資料。","",""
-824,0,0,0,"在“FINAL FANTASY XIV”資料夾中檢測到了人物形象資料。
+824,0,0,0,"在「FINAL FANTASY XIV」資料夾中檢測到了人物形象資料。
 請選擇要讀取的資料，前往創建人物形象的最後一步。","",""
 825,0,0,0,"キャラクターメイクを保存できました。ゲームのパッチ適用の完了までお待ちください。
 アプリケーションを終了させるとランチャーに戻ります。","",""
@@ -1149,8 +1149,8 @@ https://www.ffxiv.com.tw","",""
 878,0,0,0,"初期状態のデータです。","",""
 879,0,0,0,"暫時不能進行上傳。","",""
 880,0,0,0,"備份服務暫停提供。","",""
-881,0,0,0,"確定要使用“<Highlight>StringParameter(3)</Highlight><Gui(88)/><Highlight>StringParameter(4)</Highlight>”的備份資料覆蓋
-“<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>”的角色設定數據嗎？","",""
+881,0,0,0,"確定要使用「<Highlight>StringParameter(3)</Highlight><Gui(88)/><Highlight>StringParameter(4)</Highlight>」的備份資料覆蓋
+「<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>」的角色設定數據嗎？","",""
 882,0,0,0,"沒有其他角色的<UIForeground>F20239</UIForeground><UIGlow>F2023A</UIGlow>角色設定資料<UIGlow>01</UIGlow><UIForeground>01</UIForeground>備份。","",""
 883,0,0,0,"搜尋","",""
 884,0,0,0,"資料準備就緒","",""
@@ -1308,7 +1308,7 @@ https://www.ffxiv.com.tw","",""
 993,0,0,0,"複製角色設定","",""
 994,0,0,0,"請選擇想要複製的角色設定。","",""
 995,0,0,0,"可以將其他角色的介面設定
-以及快速鍵鍵位等設定數據複製到目當角色。
+以及快速鍵鍵位等設定數據複製到所選角色。
 請選擇想要複製的角色。
 ※最多顯示8位最近登錄過遊戲的角色。","",""
 996,0,0,0,"正在搜尋其他角色的設定數據。","",""
@@ -1428,12 +1428,12 @@ https://www.ffxiv.com.tw","",""
 1106,0,0,0,"正在移動到空閒伺服器，請稍候。","",""
 1107,0,0,0,"現在無法使用此功能。","",""
 1108,0,0,0,"距離上次移動時間過短，請經過一段時間後再嘗試移動。","",""
-1109,0,0,0,"進行移動前，請先透過右鍵選單選擇“修改姓名”，確定好角色的新名字。","",""
-1110,0,0,0,"進行移動前，請先透過右鍵選單選擇“修改僱員姓名”，確定好僱員的新名字。","",""
-1111,0,0,0,"角色上次結束遊戲或斷線的地點為副本任務內，無法<If(GreaterThan(IntegerParameter(1),0))>“返回原始伺服器”<Else/>“移動到空閒伺服器”</If>。
+1109,0,0,0,"進行移動前，請先透過右鍵選單選擇「修改姓名」，確定好角色的新名字。","",""
+1110,0,0,0,"進行移動前，請先透過右鍵選單選擇「修改僱員姓名」，確定好僱員的新名字。","",""
+1111,0,0,0,"角色上次結束遊戲或斷線的地點為副本任務內，無法<If(GreaterThan(IntegerParameter(1),0))>「返回原始伺服器」<Else/>「移動到空閒伺服器」</If>。
 請先登入一次再進行該操作。","",""
 1112,0,0,0,"角色還未完成遊戲的初始教學，無法移動到空閒伺服器。","",""
-1113,0,0,0,"角色在小黑屋內，無法<If(GreaterThan(IntegerParameter(1),0))>“返回原始伺服器”<Else/>“移動到空閒伺服器”</If>。","",""
+1113,0,0,0,"角色在小黑屋內，無法<If(GreaterThan(IntegerParameter(1),0))>「返回原始伺服器」<Else/>「移動到空閒伺服器」</If>。","",""
 1114,0,0,0,"現在「空いているワールドへ移動」サービスが一時的にご利用いただけません。","",""
 1115,0,0,0,"沒能順利移動到空閒伺服器。請在經過一段時間後，透過右鍵選單再次嘗試。","",""
 1116,0,0,0,"已經順利移動到<Highlight>StringParameter(1)</Highlight>，可以正常進入遊戲。","",""
@@ -1474,7 +1474,7 @@ https://www.ffxiv.com.tw","",""
 1151,0,0,0,"返回原始DC","",""
 1152,0,0,0,"來自","",""
 1153,0,0,0,"前往","",""
-1154,0,0,0,"<Highlight>StringParameter(1)</Highlight> “ <Highlight>StringParameter(2)</Highlight> ”","",""
+1154,0,0,0,"<Highlight>StringParameter(1)</Highlight> 「 <Highlight>StringParameter(2)</Highlight> 」","",""
 1155,0,0,0,"前往其他DC的伺服器進行遊玩吧！
 在其他DC依舊可以自由組隊、參加招募、購買物品以及進行任務。
 盡情享受超域傳送帶來的樂趣吧！
@@ -1496,8 +1496,8 @@ https://www.ffxiv.com.tw","",""
 1167,0,0,0,"取消","",""
 1168,0,0,0,"❖<Highlight>StringParameter(1)</Highlight>","",""
 1169,0,0,0,"正在取得伺服器情報。","",""
-1170,0,0,0,"將角色“<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>”移動至
-DC“<Highlight>StringParameter(3)</Highlight>”的伺服器“<Highlight>StringParameter(4)</Highlight>”。
+1170,0,0,0,"將角色「<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>」移動至
+DC「<Highlight>StringParameter(3)</Highlight>」的伺服器「<Highlight>StringParameter(4)</Highlight>」。
 
 預測需要時間：<If(LessThan(IntegerParameter(5),60))>不到1分鐘<Else/><If(LessThan(IntegerParameter(5),300))>不到5分鐘<Else/><If(LessThan(IntegerParameter(5),600))>不到10分鐘<Else/><If(LessThan(IntegerParameter(5),1200))>不到20分鐘<Else/>目前擁擠，可能花費很長時間。</If></If></If></If>
 
@@ -1509,8 +1509,8 @@ DC“<Highlight>StringParameter(3)</Highlight>”的伺服器“<Highlight>Strin
 1172,0,0,0,"返回上一步","",""
 1173,0,0,0,"角色正在進行超域傳送，請等待傳送完成。
 預測需要時間：<If(LessThan(IntegerParameter(1),60))>不到1分鐘<Else/><If(LessThan(IntegerParameter(1),300))>不到5分鐘<Else/><If(LessThan(IntegerParameter(1),600))>不到10分鐘<Else/><If(LessThan(IntegerParameter(1),1200))>不到20分鐘<Else/>目前擁擠，可能花費很長時間。</If></If></If></If>","",""
-1174,0,0,0,"角色“<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>”已經移動至
-DC“<Highlight>StringParameter(3)</Highlight>”的伺服器“<Highlight>StringParameter(4)</Highlight>”！","",""
+1174,0,0,0,"角色「<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>」已經移動至
+DC「<Highlight>StringParameter(3)</Highlight>」的伺服器「<Highlight>StringParameter(4)</Highlight>」！","",""
 1175,0,0,0,"該角色正在<Highlight>StringParameter(1)</Highlight>DC遊玩。","",""
 1176,0,0,0,"以該角色登入遊戲需要修改姓名。修改姓名需要返回原始伺服器。","",""
 1177,0,0,0,"以該角色登入遊戲需要修改僱員姓名。修改僱員姓名需要返回原始伺服器。","",""
@@ -1528,8 +1528,8 @@ DC“<Highlight>StringParameter(3)</Highlight>”的伺服器“<Highlight>Strin
 1188,0,0,0,"選擇DC","",""
 1189,0,0,0,"選擇伺服器","",""
 1190,0,0,0,"執行","",""
-1191,0,0,0,"將角色“<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>”返回至
-原始DC“<Highlight>StringParameter(3)</Highlight>”的原始伺服器“<Highlight>StringParameter(4)</Highlight>”。
+1191,0,0,0,"將角色「<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>」返回至
+原始DC「<Highlight>StringParameter(3)</Highlight>」的原始伺服器「<Highlight>StringParameter(4)</Highlight>」。
 預測需要時間：<If(LessThan(IntegerParameter(5),60))>不到1分鐘<Else/><If(LessThan(IntegerParameter(5),300))>不到5分鐘<Else/><If(LessThan(IntegerParameter(5),600))>不到10分鐘<Else/><If(LessThan(IntegerParameter(5),1200))>不到20分鐘<Else/>目前擁擠，可能花費很長時間。</If></If></If></If>
 
 <UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>角色移動時的注意事項
@@ -1545,30 +1545,30 @@ DC“<Highlight>StringParameter(3)</Highlight>”的伺服器“<Highlight>Strin
 1197,0,0,0,"","",""
 1198,0,0,0,"","",""
 1199,0,0,0,"","",""
-1200,0,0,0,"目前無法使用<If(GreaterThan(IntegerParameter(2),0))>“返回原始伺服器”<Else/>“前往其他DC遊玩”</If>功能。<If(GreaterThan(IntegerParameter(1),0))>
+1200,0,0,0,"目前無法使用<If(GreaterThan(IntegerParameter(2),0))>「返回原始伺服器」<Else/>「前往其他DC遊玩」</If>功能。<If(GreaterThan(IntegerParameter(1),0))>
 [<Value>IntegerParameter(1)</Value>]<Else/></If>","",""
-1201,0,0,0,"現在所選的DC中沒有相同地域的其他DC，因此無法使用“前往其他DC遊玩”。","",""
-1202,0,0,0,"需要經過一定時間才可再次執行<If(GreaterThan(IntegerParameter(1),0))>“返回原始伺服器”<Else/>“前往其他DC遊玩”</If>。","",""
-1203,0,0,0,"進行移動前，請先透過右鍵選單選擇“修改姓名”，確定好角色的新名字。","",""
-1204,0,0,0,"進行移動前，請先透過右鍵選單選擇“修改僱員姓名”，確定好僱員的新名字。","",""
-1205,0,0,0,"角色在小黑屋內，無法使用<If(GreaterThan(IntegerParameter(1),0))>“返回原始伺服器”<Else/>“前往其他DC遊玩”</If>功能。","",""
+1201,0,0,0,"現在所選的DC中沒有相同地域的其他DC，因此無法使用「前往其他DC遊玩」。","",""
+1202,0,0,0,"需要經過一定時間才可再次執行<If(GreaterThan(IntegerParameter(1),0))>「返回原始伺服器」<Else/>「前往其他DC遊玩」</If>。","",""
+1203,0,0,0,"進行移動前，請先透過右鍵選單選擇「修改姓名」，確定好角色的新名字。","",""
+1204,0,0,0,"進行移動前，請先透過右鍵選單選擇「修改僱員姓名」，確定好僱員的新名字。","",""
+1205,0,0,0,"角色在小黑屋內，無法使用<If(GreaterThan(IntegerParameter(1),0))>「返回原始伺服器」<Else/>「前往其他DC遊玩」</If>功能。","",""
 1206,0,0,0,"角色還未完成遊戲的初始教學，無法前往其他DC遊玩。","",""
 1207,0,0,0,"前往其他DC遊玩時，需要角色處於原始伺服器。","",""
-1208,0,0,0,"沒能順利<If(GreaterThan(IntegerParameter(2),0))>“返回原始伺服器”<Else/>“前往其他DC遊玩”</If>。請在經過一段時間後，透過右鍵選單再次嘗試。<If(GreaterThan(IntegerParameter(1),0))>
+1208,0,0,0,"沒能順利<If(GreaterThan(IntegerParameter(2),0))>「返回原始伺服器」<Else/>「前往其他DC遊玩」</If>。請在經過一段時間後，透過右鍵選單再次嘗試。<If(GreaterThan(IntegerParameter(1),0))>
 [<Value>IntegerParameter(1)</Value>]<Else/></If>","",""
-1209,0,0,0,"<If(GreaterThan(IntegerParameter(2),0))>“返回原始伺服器”<Else/>“前往其他DC遊玩”</If>功能臨時維護中。<If(GreaterThan(IntegerParameter(1),0))>
+1209,0,0,0,"<If(GreaterThan(IntegerParameter(2),0))>「返回原始伺服器」<Else/>「前往其他DC遊玩」</If>功能臨時維護中。<If(GreaterThan(IntegerParameter(1),0))>
 [<Value>IntegerParameter(1)</Value>]<Else/></If>","",""
-1210,0,0,0,"沒能順利<If(GreaterThan(IntegerParameter(2),0))>“返回原始伺服器”<Else/>“前往其他DC遊玩”</If>。<If(GreaterThan(IntegerParameter(1),0))>
+1210,0,0,0,"沒能順利<If(GreaterThan(IntegerParameter(2),0))>「返回原始伺服器」<Else/>「前往其他DC遊玩」</If>。<If(GreaterThan(IntegerParameter(1),0))>
 [<Value>IntegerParameter(1)</Value>]<Else/></If>","",""
-1211,0,0,0,"角色上次結束遊戲或斷線的地點為副本任務內，無法<If(GreaterThan(IntegerParameter(1),0))>“返回原始伺服器”<Else/>“前往其他DC遊玩”</If>。
+1211,0,0,0,"角色上次結束遊戲或斷線的地點為副本任務內，無法<If(GreaterThan(IntegerParameter(1),0))>「返回原始伺服器」<Else/>「前往其他DC遊玩」</If>。
 請先登入一次再進行該操作。","",""
-1212,0,0,0,"透過“前往其他DC遊玩”所選擇的伺服器“<Highlight>StringParameter(1)</Highlight>”中可創建的角色數已達上限，無法移動。","",""
-1213,0,0,0,"無法在原始DC以外的DC執行“前往其他DC遊玩”。","",""
-1214,0,0,0,"“返回原始伺服器”時選擇的伺服器“<Highlight>StringParameter(1)</Highlight>”，不是該角色的原始伺服器。","",""
-1215,0,0,0,"透過“前往其他DC遊玩”所選擇的伺服器“<Highlight>StringParameter(1)</Highlight>”是目前DC內的伺服器，請使用跨界傳送進行移動。","",""
-1216,0,0,0,"透過“前往其他DC遊玩”所選擇的伺服器“<Highlight>StringParameter(1)</Highlight>”是其他地域DC的伺服器，無法移動。","",""
-1217,0,0,0,"透過“前往其他DC遊玩”所選擇的伺服器“<Highlight>StringParameter(1)</Highlight>”是目前所在伺服器，處理中斷。","",""
-1218,0,0,0,"目前無法移動至透過<If(GreaterThan(IntegerParameter(2),0))>“返回原始伺服器”<Else/>“前往其他DC遊玩”</If>所選擇的伺服器“<Highlight>StringParameter(1)</Highlight>”。","",""
+1212,0,0,0,"透過「前往其他DC遊玩」所選擇的伺服器「<Highlight>StringParameter(1)</Highlight>」中可創建的角色數已達上限，無法移動。","",""
+1213,0,0,0,"無法在原始DC以外的DC執行「前往其他DC遊玩」。","",""
+1214,0,0,0,"「返回原始伺服器」時選擇的伺服器「<Highlight>StringParameter(1)</Highlight>」，不是該角色的原始伺服器。","",""
+1215,0,0,0,"透過「前往其他DC遊玩」所選擇的伺服器「<Highlight>StringParameter(1)</Highlight>」是目前DC內的伺服器，請使用跨界傳送進行移動。","",""
+1216,0,0,0,"透過「前往其他DC遊玩」所選擇的伺服器「<Highlight>StringParameter(1)</Highlight>」是其他地域DC的伺服器，無法移動。","",""
+1217,0,0,0,"透過「前往其他DC遊玩」所選擇的伺服器「<Highlight>StringParameter(1)</Highlight>」是目前所在伺服器，處理中斷。","",""
+1218,0,0,0,"目前無法移動至透過<If(GreaterThan(IntegerParameter(2),0))>「返回原始伺服器」<Else/>「前往其他DC遊玩」</If>所選擇的伺服器「<Highlight>StringParameter(1)</Highlight>」。","",""
 1219,0,0,0,"部分遊戲資料出現錯誤，無法<If(GreaterThan(IntegerParameter(1),0))>返回原始伺服器<Else/>前往其他DC遊玩</If>。請透過回報或聯絡客服。<If(GreaterThan(IntegerParameter(2),0))>
 [<Value>IntegerParameter(2)</Value>]<Else/></If>","",""
 1220,0,0,0,"發生錯誤，伺服器無回應。<If(GreaterThan(IntegerParameter(1),0))>
@@ -1585,8 +1585,8 @@ DC“<Highlight>StringParameter(3)</Highlight>”的伺服器“<Highlight>Strin
 1230,0,0,0,"此角色需要修改僱員姓名才可登入。請先取得角色情報，然後修改僱員姓名。","",""
 1231,0,0,0,"返回原始伺服器。
 登入時將會從角色創建時所選城邦的乙太之光進入遊戲。","",""
-1232,0,0,0,"此角色需要返回原始伺服器修改姓名後才可使用“移動到空閒伺服器”功能。","",""
-1233,0,0,0,"此角色需要返回原始伺服器修改僱員姓名後才可使用“移動到空閒伺服器”功能。","",""
+1232,0,0,0,"此角色需要返回原始伺服器修改姓名後才可使用「移動到空閒伺服器」功能。","",""
+1233,0,0,0,"此角色需要返回原始伺服器修改僱員姓名後才可使用「移動到空閒伺服器」功能。","",""
 1234,0,0,0,"您此前從未連接過<Highlight>StringParameter(1)</Highlight>伺服器所在的<Highlight>StringParameter(2)</Highlight>，無法進行超域傳送。
 請退出遊戲，在登入器中選擇<Highlight>StringParameter(2)</Highlight>後開始遊戲，直到進入該DC的角色選擇介面。此後就可以向該DC進行超域傳送了。","",""
 1235,0,0,0,"您在<Highlight>StringParameter(1)</Highlight>伺服器所在的<Highlight>StringParameter(2)</Highlight>中創建的角色數量已達到上限，無法使用超域傳送前往該DC。
@@ -1595,7 +1595,7 @@ DC“<Highlight>StringParameter(3)</Highlight>”的伺服器“<Highlight>Strin
 1237,0,0,0,"沒能在此DC找到目前設備記錄的最後一個登出角色。
 請前往其他DC查看。","",""
 1238,0,0,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>此伺服器目前擁擠，限制了原始伺服器之外的角色登入，因此無法返回副本任務。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-如果執行“退出副本任務”，可選擇“返回原始伺服器”然後在原始伺服器登入遊戲。
+如果執行「退出副本任務」，可選擇「返回原始伺服器」然後在原始伺服器登入遊戲。
 要退出副本任務嗎？","",""
 1239,0,0,0,"開始執行退出副本任務，請稍候。","",""
 1240,0,0,0,"正在退出副本任務。
@@ -2163,7 +2163,7 @@ DC“<Highlight>StringParameter(3)</Highlight>”的伺服器“<Highlight>Strin
 1799,0,0,0,"","",""
 1800,0,0,0,"確定要取消登入嗎？","",""
 1801,0,0,0,"一段時間內沒有進行任何操作，已經自動登出遊戲。","",""
-1802,0,0,0,"<UIForeground>F201FE</UIForeground><UIGlow>F201FF</UIGlow>選擇此種族需要玩家持有“<Sheet(ExVersion,IntegerParameter(1),0)/>”。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+1802,0,0,0,"<UIForeground>F201FE</UIForeground><UIGlow>F201FF</UIGlow>選擇此種族需要玩家持有「<Sheet(ExVersion,IntegerParameter(1),0)/>」。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1803,0,0,0,"RGB : <Value>IntegerParameter(1)</Value>,<Value>IntegerParameter(2)</Value>,<Value>IntegerParameter(3)</Value>","",""
 1804,0,230901,0,"防護職業"," ","職能為保護同伴的戰鬥職業。
 有著遠超其他職業的防禦力，
@@ -2352,13 +2352,13 @@ DC“<Highlight>StringParameter(3)</Highlight>”的伺服器“<Highlight>Strin
 1964,0,0,0,"將角色的姿勢設定為站姿。可以方便地查看各個細節。","",""
 1965,0,0,0,"預覽角色各種情感動作的表現。可以方便地確認角色的動作習慣。","",""
 1966,0,0,0,"","",""
-1967,0,0,0,"將背景畫面與環境切換到“乙太空間”。","",""
-1968,0,0,0,"將背景畫面與環境切換到“森林場景”。","",""
-1969,0,0,0,"將背景畫面與環境切換到“室內”。","",""
+1967,0,0,0,"將背景畫面與環境切換到「乙太空間」。","",""
+1968,0,0,0,"將背景畫面與環境切換到「森林場景」。","",""
+1969,0,0,0,"將背景畫面與環境切換到「室內」。","",""
 1970,0,0,0,"放棄未完成的角色，退出角色創建。","",""
-1971,0,0,0,"將背景畫面與環境切換到“海岸場景”。","",""
-1972,0,0,0,"將背景畫面與環境切換到“荒野場景”。","",""
-1973,0,0,0,"艾奧傑亞曆","","星與靈雙極性交互輪迴之月，依6屬性順次排列，從而成為一“年”。
+1971,0,0,0,"將背景畫面與環境切換到「海岸場景」。","",""
+1972,0,0,0,"將背景畫面與環境切換到「荒野場景」。","",""
+1973,0,0,0,"艾奧傑亞曆","","星與靈雙極性交互輪迴之月，依6屬性順次排列，從而成為一「年」。
 （※所選月日對應的新曆日期會顯示在畫面下部）"
 1974,0,0,0,"<Value>IntegerParameter(2)</Value>級<Sheet(ClassJob,IntegerParameter(1),0)/>","",""
 1975,0,0,0,"","",""
@@ -2368,7 +2368,7 @@ DC“<Highlight>StringParameter(3)</Highlight>”的伺服器“<Highlight>Strin
 1979,0,0,0,"調整視角操作。","",""
 1980,0,0,0,"Limsa Lominsa","","海洋城邦利姆薩·羅敏薩位於羅塔諾內海上的威爾布蘭德島的南岸，統轄著威爾布蘭德島的南部地區。
 利姆薩·羅敏薩的人民用鐵橋將散佈在海灣內的無數小島和岩礁連接到了一起，並以白堊為材料搭建了街道及各種建築。
-城邦的領袖叫做“提督”，是由城邦居民所選舉出來。提督負責管理城邦的各項事務，並且掌管著強大的海軍。
+城邦的領袖叫做「提督」，是由城邦居民所選舉出來。提督負責管理城邦的各項事務，並且掌管著強大的海軍。
 雖然這裡的海軍幾乎將艾奧傑亞近海的制海權完全掌握到手中，不過時而也會有海盜事件發生。"
 1981,0,0,0,"格里達尼亞","","格里達尼亞田園城邦位於阿爾迪納德次大陸的東部，統轄著周圍茂盛的森林和眾多的河流。
 格里達尼亞的人民在城內無數的運河上搭建了水車，並以樹木為材料搭建了街道及各種建築。
@@ -2386,12 +2386,12 @@ DC“<Highlight>StringParameter(3)</Highlight>”的伺服器“<Highlight>Strin
 1988,0,0,0,"","",""
 1989,0,0,0,"","",""
 1990,0,0,0,"將角色的預覽服裝更換目前遊戲內裝備。隨裝備情況不同可能會將臉部及頭髮遮蓋住。","",""
-1991,0,0,0,"將背景畫面與環境切換到“乙太空間”。","",""
-1992,0,0,0,"將背景畫面與環境切換到“森林場景”。","",""
-1993,0,0,0,"將背景畫面與環境切換到“室內”。","",""
+1991,0,0,0,"將背景畫面與環境切換到「乙太空間」。","",""
+1992,0,0,0,"將背景畫面與環境切換到「森林場景」。","",""
+1993,0,0,0,"將背景畫面與環境切換到「室內」。","",""
 1994,0,0,0,"放棄未編輯完的角色，退出角色編輯。","",""
-1995,0,0,0,"將背景畫面與環境切換到“海岸場景”。","",""
-1996,0,0,0,"將背景畫面與環境切換到“荒野場景”。","",""
+1995,0,0,0,"將背景畫面與環境切換到「海岸場景」。","",""
+1996,0,0,0,"將背景畫面與環境切換到「荒野場景」。","",""
 1997,0,0,0,"","",""
 1998,0,0,0,"","",""
 1999,0,0,0,"","",""
@@ -2541,7 +2541,7 @@ DC“<Highlight>StringParameter(3)</Highlight>”的伺服器“<Highlight>Strin
 2138,0,0,0,"","",""
 2139,0,0,0,"","",""
 2140,0,0,0,"導入角色數據","",""
-2141,0,0,0,"在“FINAL FANTASY XIV”資料夾下檢測到了角色資料。
+2141,0,0,0,"在「FINAL FANTASY XIV」資料夾下檢測到了角色資料。
 請選擇要讀取的資料。","",""
 2142,0,0,0,"數據","",""
 2143,0,0,0,"儲存編號","",""

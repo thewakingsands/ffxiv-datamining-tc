@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_HEAVNZ823_01953_SEQ_00","田園郡的諾奇德·伯恩餓得動不了了。"
-1,"TEXT_HEAVNZ823_01953_SEQ_01","諾奇德·伯恩寧可捱餓也不願食用從哥布林族那裡得到的食物。接受了諾奇德·伯恩的委託，獲取<Sheet(EventItem,2001773,0)/>並將其烤好。從德拉瓦尼亞河谷地薩雷安治學區的<Sheet(BNpcName,3603,0)/>身上獲取<Sheet(EventItem,2001773,0)/>。"
+1,"TEXT_HEAVNZ823_01953_SEQ_01","諾奇德·伯恩寧可挨餓也不願食用從哥布林族那裡得到的食物。接受了諾奇德·伯恩的委託，獲取<Sheet(EventItem,2001773,0)/>並將其烤好。從德拉瓦尼亞河谷地薩雷安治學區的<Sheet(BNpcName,3603,0)/>身上獲取<Sheet(EventItem,2001773,0)/>。"
 2,"TEXT_HEAVNZ823_01953_SEQ_02","獲得了<Sheet(EventItem,2001773,0)/>。使用薩雷安治學區的<Sheet(EObj,2006104,0)/>將<Sheet(EventItem,2001773,0)/>烤好。"
 3,"TEXT_HEAVNZ823_01953_SEQ_03","烤好了<Sheet(EventItem,2001773,0)/>。將<Sheet(EventItem,2001774,0)/>交給田園郡的諾奇德·伯恩。"
 4,"TEXT_HEAVNZ823_01953_SEQ_04","將<Sheet(EventItem,2001774,0)/>交給諾奇德·伯恩後，他委託冒險者將<Sheet(EventItem,2001775,0)/>還給哥布林族。將<Sheet(EventItem,2001775,0)/>交給薩雷安治學區的哥布林族篝火管理員。"

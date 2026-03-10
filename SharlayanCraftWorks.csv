@@ -1,7 +1,7 @@
 ﻿key,0,1,2
 #,,,
 int32,uint32,uint16,str
-0,1039203,151,"“薩雷安魔法大學交易”的物品交納介面上顯示著對應學系需要的物品。
+0,1039203,151,"「薩雷安魔法大學交易」的物品交納介面上顯示著對應學系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>考古系：露露夏<UIGlow>01</UIGlow><UIForeground>01</UIForeground>處可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>鍛造師、甲冑師、金工師<UIGlow>01</UIGlow><UIForeground>01</UIForeground>這三種職業交納物品。
 
@@ -16,7 +16,7 @@ int32,uint32,uint16,str
 
 另外，交付高收藏價值的物品時雖然獲得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>貢獻度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不會增加，
 但會得到更多的報酬。"
-1,1038525,152,"“薩雷安魔法大學交易”的物品交納介面上顯示著對應學系需要的物品。
+1,1038525,152,"「薩雷安魔法大學交易」的物品交納介面上顯示著對應學系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>天文系：裘德<UIGlow>01</UIGlow><UIForeground>01</UIForeground>處可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>木工師、皮革師、裁縫師<UIGlow>01</UIGlow><UIForeground>01</UIForeground>這三種職業交納物品。
 
@@ -31,7 +31,7 @@ int32,uint32,uint16,str
 
 另外，交付高收藏價值的物品時雖然獲得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>貢獻度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不會增加，
 但會得到更多的報酬。"
-2,1039220,153,"“薩雷安魔法大學交易”的物品交付介面上顯示著對應學系需要的物品。
+2,1039220,153,"「薩雷安魔法大學交易」的物品交付介面上顯示著對應學系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>醫學系：德布羅依<UIGlow>01</UIGlow><UIForeground>01</UIForeground>處可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>鍊金術師、烹調師<UIGlow>01</UIGlow><UIForeground>01</UIForeground>這兩種職業交付物品。
 
@@ -46,7 +46,7 @@ int32,uint32,uint16,str
 
 另外，交付高收藏價值的物品時雖然獲得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>貢獻度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不會增加，
 但會得到更多的報酬。"
-3,1038501,154,"“薩雷安魔法大學交易”的物品交付介面上顯示著對應學系需要的物品。
+3,1038501,154,"「薩雷安魔法大學交易」的物品交付介面上顯示著對應學系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>文化系：雛芥子<UIGlow>01</UIGlow><UIForeground>01</UIForeground>處可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>採掘師、園藝師<UIGlow>01</UIGlow><UIForeground>01</UIForeground>這兩種職業交付物品。
 
@@ -59,7 +59,7 @@ int32,uint32,uint16,str
 
 另外，交付高收藏價值的物品時雖然獲得的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>貢獻度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>不會增加，
 但會得到更多的報酬。"
-4,1038551,155,"“薩雷安魔法大學交易”的物品交付介面上顯示著對應學系需要的物品。
+4,1038551,155,"「薩雷安魔法大學交易」的物品交付介面上顯示著對應學系需要的物品。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>乙太系：茶·拉恰·提亞<UIGlow>01</UIGlow><UIForeground>01</UIForeground>處可使用
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>漁師<UIGlow>01</UIGlow><UIForeground>01</UIForeground>職業交付物品。
 
