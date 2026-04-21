@@ -796,8 +796,8 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint16,uint32,bit&04,uint3
 792,43932,690,True,True,0,0,False,0,5,93
 793,43933,670,True,True,0,0,False,0,5,94
 794,43934,690,True,True,0,0,False,0,5,95
-795,0,0,False,False,0,0,False,0,0,0
-796,0,0,False,False,0,0,False,0,0,0
+795,44844,700,True,True,4540,0,False,0,0,65535
+796,44845,700,True,True,4540,0,False,0,0,65535
 797,0,0,False,False,0,0,False,0,0,0
 798,0,0,False,False,0,0,False,0,0,0
 799,0,0,False,False,0,0,False,0,0,0

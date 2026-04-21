@@ -10,7 +10,7 @@ int32,str,str
 <If(Equal(IntegerParameter(2),0))><Else/>　　「<Sheet(Quest,IntegerParameter(2),0)/>」
 </If><If(Equal(IntegerParameter(3),0))><Else/>　　「<Sheet(Quest,IntegerParameter(3),0)/>」
 </If><If(Equal(IntegerParameter(4),0))><Else/>・在任務完成之前，
-　無法從下列非玩家角色處購買或交換相關道具。
+　無法從下列NPC處購買或交換相關道具。
 　　「<Sheet(ENpcResident,IntegerParameter(4),0)/>」
 </If><If(Equal(IntegerParameter(5),0))><Else/>　　「<Sheet(ENpcResident,IntegerParameter(5),0)/>」
 </If><If(Equal(IntegerParameter(4),0))><Else/>・如果未能在舉辦期間完成對應的任務，

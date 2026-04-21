@@ -9,7 +9,7 @@ int32,str
 5,"令敵人弱化，並利用<If(Equal(IntegerParameter(1),0))>情感動作「安撫」<Else/><Sheet(EventItem,IntegerParameter(1),0)/></If>將其馴服"
 6,"透過<If(Equal(IntegerParameter(1),0))>攻擊<Else/>使用<Sheet(EventItem,IntegerParameter(1),0)/></If>來識破敵人的真身並進行討伐"
 7,"在指定地點巡邏，並擊退敵人"
-8,"收集«妖異全集»的書頁
+8,"收集《妖異全集》的書頁
 召喚出被封印的魔物並將其打倒"
 9,"使用情感動作「招手」，將<Sheet(BNpcName,IntegerParameter(1),0)/>帶領到目的地"
 10,"到所有目標地點進行採集
@@ -38,7 +38,7 @@ int32,str
 240以上　+25%
 227以上　+10%
 215以上　+05%"
-20,"打倒出現的魔物回收«妖異全集»的書頁
+20,"打倒出現的魔物回收《妖異全集》的書頁
 召喚出被封印的魔物並將其打倒"
 21,"進度"
 22,"巡邏目的地"

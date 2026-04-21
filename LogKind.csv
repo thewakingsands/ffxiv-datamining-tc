@@ -38,7 +38,7 @@ int32,byte,str,bit&01
 34,0,"",False
 35,0,"",False
 36,0,"<Color(PlayerParameter(27))>[PvP]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
-37,0,"<Color(PlayerParameter(35))>[跨服貝1]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+37,0,"<Color(PlayerParameter(35))>[跨界貝1]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
 38,0,"",False
 39,0,"",False
 40,0,"",False
@@ -102,13 +102,13 @@ int32,byte,str,bit&01
 98,0,"",False
 99,0,"",False
 100,0,"",False
-101,0,"<Color(PlayerParameter(84))>[跨服貝2]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
-102,0,"<Color(PlayerParameter(85))>[跨服貝3]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
-103,0,"<Color(PlayerParameter(86))>[跨服貝4]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
-104,0,"<Color(PlayerParameter(87))>[跨服貝5]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
-105,0,"<Color(PlayerParameter(88))>[跨服貝6]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
-106,0,"<Color(PlayerParameter(89))>[跨服貝7]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
-107,0,"<Color(PlayerParameter(90))>[跨服貝8]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+101,0,"<Color(PlayerParameter(84))>[跨界貝2]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+102,0,"<Color(PlayerParameter(85))>[跨界貝3]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+103,0,"<Color(PlayerParameter(86))>[跨界貝4]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+104,0,"<Color(PlayerParameter(87))>[跨界貝5]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+105,0,"<Color(PlayerParameter(88))>[跨界貝6]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+106,0,"<Color(PlayerParameter(89))>[跨界貝7]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
+107,0,"<Color(PlayerParameter(90))>[跨界貝8]<<Highlight>StringParameter(1)</Highlight>> <Highlight>StringParameter(2)</Highlight></Color>",True
 108,0,"",False
 109,0,"",False
 110,0,"",False

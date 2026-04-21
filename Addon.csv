@@ -421,7 +421,7 @@ int32,str
 406,"巨集圖示"
 407,""
 408,"<CommandIcon(10)/>子選單 <CommandIcon(11)/>文本指令一覽"
-409,"跨服貝<Value>IntegerParameter(1)</Value>：<Highlight>StringParameter(2)</Highlight>"
+409,"跨界貝<Value>IntegerParameter(1)</Value>：<Highlight>StringParameter(2)</Highlight>"
 410,"通訊貝"
 411,""
 412,"列表"
@@ -1145,7 +1145,7 @@ int32,str
 1106,"收到了遊戲管理員郵件。
 請找郵差莫古利進行確認。"
 1107,"收到了新的郵件。
-請在原始伺服器找郵差莫古利進行確認。"
+請在原始 World找郵差莫古利進行確認。"
 1110,"焦點目標"
 1111,"<If(IntegerParameter(1))><Highlight>StringParameter(2)</Highlight>級 <Else/></If><If(IntegerParameter(4))><Highlight>StringParameter(5)</Highlight><Else/></If><Highlight>StringParameter(3)</Highlight>"
 1112,"<If(IntegerParameter(1))><Highlight>StringParameter(2)</Highlight>% <Else/></If><If(IntegerParameter(4))><Highlight>StringParameter(5)</Highlight><Else/></If><Highlight>StringParameter(3)</Highlight>"
@@ -1156,7 +1156,7 @@ int32,str
 1116,"團隊B"
 1117,"<Highlight>StringParameter(1)</Highlight>"
 1118,"團隊C"
-1119,"目前位於（<If(Equal(IntegerParameter(1),0))>原始伺服器<Else/>其他伺服器</If>）"
+1119,"目前位於（<If(Equal(IntegerParameter(1),0))>原始 World<Else/>其他 World</If>）"
 1120,"連鎖"
 1121,"連鎖！剩餘<TwoDigitValue>IntegerParameter(1)</TwoDigitValue>秒"
 1122,"時間結束！"
@@ -1194,7 +1194,7 @@ int32,str
 1153,"打斷成功！"
 1154,"保留"
 1155,"小隊列表設定"
-1156,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>以組隊狀態加入後隊伍會變為跨服組隊。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+1156,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>以組隊狀態加入後隊伍會變為跨界組隊。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 1157,"?"
 1158,"<Highlight>StringParameter(1)</Highlight><Highlight>StringParameter(2)</Highlight>"
 1159,""
@@ -1323,7 +1323,7 @@ int32,str
 1289,""
 1290,"最低"
 1291,"最高"
-1292,"全伺服器"
+1292,"全 World"
 1293,"編輯詳細"
 1294,"能工巧匠"
 1295,"大地使者"
@@ -1359,7 +1359,7 @@ int32,str
 1322,"關閉"
 1323,"開啟直接聊天模式"
 1324,"確定要交換嗎？
-從前以時尚配飾的形式學會過該道具，
+從前以時尚配件的形式學會過該道具，
 現在找失物管理人可以免費學習。"
 1325,"摩杜納"
 1326,"控制器"
@@ -1387,7 +1387,7 @@ int32,str
 1348,"競賽能力"
 1349,"<Sheet(ChocoboRaceAbility,IntegerParameter(1),0)/>"
 1350,"目前沒有任何計時"
-1351,"該玩家正在其他伺服器
+1351,"該玩家正在其他 World
 無法獲得詳細資訊。"
 1352,"<CommandIcon(10)/>子選單  <CommandIcon(11)/>選擇交易道具"
 1353,"<CommandIcon(8)/>出售  <CommandIcon(10)/>子選單"
@@ -1753,7 +1753,7 @@ int32,str
 1694,"商店販售價格<If(GreaterThan(IntegerParameter(2),0))><Else/>[普通]</If>:<Format(IntegerParameter(1),FF022C)/>(有購買條件)"
 1695,"目前顯示：<Highlight>StringParameter(1)</Highlight>"
 1696,"分組人數：<Value>IntegerParameter(1)</Value>"
-1697,"透過跨界傳送或超域傳送去往其他伺服器時無法使用通訊貝。"
+1697,"透過跨界傳送或超域傳送去往其他 World時無法使用通訊貝。"
 1700,"配方搜尋"
 1701,"履歷"
 1702,"無履歷"
@@ -2121,7 +2121,7 @@ int32,str
 雖然其他人無法看到自己的列表，
 不過可以統計目前市場的需求情況。
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※清單與統計資料會在每次伺服器維護時清空<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※清單與統計資料會在每次 World維護時清空<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 2073,"<CommandIcon(10)/>子選單 <CommandIcon(8)/>查看市場情況 <CommandIcon(9)/>返回"
 2074,"添加到期望列表（<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>）"
 2075,"從期望列表中刪除（<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>）"
@@ -2135,7 +2135,7 @@ int32,str
 2083,"從我的最愛中刪除"
 2084,"我的最愛中最多可收藏100件商品。
 其他人無法看到你的我的最愛。
-我的最愛在原始伺服器之外也可正常使用。"
+我的最愛在原始 World之外也可正常使用。"
 2085,"只顯示尚未學習或收錄的道具"
 2086,"本頁無尚未學習或收錄的道具。"
 2087,"總計價格算入手續費"
@@ -2612,7 +2612,7 @@ int32,str
 2562,"<Sheet(GrandCompany,IntegerParameter(1),0)/> <UIForeground>E804</UIForeground><關係 : <Sheet(FCReputation,IntegerParameter(2),4)/>><UIForeground>01</UIForeground>"
 2563," [<Highlight>StringParameter(1)</Highlight>]"
 2564,"無法讀取資料。"
-2565,"原始伺服器線上成員： <Value>IntegerParameter(1)</Value> / <Value>IntegerParameter(2)</Value>"
+2565,"原始 World線上成員： <Value>IntegerParameter(1)</Value> / <Value>IntegerParameter(2)</Value>"
 2566,"特效"
 2567,"［<Highlight>StringParameter(1)</Highlight>］"
 2568,"<Value>IntegerParameter(1)</Value>級"
@@ -2683,7 +2683,7 @@ int32,str
 2636,"<Sheet(GrandCompany,IntegerParameter(1),0)/> <UIForeground>E804</UIForeground><關係 : <Sheet(FCReputation,IntegerParameter(2),4)/>><UIForeground>01</UIForeground>"
 2637," [<Highlight>StringParameter(1)</Highlight>]"
 2638,"無法讀取資料。"
-2639,"原始伺服器線上 <Value>IntegerParameter(1)</Value> / 全體 <Value>IntegerParameter(2)</Value>"
+2639,"原始 World線上 <Value>IntegerParameter(1)</Value> / 全體 <Value>IntegerParameter(2)</Value>"
 2640,"<Sheet(GrandCompany,IntegerParameter(1),0)/>"
 2641,"<Highlight>StringParameter(1)</Highlight> [<Highlight>StringParameter(2)</Highlight>]"
 2642,"關閉"
@@ -3539,7 +3539,7 @@ int32,str
 3640,"召喚獸名"
 3641,"音階名"
 3642,"快捷發言名"
-3643,"時尚配飾名"
+3643,"時尚配件名"
 3644,"目標"
 3645,"臉部配件名"
 3650,"物品"
@@ -3945,7 +3945,7 @@ int32,str
 4129,"他人"
 4130,"公會公告"
 4131,"最新動態"
-4132,"原始伺服器線上成員"
+4132,"原始 World線上成員"
 4133,"編輯"
 4134,"無權進行編輯"
 4135,"公告欄裡沒有任何公告。"
@@ -4170,7 +4170,7 @@ int32,str
 4394,"與投影範本關聯"
 4395,"變更與投影範本的關聯"
 4396,"解除與投影範本的關聯"
-4397,"跨服通訊貝1"
+4397,"跨界通訊貝1"
 4398,"戰隊"
 4399,"戰隊通知"
 4400,"精製魔晶石"
@@ -4298,11 +4298,11 @@ Gil將超出持有上限，超出的部分無法獲得。"
 4518,"詢問"
 4519,"搜尋"
 4520,"檢舉不良行為"
-4521,"這裡可以對«FINAL FANTASY XIV»世界中來自他人的騷擾等不良行為進行報告。"
+4521,"這裡可以對《FINAL FANTASY XIV》世界中來自他人的騷擾等不良行為進行報告。"
 4522,"檢舉作弊行為"
-4523,"這裡可以對«FINAL FANTASY XIV»世界中出現的作弊行為（使用外掛及在現實世界進行遊戲內資料的交易）進行檢舉。在檢舉前請詳細閱讀說明書及常見問題。在「檢舉作弊行為」中不會單獨進行回覆，敬請諒解。"
+4523,"這裡可以對《FINAL FANTASY XIV》世界中出現的作弊行為（使用外掛及在現實世界進行遊戲內資料的交易）進行檢舉。在檢舉前請詳細閱讀說明書及常見問題。在「檢舉作弊行為」中不會單獨進行回覆，敬請諒解。"
 4524,"回報程式錯誤"
-4525,"這裡可以對«FINAL FANTASY XIV»世界中出現的程式問題進行報告。在報告前請詳細閱讀說明書及常見問題。在「回報程式錯誤」中不會單獨進行回覆，敬請諒解。"
+4525,"這裡可以對《FINAL FANTASY XIV》世界中出現的程式問題進行報告。在報告前請詳細閱讀說明書及常見問題。在「回報程式錯誤」中不會單獨進行回覆，敬請諒解。"
 4526,"意見及建議"
 4527,"這裡可以提交對改良遊戲的意見及建議。在「意見及建議」中不會單獨進行回覆，敬請諒解。
 另外，對遊戲系統相關方面的意見和建議請至客服中心或相關討論區內討論，謝謝。"
@@ -4519,7 +4519,7 @@ Gil將超出持有上限，超出的部分無法獲得。"
 4725,"PvP經驗"
 4726,"狼印戰績"
 4727,"角色名"
-4728,"原始伺服器"
+4728,"原始 World"
 4729,"公會"
 4730,"打倒敵人次數"
 4731,"無法戰鬥次數"
@@ -5556,7 +5556,7 @@ A：Assist，協助他人打倒敵人的次數"
 5747,"用於投影的外觀裝備會在投影後綁定。"
 5748,"顯示入手場所"
 5749,"<If(Equal(IntegerParameter(2),0))>[釣魚]<Else/>[刺魚]</If> 老主顧交易：<Sheet(ENpcResident,IntegerParameter(1),0)/>"
-5750,"友好部族"
+5750,"友好部族1(新生/蒼天/紅蓮/漆黑/曉月)"
 5751,"獸人貨幣"
 5752,"新生艾奧傑亞"
 5753,"蒼天伊修加爾德"
@@ -5928,7 +5928,7 @@ A：Assist，協助他人打倒敵人的次數"
 <Time(IntegerParameter(2))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>:<TwoDigitValue>TopLevelParameter(216)</TwoDigitValue>"
 6094,"FINAL FANTASY XIV"
 6095,"系統存檔"
-6096,"«FINAL FANTASY XIV»的系統存檔。"
+6096,"《FINAL FANTASY XIV》的系統存檔。"
 6097,"FINAL FANTASY XIV"
 6098,"<Highlight>StringParameter(1)</Highlight>"
 6099,"<Value>IntegerParameter(1)</Value>級 <Sheet(ClassJob,IntegerParameter(2),0)/>
@@ -5939,7 +5939,7 @@ A：Assist，協助他人打倒敵人的次數"
 6102,"無法創建角色設定存檔。"
 6103,"FINAL FANTASY XIV"
 6104,"系統存檔"
-6105,"«FINAL FANTASY XIV»的系統存檔。"
+6105,"《FINAL FANTASY XIV》的系統存檔。"
 6106,"FINAL FANTASY XIV"
 6107,"<Highlight>StringParameter(1)</Highlight>"
 6108,"<Value>IntegerParameter(1)</Value>級 <Sheet(ClassJob,IntegerParameter(2),0)/>
@@ -6774,7 +6774,7 @@ A：Assist，協助他人打倒敵人的次數"
 6870,"地址"
 6871,"費用"
 6872,"無可傳送的房屋。
-※好友前往其他伺服器遊玩時可能無法正常讀取資訊。"
+※好友前往其他 World遊玩時可能無法正常讀取資訊。"
 6873,"公寓"
 6874,"個人房屋"
 6875,"公會房屋"
@@ -7021,10 +7021,10 @@ A：Assist，協助他人打倒敵人的次數"
 7069,"停止播放目前房屋背景樂曲"
 7070,"停止試聽"
 7071,"播放清單中沒有樂曲。"
-7072,"確定要以「<Highlight>StringParameter(1)</Highlight>」的方式開始播放«<Highlight>StringParameter(2)</Highlight>»嗎？
+7072,"確定要以「<Highlight>StringParameter(1)</Highlight>」的方式開始播放《<Highlight>StringParameter(2)</Highlight>》嗎？
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※房屋內的其他人也會聽到。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-7073,"確定要停止播放«<Highlight>StringParameter(1)</Highlight>»嗎？
+7073,"確定要停止播放《<Highlight>StringParameter(1)</Highlight>》嗎？
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※房屋內的其他人也會受到影響。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 7074,"確定要改為「<Highlight>StringParameter(1)</Highlight>」嗎？
@@ -7063,11 +7063,11 @@ A：Assist，協助他人打倒敵人的次數"
 7111,"設為房屋背景樂曲"
 7112,"停止播放"
 7113,"停止試聽"
-7114,"確定要將«<Highlight>StringParameter(1)</Highlight>»設定成房屋的背景樂曲嗎？
+7114,"確定要將《<Highlight>StringParameter(1)</Highlight>》設定成房屋的背景樂曲嗎？
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※房屋內的其他人也會聽到。
 ※設定在房屋內的樂曲，即使沒有獲得該樂譜的人也能夠聽到。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-7115,"確定要關閉播放中的«<Highlight>StringParameter(1)</Highlight>»嗎？
+7115,"確定要關閉播放中的《<Highlight>StringParameter(1)</Highlight>》嗎？
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※房屋內的其他人也將無法繼續欣賞這首曲子。
 ※關閉之後房屋中會變回預設的音樂。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -7104,16 +7104,16 @@ A：Assist，協助他人打倒敵人的次數"
 ※獲得期限：<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>截止"
 7129,"參加此地抽選的人數為1人。"
 7130,"更新存檔"
-7131,"場景標記"
+7131,"場地標記"
 7132,""
 7133,"存檔列表"
 7134,"<Value>IntegerParameter(1)</Value>. <Highlight>StringParameter(2)</Highlight>"
 7135,"<Value>IntegerParameter(1)</Value>. <Highlight>StringParameter(2)</Highlight>
  <If(Equal(IntegerParameter(3),0))><Time(IntegerParameter(4))/><Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue><Else/><Time(IntegerParameter(4))/><If(LessThan(TopLevelParameter(218), 12))><Value>TopLevelParameter(218)</Value><Else/><Value>TopLevelParameter(218)</Value></If>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue></If> [<Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value>]"
-7136,"保存目前設定的場景標記配置。"
-7137,"場景標記須要在非戰鬥狀態中才可操控。
+7136,"保存目前設定的場地標記配置。"
+7137,"場地標記須要在非戰鬥狀態中才可操控。
 ※PvP任務中例外，在戰鬥狀態下也可操控。
-場景標記的保存、讀取功能只在部分戰鬥副本中有效。"
+場地標記的保存、讀取功能只在部分戰鬥副本中有效。"
 7138,"覆蓋存檔"
 7139,"刪除存檔"
 7140,"<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
@@ -7382,7 +7382,7 @@ A：Assist，協助他人打倒敵人的次數"
 7731,"房屋中的傢俱"
 7732,"庭院中的園圃"
 7733,"水晶衝突中敵人名牌"
-7734,"顯示目前伺服器名"
+7734,"顯示目前 World名"
 7735,"紛爭前線（黑渦團）"
 7736,"紛爭前線（雙蛇黨）"
 7737,"紛爭前線（不滅隊）"
@@ -7436,7 +7436,7 @@ A：Assist，協助他人打倒敵人的次數"
 7785,"進攻職業"
 7786,"其他職業"
 7787,"顯示冷卻時間"
-7788,"使用表演用特殊快速鍵（坐騎/時尚配飾）"
+7788,"使用表演用特殊快速鍵（坐騎/時尚配件）"
 7789,"使用寵物用特殊快速鍵"
 7790,"基本設定"
 7791,"顯示十字快速鍵說明"
@@ -7454,7 +7454,7 @@ A：Assist，協助他人打倒敵人的次數"
 7803,"顯示訊息時間"
 7804,"設定時間"
 7805,"顯示時間"
-7806,"聊天時來自其他伺服器的角色會顯示出伺服器名"
+7806,"聊天時來自其他 World的角色會顯示出 World名"
 7807,"可調整訊息視窗大小"
 7808,"開啟禁音詞過濾功能"
 7809,"訊息顏色設定"
@@ -7514,7 +7514,7 @@ A：Assist，協助他人打倒敵人的次數"
 7863,"<Gui(10)/> 設定<If(Equal(PlayerParameter(75),0))>X鍵<Else/><If(Equal(PlayerParameter(78),99))>□鍵<Else/>X鍵</If></If>的功能"
 7864,"<Switch(IntegerParameter(1))><Case(1)><Gui(77)/></Case><Case(2)><Gui(95)/></Case><Case(3)><Gui(78)/></Case><Case(4)><Gui(79)/></Case><Case(5)><Gui(80)/></Case><Case(6)><Gui(81)/></Case><Case(7)><Gui(108)/></Case></Switch>"
 7865,"<Switch(IntegerParameter(1))><Case(1)></Case><Case(2)></Case><Case(3)></Case><Case(4)></Case><Case(5)></Case><Case(6)></Case><Case(7)></Case><Case(8)></Case></Switch>"
-7866,"跨服通訊貝1"
+7866,"跨界通訊貝1"
 7867,"訊息詳情"
 7868,"通常"
 7869,"訊息提醒"
@@ -7551,7 +7551,7 @@ A：Assist，協助他人打倒敵人的次數"
 7900,"僅移動時開啟"
 7901,"一直開啟"
 7902,"關閉"
-7903,"使用時尚配飾時自動替換快速鍵1的內容"
+7903,"使用時尚配件時自動替換快速鍵1的內容"
 7904,"可以使用特殊快速鍵時自動切換到特殊快速鍵"
 7905,"全體"
 7906,"好友"
@@ -8002,13 +8002,13 @@ A：Assist，協助他人打倒敵人的次數"
 8377,"常用列表"
 8378,"坐騎搜尋"
 8380,"該任務內的裝備以及強化道具一周只能獲得一次。"
-8390,"跨服通訊貝2"
-8391,"跨服通訊貝3"
-8392,"跨服通訊貝4"
-8393,"跨服通訊貝5"
-8394,"跨服通訊貝6"
-8395,"跨服通訊貝7"
-8396,"跨服通訊貝8"
+8390,"跨界通訊貝2"
+8391,"跨界通訊貝3"
+8392,"跨界通訊貝4"
+8393,"跨界通訊貝5"
+8394,"跨界通訊貝6"
+8395,"跨界通訊貝7"
+8396,"跨界通訊貝8"
 8397,"他人對自己做出的情感動作"
 8400,"聲音的視覺表現"
 8401,"開啟聲音的視覺表現"
@@ -8497,13 +8497,13 @@ Immerse Gamepack尚未安裝。
 8778,"確定要前往下載頁面嗎？
 「Immerse Gamepack」有更新了。
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※啟動瀏覽器。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-8791,"跨服通訊貝2"
-8792,"跨服通訊貝3"
-8793,"跨服通訊貝4"
-8794,"跨服通訊貝5"
-8795,"跨服通訊貝6"
-8796,"跨服通訊貝7"
-8797,"跨服通訊貝8"
+8791,"跨界通訊貝2"
+8792,"跨界通訊貝3"
+8793,"跨界通訊貝4"
+8794,"跨界通訊貝5"
+8795,"跨界通訊貝6"
+8796,"跨界通訊貝7"
+8797,"跨界通訊貝8"
 8800,"準備自動拆除公會房屋"
 8801,"準備自動拆除個人房屋"
 8802,"準備自動拆除共用房屋1"
@@ -8545,7 +8545,7 @@ Immerse Gamepack尚未安裝。
 8838,"高級"
 8839,"［未達成］"
 8840,"［已達成］"
-8841,"不在原始伺服器，無法獲得該資訊。"
+8841,"不在原始 World，無法獲得該資訊。"
 8842,"<Gui(63)/>資訊讀取失敗"
 8843,"土地抽選狀況確認"
 8844,"目前可參加抽選。"
@@ -10558,7 +10558,7 @@ Immerse Gamepack尚未安裝。
 觀戰小隊：1～8人用（若有人觀戰）"
 10828,"已登記能參賽的競賽陸行鳥"
 10829,"※設限特職只有在以規定人陣列隊或解除限制的狀態下才能進入副本任務。"
-10830,"來自原始伺服器的申請"
+10830,"來自原始 World的申請"
 10831,"段位初段以上"
 10832,"因PvP任務正經歷大幅度修改，
 此任務暫時關閉。
@@ -10650,19 +10650,19 @@ Immerse Gamepack尚未安裝。
 10874,"檢舉宣傳現實金錢交易的行為"
 10875,"同意上述內容並檢舉"
 10890,"全部"
-10891,"伺服器內招募"
+10891,"界內招募"
 10892,"要密碼"
 10893,"全部"
 10894,"其他"
-10895,"跨伺服器招募"
+10895,"跨界招募"
 10896,"設定密碼"
 10897,"參加密碼（4位數）"
 10898,"請輸入參加密碼。"
 10899,"參加密碼（4位數）"
 10900,"參加"
 10901,"取消"
-10902,"跨服組隊"
-10903,"現在正處於跨服組隊狀態。跨服組隊與通常的組隊狀態不同，在副本外無法獲得來自其他隊員的醫濟等為隊友施加的技能效果，也不會有組隊加成。"
+10902,"跨界組隊"
+10903,"現在正處於跨界組隊狀態。跨界組隊與通常的組隊狀態不同，在副本外無法獲得來自其他隊員的醫濟等為隊友施加的技能效果，也不會有組隊加成。"
 10904,"招募範圍"
 10905,"打開按招募條件搜尋。"
 10906,"---"
@@ -10677,7 +10677,7 @@ Immerse Gamepack尚未安裝。
 10914,"打開按招募人角色名搜尋。"
 10915,"招募範圍"
 10916,"全部"
-10917,"伺服器內招募"
+10917,"World內招募"
 10918,"每隔一段時間在訊息視窗中顯示「按招募條件搜尋」最新有多少條搜尋結果。設定密碼的招募不會計算進來。"
 10919,"透過設定「目的」「玩法」「招募條件」「任務搜尋器設定」「分配方式」可以對搜尋結果進行篩選。"
 10920,"為目前搜尋結果切換昇冪降冪排列。"
@@ -10690,8 +10690,8 @@ Immerse Gamepack尚未安裝。
 10927,"反覆攻略"
 10928,"玩法"
 10929,"<Gui(77)/>歡迎新人及初次挑戰的玩家"
-10930,"讓處於其他伺服器的玩家無法查看或參加此招募。"
-10931,"在伺服器內招募隊員"
+10930,"讓處於其他 World的玩家無法查看或參加此招募。"
+10931,"在 World內招募隊員"
 10932,"招募條件"
 10933,"無"
 10934,"任務已完成"
@@ -10706,24 +10706,24 @@ Immerse Gamepack尚未安裝。
 10942,"顯示最多50名最近曾組過隊的角色。
 對方的職業會記錄為加入隊伍時或者參加任務時的狀態。"
 10943,"角色名"
-10944,"原始伺服器"
+10944,"原始 World"
 10945,"關閉"
 10946,"確定要將<Highlight>StringParameter(1)</Highlight>加入黑名單嗎？
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※如果該角色來自其他伺服器，
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※如果該角色來自其他 World，
 　則角色名會保存在用戶端。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10947,"沒有角色可以顯示。"
 10948,"---"
 10949,"任務已完成（本周的周常獎勵：未獲得）"
-10950,"讀取其他伺服器的線上狀態。"
+10950,"讀取其他 World的線上狀態。"
 10951,"<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>"
 10952,""
 10953,"--"
-10954,"按原始伺服器排序"
+10954,"按原始 World排序"
 10955,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>
-※其他伺服器玩家的角色名只保存在用戶端。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+※其他 World玩家的角色名只保存在用戶端。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10956,"線上狀況不明"
 10957,"將「<Highlight>StringParameter(1)</Highlight>」加入黑名單。今後該角色與該帳號下所有的角色。您將不會看到他們的發言，也不會在畫面中看到他們的身影。
-加入黑名單時對方的角色名與原始伺服器名會保存在您電腦端。
+加入黑名單時對方的角色名與原始 World名會保存在您電腦端。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>如果只想禁音對方的發言，可以在訊息視窗的子選單中將對方加入禁音名單。
 執行此操作時，如果對方已經在禁音名單中，則會將其從禁音名單轉移到黑名單。
 <UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -11158,7 +11158,7 @@ Immerse Gamepack尚未安裝。
 11364,"防禦塔1"
 11365,"防禦塔2"
 11366,"核心"
-11367,"青磷機車行駛中"
+11367,"青磷火車行駛中"
 11368,"可以挑戰升格戰"
 11369,"<If(Equal(IntegerParameter(1),0))>升格所需積分<Else/>挑戰升格戰所需積分</If>"
 11370,"「哥布林坦克」從核心開始出擊。
@@ -11177,7 +11177,7 @@ Immerse Gamepack尚未安裝。
 戰鬥中</Case><Case(3)>
 出擊準備中：<Value>IntegerParameter(2)</Value>:<TwoDigitValue>IntegerParameter(3)</TwoDigitValue></Case></Switch>"
 11376,"載貨車站
-<Switch(IntegerParameter(1))><Case(1)>獵隼佔領中</Case><Case(2)>渡鴉佔領中</Case><Case(3)>未佔領狀態</Case><Case(4)>青磷機車出現還有：<Value>IntegerParameter(2)</Value>:<TwoDigitValue>IntegerParameter(3)</TwoDigitValue></Case></Switch>"
+<Switch(IntegerParameter(1))><Case(1)>獵隼佔領中</Case><Case(2)>渡鴉佔領中</Case><Case(3)>未佔領狀態</Case><Case(4)>青磷火車出現還有：<Value>IntegerParameter(2)</Value>:<TwoDigitValue>IntegerParameter(3)</TwoDigitValue></Case></Switch>"
 11377,"渡鴉陣營傭兵契約中"
 11378,"請選擇要搭乘的機動兵器。
 ※每支小隊只能有1人搭乘。"
@@ -11409,7 +11409,7 @@ Immerse Gamepack尚未安裝。
 11610,"獲得寶物"
 11611,"玩家名單"
 11612,"重新讀取玩家名單。"
-11613,"原始伺服器"
+11613,"原始 World"
 11614,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>玩家名單讀取失敗。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 11615,"時間剩餘"
 11616,"<If(LessThan(IntegerParameter(1),1))>1分鐘以內<Else/><Value>IntegerParameter(1)</Value>分鐘</If>"
@@ -11516,9 +11516,9 @@ Immerse Gamepack尚未安裝。
 成立戰隊需滿足以下條件：
 　·由小隊的隊長發起申請
 　·小隊內全員都沒有加入戰隊
-　·小隊人數為4～6人（可跨服）
+　·小隊人數為4～6人（可跨界）
 　·小隊內全員都已開放PvP任務
-　·小隊內全員的原始伺服器都屬於目前DC"
+　·小隊內全員的原始 World都屬於目前DC"
 11728,"關於戰隊段位積分"
 11729,"「戰隊段位積分」是體現戰隊實力的數字。
 該積分會在參加戰隊專用的段位賽時發生增減，獲勝時增加，敗北時減少。
@@ -11544,7 +11544,7 @@ Immerse Gamepack尚未安裝。
 11737,"想要「邀請」新成員加入戰隊時，可以選中目標後，從子選單中選擇「發送加入戰隊的邀請」。
 對方同意後即會加入戰隊。
 
-如想邀請其他伺服器的玩家，請先組好跨服小隊，然後從設定選單的小隊隊員中選擇該玩家，再從子選單中選擇「發送加入戰隊的邀請」。
+如想邀請其他 World的玩家，請先組好跨界小隊，然後從設定選單的小隊隊員中選擇該玩家，再從子選單中選擇「發送加入戰隊的邀請」。
 
 想要將玩家從戰隊中「除名」時，需要在戰隊功能表的成員清單中選擇子選單「從戰隊中除名」。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※「邀請」與「除名」可由戰隊的戰隊隊長或戰隊副隊長執行。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -11578,7 +11578,7 @@ Immerse Gamepack尚未安裝。
 11764,"打開留言編輯視窗"
 11765,"沒有任何留言。"
 11766,"名字"
-11767,"原始伺服器"
+11767,"原始 World"
 11768,"出戰次數"
 11769,"日期"
 11770,"戰隊隊長"
@@ -11936,76 +11936,76 @@ Immerse Gamepack尚未安裝。
 12107,"遮蔽其他玩家的演奏音"
 12108,"解除對其他玩家演奏音的遮蔽"
 12109,"演奏助手"
-12110,"跨服通訊貝"
+12110,"跨界通訊貝"
 12111,""
 12112,"名字"
-12113,"原始伺服器"
+12113,"原始 World"
 12114,"<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
-12115,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>正式加入成員不足2人且時間經過24小時後，跨服通訊貝自動解散。
+12115,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>正式加入成員不足2人且時間經過24小時後，跨界通訊貝自動解散。
 （<If(GreaterThan(IntegerParameter(3),0))>自動解散時間到，正在處理中。<Else/>距離自動解散還有： <If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>小時<Else/></If><If(Equal(IntegerParameter(2),0))><If(Equal(IntegerParameter(1),0))>不到1分鐘<Else/></If><Else/><Value>IntegerParameter(2)</Value>分鐘</If></If>）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 12116,"刷新成員列表。"
 12117,"成員列表刷新失敗。"
-12118,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>什麼是跨服通訊貝（跨服貝）？<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-·跨服通訊貝是可以讓不同伺服器之間的玩家進行交談的聊天組。
-·玩家可以自由創建跨服通訊貝，也可以加入別人創建的跨服通訊貝。
-·如果僅需要與同一伺服器內的玩家交流，建議使用普通的通訊貝。普通的通訊貝可以在三城邦的通訊貝發行人處創建。
-·跨服貝的頻道號（排序）可以透過子選單變更。變更後的排序將和設定一起保存在本地，更換設備時建議使用備份功能。
+12118,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>什麼是跨界通訊貝（跨界貝）？<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+·跨界通訊貝是可以讓不同 World之間的玩家進行交談的聊天組。
+·玩家可以自由創建跨界通訊貝，也可以加入別人創建的跨界通訊貝。
+·如果僅需要與同一個 World內的玩家交流，建議使用普通的通訊貝。普通的通訊貝可以在三城邦的通訊貝發行人處創建。
+·跨界貝的頻道號（排序）可以透過子選單變更。變更後的排序將和設定一起保存在本地，更換設備時建議使用備份功能。
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>注意點<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-·同時只能創建或者加入8個跨服通訊貝。
-·正式加入成員不足2人且時間經過24小時後，跨服通訊貝會自動解散。因此請在創建好跨服通訊貝後儘快邀請小夥伴加入！
-·跨服通訊貝無法在一段時間內反覆創建，遇到無法創建時請耐心等候。"
+·同時只能創建或者加入8個跨界通訊貝。
+·正式加入成員不足2人且時間經過24小時後，跨界通訊貝會自動解散。因此請在創建好跨界通訊貝後儘快邀請成員加入！
+·跨界通訊貝無法在一段時間內反覆創建，遇到無法創建時請耐心等候。"
 12119,"創建"
-12120,"正式加入此跨服貝"
-12121,"拒絕加入此跨服貝"
-12122,"在此跨服貝中發言"
-12123,"辭去此跨服貝隊長的職務"
-12124,"退出此跨服貝"
-12125,"解散此跨服貝"
-12126,"正式加入跨服貝"
-12127,"拒絕加入跨服貝"
-12128,"發送加入目前跨服貝的邀請"
-12129,"撤銷已發出的跨服貝邀請"
-12130,"轉讓跨服貝管理員許可權"
-12131,"設定跨服貝隊長"
-12132,"解除跨服貝隊長"
-12133,"移出跨服貝"
-12134,"確定要正式加入跨服貝「<Highlight>StringParameter(1)</Highlight>」嗎？"
-12135,"確定要拒絕跨服貝「<Highlight>StringParameter(1)</Highlight>」發來的加入邀請嗎？"
-12136,"確定要退出跨服貝「<Highlight>StringParameter(1)</Highlight>」嗎？"
-12137,"確定要解散跨服貝「<Highlight>StringParameter(1)</Highlight>」嗎？解散之後將無法恢復。"
-12138,"「是的，我想要解散這個跨服貝。」"
-12139,"確定要將「<Highlight>StringParameter(1)</Highlight>」移出跨服貝嗎？"
-12140,"確定要將「<Highlight>StringParameter(1)</Highlight>」設為跨服貝隊長嗎？"
-12141,"確定要解除「<Highlight>StringParameter(1)</Highlight>」的跨服貝隊長職務嗎？"
-12142,"確定要將跨服貝管理員的所有權限都轉讓給「<Highlight>StringParameter(1)</Highlight>」嗎？"
+12120,"正式加入此跨界貝"
+12121,"拒絕加入此跨界貝"
+12122,"在此跨界貝中發言"
+12123,"辭去此跨界貝隊長的職務"
+12124,"退出此跨界貝"
+12125,"解散此跨界貝"
+12126,"正式加入跨界貝"
+12127,"拒絕加入跨界貝"
+12128,"發送加入目前跨界貝的邀請"
+12129,"撤銷已發出的跨界貝邀請"
+12130,"轉讓跨界貝管理員許可權"
+12131,"設定跨界貝隊長"
+12132,"解除跨界貝隊長"
+12133,"移出跨界貝"
+12134,"確定要正式加入跨界貝「<Highlight>StringParameter(1)</Highlight>」嗎？"
+12135,"確定要拒絕跨界貝「<Highlight>StringParameter(1)</Highlight>」發來的加入邀請嗎？"
+12136,"確定要退出跨界貝「<Highlight>StringParameter(1)</Highlight>」嗎？"
+12137,"確定要解散跨界貝「<Highlight>StringParameter(1)</Highlight>」嗎？解散之後將無法恢復。"
+12138,"「是的，我想要解散這個跨界貝。」"
+12139,"確定要將「<Highlight>StringParameter(1)</Highlight>」移出跨界貝嗎？"
+12140,"確定要將「<Highlight>StringParameter(1)</Highlight>」設為跨界貝隊長嗎？"
+12141,"確定要解除「<Highlight>StringParameter(1)</Highlight>」的跨界貝隊長職務嗎？"
+12142,"確定要將跨界貝管理員的所有權限都轉讓給「<Highlight>StringParameter(1)</Highlight>」嗎？"
 12143,"「是的，我想要轉讓所有的許可權。」"
-12144,"確定要撤銷發給<Highlight>StringParameter(1)</Highlight>的跨服貝邀請嗎？"
-12145,"確定要辭去跨服貝「<Highlight>StringParameter(1)</Highlight>」的管理員職務嗎？"
-12146,"請為跨服通訊貝起名。"
+12144,"確定要撤銷發給<Highlight>StringParameter(1)</Highlight>的跨界貝邀請嗎？"
+12145,"確定要辭去跨界貝「<Highlight>StringParameter(1)</Highlight>」的管理員職務嗎？"
+12146,"請為跨界通訊貝起名。"
 12147,"名稱中可以使用漢字、字母、數位、空格以及下列符號。"
 12148,"'. , : ; ! ? & - _"
 12149,"·空格與底線無法連續使用。
 ·空格無法用在開頭和結尾。
 ·無法創建只使用符號的名稱。"
 12150,"名字"
-12151,"確定跨服貝的名字為
+12151,"確定跨界貝的名字為
 <Highlight>StringParameter(1)</Highlight>嗎？"
-12152,"跨服通訊貝<Value>IntegerParameter(1)</Value>："
-12153,"更改此跨服貝的名稱"
-12154,"正在讀取跨服貝資料。"
+12152,"跨界通訊貝<Value>IntegerParameter(1)</Value>："
+12153,"更改此跨界貝的名稱"
+12154,"正在讀取跨界貝資料。"
 12155,"創建時間：<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value>"
-12156,"確定要退出跨服貝「<Highlight>StringParameter(1)</Highlight>」嗎？
+12156,"確定要退出跨界貝「<Highlight>StringParameter(1)</Highlight>」嗎？
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>新管理員會自動從剩餘成員中選出。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-12157,"「是的，我是管理員，但我要退出跨服貝。」"
-12158,"打開跨服貝操作指令。"
-12159,"設為常用跨服貝"
-12160,"此跨服貝的訊息設定"
-12161,"更改此跨服貝的頻道號"
-12162,"請指定跨服通訊貝<Value>IntegerParameter(1)</Value>的新頻道號。
-如果指定的頻道號有其他跨服貝佔用，兩者將會互換。"
-12163,"<Switch(IntegerParameter(1))><Case(1)><Color(PlayerParameter(35))></Case><Case(2)><Color(PlayerParameter(84))></Case><Case(3)><Color(PlayerParameter(85))></Case><Case(4)><Color(PlayerParameter(86))></Case><Case(5)><Color(PlayerParameter(87))></Case><Case(6)><Color(PlayerParameter(88))></Case><Case(7)><Color(PlayerParameter(89))></Case><Case(8)><Color(PlayerParameter(90))></Case></Switch>跨服通訊貝<Value>IntegerParameter(1)</Value>：<Highlight>StringParameter(2)</Highlight></Color>"
-12164,"邀請加入跨服通訊貝<Value>IntegerParameter(1)</Value>「<Highlight>StringParameter(2)</Highlight>」"
+12157,"「是的，我是管理員，但我要退出跨界貝。」"
+12158,"打開跨界貝操作指令。"
+12159,"設為常用跨界貝"
+12160,"此跨界貝的訊息設定"
+12161,"更改此跨界貝的頻道號"
+12162,"請指定跨界通訊貝<Value>IntegerParameter(1)</Value>的新頻道號。
+如果指定的頻道號有其他跨界貝佔用，兩者將會互換。"
+12163,"<Switch(IntegerParameter(1))><Case(1)><Color(PlayerParameter(35))></Case><Case(2)><Color(PlayerParameter(84))></Case><Case(3)><Color(PlayerParameter(85))></Case><Case(4)><Color(PlayerParameter(86))></Case><Case(5)><Color(PlayerParameter(87))></Case><Case(6)><Color(PlayerParameter(88))></Case><Case(7)><Color(PlayerParameter(89))></Case><Case(8)><Color(PlayerParameter(90))></Case></Switch>跨界通訊貝<Value>IntegerParameter(1)</Value>：<Highlight>StringParameter(2)</Highlight></Color>"
+12164,"邀請加入跨界通訊貝<Value>IntegerParameter(1)</Value>「<Highlight>StringParameter(2)</Highlight>」"
 12165,"列表"
 12166,"管理員"
 12167,"隊長"
@@ -12015,12 +12015,12 @@ Immerse Gamepack尚未安裝。
 12171,"按成員編號排序"
 12172,"按角色名排序"
 12173,"將線上用戶排在列表頂部"
-12174,"跨服貝頻道號變更"
+12174,"跨界貝頻道號變更"
 12175,""
 12176,"重置頻道號"
-12177,"將目前本地保存的跨服通訊貝頻道號重置回初始狀態。
+12177,"將目前本地保存的跨界通訊貝頻道號重置回初始狀態。
 重置後頻道號有可能發生改變，使用文本指令指定發言頻道時需要注意。
-本操作對已加入的每個DC的跨服貝都會生效。"
+本操作對已加入的每個DC的跨界貝都會生效。"
 12178,"重置"
 12180,"解除武具投影部位選擇"
 12181,""
@@ -12358,30 +12358,30 @@ Immerse Gamepack尚未安裝。
 12509,"打擊"
 12510,"跨界傳送"
 12511,""
-12512,"原始伺服器"
-12513,"其他伺服器"
+12512,"原始 World"
+12513,"其他 World"
 12514,"<If(Equal(IntegerParameter(1),2))>　　　　　　　　　　　　　<UIForeground>F20202</UIForeground>《關於超域傳送》<UIForeground>01</UIForeground>
-“超域傳送”是讓前往其他伺服器遊玩的“跨界傳送”能夠跨越DC的功能。超域傳送時除了普通跨界傳送的限制外，還會受到幾條額外的限制。
+「超域傳送」是讓前往其他 World遊玩的「跨界傳送」能夠跨越DC的功能。超域傳送時除了普通跨界傳送的限制外，還會受到幾條額外的限制。
 
 　　　　　　　　　　<UIForeground>F20202</UIForeground>《申請超域傳送時的注意事項》<UIForeground>01</UIForeground>
 　・在返回原始DC前，在原始DC顯示的角色無法進行登入等操作。
 　・超域傳送中的角色無法從旅行區直接去往下一個DC旅行。
-　 需要先返回原始伺服器再進行下一次旅行。
-　・前往其他伺服器後，30天不登入遊戲會自動返回原始伺服器。
+　 需要先返回原始 World再進行下一次旅行。
+　・前往其他 World後，30天不登入遊戲會自動返回原始 World。
 　 不過根據最後退出遊戲的時間，也會出現超過30天才返回的情況。
 
 <Else/></If><If(LessThan(IntegerParameter(1),2))>　　　　　　　　　　　　　<UIForeground>F20202</UIForeground>《關於跨界傳送》<UIForeground>01</UIForeground>
-您可以離開自己所在的伺服器去往同一DC內的其他伺服器遊玩。在其他伺服器可以照常進行和好友組隊、購物、挑戰副本任務等行動。
+您可以離開自己所在的 World去往同一DC內的其他 World遊玩。在其他 World可以照常進行和好友組隊、購物、挑戰副本任務等行動。
 
 　　　　　　　　　　<UIForeground>F20202</UIForeground>《申請跨界傳送時的注意事項》<UIForeground>01</UIForeground>
-　・申請跨界傳送時，根據目標伺服器的擁擠程度可能會需要一定的等待時間。
+　・申請跨界傳送時，根據目標 World的擁擠程度可能會需要一定的等待時間。
 　・等待時間結束後傳送會自動進行，屆時正在執行的所有操作都將被強制取消。
-　・前往其他伺服器後，30天不登錄遊戲會自動返回原始伺服器。
+　・前往其他 World後，30天不登錄遊戲會自動返回原始 World。
 　 不過根據最後退出遊戲的時間，也會出現超過30天才返回的情況。
 
 
-<Else/></If>　　　　　　　　　　　<UIForeground>F20202</UIForeground><If(GreaterThan(IntegerParameter(1),0))>　《身處其他DC<Else/>《身處其他伺服器</If>時的限制》<UIForeground>01</UIForeground>
-<If(Equal(IntegerParameter(1),1))>您目前正身處於非原始DC遊玩。<Else/></If><If(GreaterThan(IntegerParameter(1),0))>在其他DC<Else/>在其他伺服器</If>遊玩時存在以下限制需要注意。
+<Else/></If>　　　　　　　　　　　<UIForeground>F20202</UIForeground><If(GreaterThan(IntegerParameter(1),0))>　《身處其他DC<Else/>《身處其他 World</If>時的限制》<UIForeground>01</UIForeground>
+<If(Equal(IntegerParameter(1),1))>您目前正身處於非原始DC遊玩。<Else/></If><If(GreaterThan(IntegerParameter(1),0))>在其他DC<Else/>在其他 World</If>遊玩時存在以下限制需要注意。
 
 <If(GreaterThan(IntegerParameter(1),0))><UIForeground>F20202</UIForeground>好友名單<UIForeground>01</UIForeground>將受到如下限制：
 　・無法和身處其他DC的好友聊天。
@@ -12391,10 +12391,10 @@ Immerse Gamepack尚未安裝。
 　・無法創建或加入公會。
 　・無法確認自身所在公會的情報。
 　・無法獲得公會戰績。
-　・公會長離開原始伺服器超過35天後，公會長職位將被移交給其他成員。
+　・公會長離開原始 World超過35天後，公會長職位將被移交給其他成員。
 
-<If(GreaterThan(IntegerParameter(1),0))><UIForeground>F20202</UIForeground>跨服通訊貝<UIForeground>01</UIForeground>將受到如下限制：
-　・無法創建跨服通訊貝。
+<If(GreaterThan(IntegerParameter(1),0))><UIForeground>F20202</UIForeground>跨界通訊貝<UIForeground>01</UIForeground>將受到如下限制：
+　・無法創建跨界通訊貝。
 　・無法成為管理員。
 
 <Else/></If><UIForeground>F20202</UIForeground>通訊貝<UIForeground>01</UIForeground>將受到如下限制：
@@ -12408,7 +12408,7 @@ Immerse Gamepack尚未安裝。
 　・無法創建或加入戰隊。
 
 <UIForeground>F20202</UIForeground>同好會<UIForeground>01</UIForeground>將受到如下限制：
-　・除了在同好招募中進行搜索，其他一切功能皆無法使用。
+　・除了在同好招募中進行搜尋，其他一切功能皆無法使用。
 
 <Else/></If><UIForeground>F20202</UIForeground>僱員<UIForeground>01</UIForeground>將受到如下限制：
 　・無法傳喚、僱傭、解雇僱員。
@@ -12419,9 +12419,9 @@ Immerse Gamepack尚未安裝。
 　・無法房屋共用。
 
 <UIForeground>F20202</UIForeground>永結同心<UIForeground>01</UIForeground>將受到如下限制：
-　・永結同心典禮只能在原始伺服器舉行。
-　・永結同心的任務只能在原始伺服器領取。
-　・典禮請帖無法交給其他伺服器的玩家。
+　・永結同心典禮只能在原始 World舉行。
+　・永結同心的任務只能在原始 World領取。
+　・典禮請帖無法交給其他 World的玩家。
 
 <UIForeground>F20202</UIForeground>副本任務與功能方面<UIForeground>01</UIForeground>將受到如下限制：
 <If(GreaterThan(IntegerParameter(1),0))>　・無法參加水晶衝突段位賽。
@@ -12430,13 +12430,13 @@ Immerse Gamepack尚未安裝。
 　・無法購買或兌獎仙人仙彩。
 　・無法使用莫古郵件。
 　・深層迷宮的積分不進排名。
-　・傳送到戀人或好友身邊的功能只有在兩人同在一個伺服器時才能使用。
+　・傳送到戀人或好友身邊的功能只有在兩人同在一個World時才能使用。
 　・採掘師與園藝師無法發現未知、傳說等採集點。
 "
-12515,"原始伺服器"
-12516,"目前伺服器"
-12517,"無法選擇此伺服器"
-12518,"正在獲得伺服器資訊"
+12515,"原始 World"
+12516,"目前 World"
+12517,"無法選擇此 World"
+12518,"正在獲得 World資訊"
 12519,"確定要移動到「<Highlight>StringParameter(1)</Highlight>」嗎？"
 12520,"正在預約申請跨界傳送"
 12521,"傳送目的地：<Highlight>StringParameter(1)</Highlight>"
@@ -12460,9 +12460,9 @@ Immerse Gamepack尚未安裝。
 12539,"<Highlight>StringParameter(1)</Highlight>"
 12540,"<Highlight>StringParameter(1)</Highlight>"
 12541,"放浪神加護"
-12542,"目前伺服器"
-12543,"伺服器資訊"
-12544,"伺服器列表"
+12542,"目前 World"
+12543,"World資訊"
+12544,"World列表"
 12545,"青魔道士記錄"
 12546,""
 12547,"招募隊員"
@@ -12540,8 +12540,8 @@ Immerse Gamepack尚未安裝。
 12617,"保存"
 12618,"讀取"
 12624,"確定要移動到「<Highlight>StringParameter(1)</Highlight>」嗎？
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>伺服器內組隊狀態下無法使用此功能。
-跨服組隊狀態下可以使用此功能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>界內組隊狀態下無法使用此功能。
+跨界組隊狀態下可以使用此功能。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 12625,"超域旅者"
 12626,"不處於原始DC時無法顯示郵件通知。"
 12627,"超域旅者"
@@ -12655,7 +12655,7 @@ Immerse Gamepack尚未安裝。
 ※如果在對方同意申請前某一方脫離了目前DC，好友申請將不再可回應，只能保持臨時好友狀態一周後自動撤銷。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 12741,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>
 ※成功加為好友後，相互不在同一DC時有可能無法讀取線上狀態。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-12742,"確定要向原始伺服器與你不在同一DC的<Highlight>StringParameter(1)</Highlight>發送好友申請嗎？"
+12742,"確定要向原始 World與你不在同一DC的<Highlight>StringParameter(1)</Highlight>發送好友申請嗎？"
 12750,"重建伊修加爾德"
 12751,""
 12752,"道具名"
@@ -12681,7 +12681,7 @@ Immerse Gamepack尚未安裝。
 12771,"咕波好運票的持有數量已達上限，無法獲得新的咕波好運章。"
 12772,"排名統計期"
 12773,"<If(Equal(IntegerParameter(1),0))><Else/><Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>結束</If>"
-12774,"※不在原始伺服器，無法獲得技巧點。"
+12774,"※不在原始 World，無法獲得技巧點。"
 12775,"排名技巧點"
 12776,"累計技巧點"
 12777,"<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>～<Else/>0</If>"
@@ -12736,7 +12736,7 @@ Immerse Gamepack尚未安裝。
 12830,"同好會黑名單"
 12831,""
 12832,"角色名"
-12833,"原始伺服器"
+12833,"原始 World"
 12834,"<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
 12835,"關閉"
 12836,"從黑名單中刪除"
@@ -12812,11 +12812,11 @@ Immerse Gamepack尚未安裝。
 12905,"表情「驚訝」"
 12906,"成員"
 12907,"分組"
-12908,"原始伺服器"
+12908,"原始 World"
 12909,""
 12910,"設定分組"
 12911,"發送好友申請"
-12912,"邀請加入跨服貝"
+12912,"邀請加入跨界貝"
 12913,"踢出同好會"
 12914,"轉讓會長許可權"
 12915,"任命為管理員"
@@ -12964,11 +12964,11 @@ Immerse Gamepack尚未安裝。
 
 自由探索時允許執行下列操作：
 ·使用自由探索專用技能
-·喚出寵物、坐騎、時尚配飾
+·喚出寵物、坐騎、時尚配件
 ·切換職業（能工巧匠、大地使者除外）
 ·樂器演奏
 
-<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※只對支持自由探索並且已完成的任務生效。
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※只對支援自由探索並且已完成的任務生效。
 ※只有隊長進行設定才會生效。
 ※啟用自由探索時，設定的其他參加條件都會失效。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 13040,"不支援自由探索"
@@ -13177,7 +13177,7 @@ Immerse Gamepack尚未安裝。
 <Highlight>StringParameter(1)</Highlight>"
 13240,"排名技巧點"
 13241,"累計技巧點"
-13242,"※不在原始伺服器，無法顯示排名技巧點。"
+13242,"※不在原始 World，無法顯示排名技巧點。"
 13243,"目前未進行排名"
 13290,"特別收穫！"
 13291,"所需能力"
@@ -13214,7 +13214,7 @@ Immerse Gamepack尚未安裝。
 13318,"登入時通知新訊息"
 13319,"主"
 13320,"副"
-13321,"限定招募者的原始伺服器"
+13321,"限定招募者的原始 World"
 13322,"開啟高亮顯示設定"
 13323,"語言設定"
 13324,"高亮顯示設定"
@@ -13359,7 +13359,7 @@ Immerse Gamepack尚未安裝。
 13475,"累計技巧點"
 13476,"排名統計期"
 13477,"<If(Equal(IntegerParameter(1),0))><Else/><Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>結束</If>"
-13478,"※不在原始伺服器，無法獲得排名技巧點。"
+13478,"※不在原始 World，無法獲得排名技巧點。"
 13479,"排名技巧點"
 13480,"累計技巧點"
 13481,"確定要遞交嗎？
@@ -13490,7 +13490,7 @@ Immerse Gamepack尚未安裝。
 13631,"額外獎勵"
 13632,"+<Value>IntegerParameter(1)</Value>%"
 13633,"玩家名"
-13634,"伺服器"
+13634,"World"
 13635,"釣魚數"
 13636,"合計漁分"
 13637,"退出"
@@ -13544,46 +13544,46 @@ Immerse Gamepack尚未安裝。
 《如何使用超域傳送》
 返回標題畫面，在角色登入介面選擇要移動的角色。
 從子選單中選擇「前往其他DC遊玩」。"
-13670,"時尚配飾使用中"
-13671,"時尚配飾"
+13670,"時尚配件使用中"
+13671,"時尚配件"
 13672,""
 13673,"總數：<Value>IntegerParameter(1)</Value>"
 13674,"<Sheet(ActStr,IntegerParameter(1),0)/>"
-13675,"時尚配飾"
-13676,"請選擇時尚配飾。"
+13675,"時尚配件"
+13676,"請選擇時尚配件。"
 13677,"設置快速鍵"
 13678,"執行"
-13679,"使用情感動作「改變姿勢」時，做出與時尚配飾搭配的專屬動作。"
+13679,"使用情感動作「改變姿勢」時，做出與時尚配件搭配的專屬動作。"
 13680,"雨天時自動使用"
 13681,"取消自動使用"
-13682,"查看時尚配飾解說。"
+13682,"查看時尚配件解說。"
 13726,"允許透過滑鼠拖曳對隊員進行排序。"
 13727,"隊員排序
 將自己之外的隊員，按照角色設定「隊員排序設定」中設定的順序進行排序。"
-13728,"變為伺服器內小隊
-將目前跨服小隊轉換為伺服器內小隊。"
-13729,"確定要將跨服小隊轉換為伺服器內小隊嗎？
+13728,"變為界內小隊
+將目前跨界小隊轉換為界內小隊。"
+13729,"確定要將跨界小隊轉換為界內小隊嗎？
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※需要小隊全員處於同一區域時才可執行。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 13730,"確定"
 13731,"取消"
 13732,"排序"
 13733,"退隊"
 13734,"解散"
-13735,"變伺服器內"
+13735,"變為界內"
 13736,"隱藏訊息欄"
 13737,"切換發言頻道"
 13738,"視窗合併"
 13739,"<If(Equal(PlayerParameter(80),0))>左鍵按一下：確定<Else/><CommandIcon(7)/>選擇　　<CommandIcon(8)/>鍵：確定</If>"
 13740,"團隊"
-13741,"※此為跨服小隊招募。
-如果任務並非要在您所在的伺服器進行，
-您需要透過「跨界傳送」功能前往目標伺服器。"
-13742,"""確定要以「跨服小隊」形式進行下列任務的招募嗎？
+13741,"※此為跨界小隊招募。
+如果任務並非要在您所在的 World進行，
+您需要透過「跨界傳送」功能前往目標 World。"
+13742,"確定要以「跨界小隊」形式進行下列任務的招募嗎？
 ·<Highlight>StringParameter(1)</Highlight>
 
-此類任務無法使用跨服小隊參加，
-建議在任務開始前將隊伍轉換為「伺服器內小隊」。
-※可以在設定選單「小隊」的「小隊隊員」中將小隊變為伺服器內小隊。"""
+此類任務無法使用跨界小隊參加，
+建議在任務開始前將隊伍轉換為「界內小隊」。
+※可以在設定選單「小隊」的「小隊隊員」中將小隊變為界內小隊。"""
 13743,"【地圖連接設定失敗】"
 13745,"“<Sheet(Achievement,IntegerParameter(4),1)/>”成就達成後
 透過“<Sheet(Item,IntegerParameter(3),0)/>”學習
@@ -13951,7 +13951,7 @@ Immerse Gamepack尚未安裝。
 14103,"左"
 14104,"中"
 14105,"右"
-14106,"顯示原始伺服器名"
+14106,"顯示原始 World名"
 14107,"稱號（裝有稱號時）"
 14108,"職業名"
 14109,"顯示等級"
@@ -14224,8 +14224,8 @@ Immerse Gamepack尚未安裝。
 14411,"坐在地面時可用"
 14412,"坐椅子上時可用"
 14413,"騎乘時可用"
-14414,"時尚配飾：撐傘時可用"
-14415,"時尚配飾：裝飾翅膀、背包時可用"
+14414,"時尚配件：撐傘時可用"
+14415,"時尚配件：裝飾翅膀、背包時可用"
 14416,"釣魚時可用"
 14417,"關閉"
 14418,"查看圖示說明。"
@@ -14521,7 +14521,7 @@ PvP任務「水晶衝突」或
 14814,"可更換同伴"
 14815,"與NPC同伴一同進入<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>將在今後開放"
 14816,"將在今後的版本中開放。"
-14820,"原始伺服器"
+14820,"原始 World"
 14821,"（無法確認角色名）"
 14822,"帳號已被鎖定"
 14823,"編輯備註"
@@ -15451,8 +15451,8 @@ Gil將超出持有上限，超出的部分無法獲得。"
 15801,""
 15802,"通用"
 15803,"人名顯示類型"
-15804,"顯示其他伺服器玩家的伺服器名"
-15805,"※選擇不顯示時，僅顯示代表其他伺服器的<Gui(88)/>。"
+15804,"顯示其他 World玩家的 World名"
+15805,"※選擇不顯示時，僅顯示代表其他 World的<Gui(88)/>。"
 15806,"小隊/團隊"
 15807,"職業/職能顯示設定"
 15808,"訊息視窗中顯示說話人的職業或職能。"
@@ -15483,10 +15483,10 @@ Gil將超出持有上限，超出的部分無法獲得。"
 15830,"羅莎"
 15831,"凱因"
 15832,"艾吉"
-15833,"伺服器名"
-15834,"伺服器名"
-15835,"伺服器名"
-15836,"伺服器名"
+15833,"World名"
+15834,"World名"
+15835,"World名"
+15836,"World名"
 15840,"請為武器選擇3項狀態參數屬性。
 最後1項屬性分配到的數值較低。"
 15842,"(<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>)"
@@ -15922,7 +15922,7 @@ WQHD描画
 16219,"禁止進入名單"
 16220,""
 16221,"名字"
-16222,"伺服器"
+16222,"World"
 16223,"剩餘時間"
 16224,"<If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>日<Else/>1日以內</If>"
 16225,"確定要從禁止進入名單中刪除<Highlight>StringParameter(1)</Highlight>
@@ -16105,7 +16105,7 @@ WQHD描画
 16459,"內部改建說明"
 16460,""
 16462,"※組成團隊參加時需要湊齊規定人數（24人）申請參加。"
-16466,"從原始伺服器所在的DC申請參加"
+16466,"從原始 World所在的DC申請參加"
 16481,"當前職業無法挑戰此訓練"
 16697,"<Sheet(ClassJob,IntegerParameter(1),0)/>"
 16698,"<Sheet(MKDSupportJob,IntegerParameter(1),0)/>"
@@ -16442,8 +16442,8 @@ WQHD描画
 102263,"本日友好部族日常任務受理限額"
 102264,"活動期間"
 102265,"必須已購買房屋或公寓房間或與他人共用房屋
-必須是原始伺服器"
-102266,"已安裝並啟動«<Sheet(ExVersion,IntegerParameter(1),0)/>»"
+必須是原始 World"
+102266,"已安裝並啟動《<Sheet(ExVersion,IntegerParameter(1),0)/>》"
 102267,"使用接受任務時的<Sheet(ClassJob,IntegerParameter(1),0)/>職業"
 102268,"當前職業等級在<Value>IntegerParameter(1)</Value>級以上"
 102269,"持有或裝備必要道具"
@@ -16703,7 +16703,7 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 當前正在任務搜尋器上申請的任務會被取消。"
 102613,"參加任務確認"
 102614,"PvP任務"
-102615,"沒有啟動«<Sheet(ExVersion,IntegerParameter(1),0)/>»"
+102615,"沒有啟動《<Sheet(ExVersion,IntegerParameter(1),0)/>》"
 102616,"<Value>IntegerParameter(1)</Value>級
 ※PvP任務不沿用通常的特職等級，角色的狀態參數也會切換為PvP專用資料。"
 102617,"僅限同一戰隊組隊"
@@ -16729,7 +16729,7 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 102633,"保留"
 102634,"接近達成"
 102635,"當前區域"
-102636,"跨服通訊貝邀請"
+102636,"跨界通訊貝邀請"
 102637,"主要活動"
 102638,"招募職業"
 102639,"活動時間"

@@ -562,7 +562,7 @@ int32,str
 所有進入該區域的目標都會受到傷害
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>50　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>範圍內所有目標附加5%減速
-無法與其它地面設置系技能同時使用"
+無法與其他地面設置系技能同時使用"
 180,"召喚擅長近身單體攻擊的召喚獸
 與<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>召喚<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>召喚II<UIGlow>01</UIGlow><UIForeground>01</UIForeground>共用複唱時間"
 181,"對目標發動無屬性魔法攻擊
@@ -2204,7 +2204,7 @@ int32,str
 1571,"以指定地點為中心產生治療區域
 進入該區域的目標HP會得到恢復，並且所受物理傷害會減少40%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>恢復力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>70　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>24秒
-無法與其它地面設置系技能同時使用
+無法與其他地面設置系技能同時使用
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>效果提高：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>複唱時間縮短到180秒
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>效果提高II：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>持續時間延長到30秒
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>效果提高III：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢復力提高到100"
@@ -31367,7 +31367,7 @@ int32,str
 25797,"對目標發動無屬性魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>540
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>星極火狀態中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>火苗<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火苗效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>下次發動大炎焰不消耗MP，同時也沒有詠唱時間
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火苗效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>下次發動大火焰不消耗MP，同時也沒有詠唱時間
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>靈極冰狀態中追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>本次發動悖論不消耗MP
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>悖論水晶<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
@@ -45302,7 +45302,7 @@ int32,str
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※該技能無法設置到快速鍵
 　滿足發動條件後，原初的解放變為原初的怒震<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-36925,"對目標及其周圍的敵人發動無屬性範圍魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>780
+36925,"對目標及其周圍的敵人發動無屬性範圍物理攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>780
 攻擊複數敵人時，對目標之外的敵人威力降低50%
 該技能必定暴擊並且直擊
 受暴擊或直擊發動率提高效果影響時，攻擊造成的傷害提高
