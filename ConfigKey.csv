@@ -427,7 +427,7 @@ int32,str,byte,byte,bit&01,byte,uint16,byte,str
 571,"CMD_CWLINKSHELL_6_ALWAYS",255,255,False,4,119,5,"切換到跨界通訊貝6頻道"
 572,"CMD_CWLINKSHELL_7_ALWAYS",255,255,False,4,120,5,"切換到跨界通訊貝7頻道"
 573,"CMD_CWLINKSHELL_8_ALWAYS",255,255,False,4,121,5,"切換到跨界通訊貝8頻道"
-591,"CHATLOG_VIEWERMODE",255,255,False,5,25,1,"擴大消息欄"
+591,"CHATLOG_VIEWERMODE",255,255,False,5,25,1,"放大訊息視窗"
 592,"MENU_SCENARIO_TREE",255,255,False,5,31,1,"顯示主線導覽員的主線任務項目"
 593,"MENU_SCENARIO_TREE_SUB",255,255,False,5,32,1,"顯示主線導覽員的支線任務項目"
 594,"ACCESSIBILITY_COLORBLIND",255,225,False,5,29,1,"色覺多樣性設定：切換顏色輔助"

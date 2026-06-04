@@ -4,10 +4,10 @@ int32,str,str
 0,"TEXT_BANDWA102_03903_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>特殊規則： 等級調整（限定職業）<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 ※本任務需要與接受任務時的職業相同才可繼續進行任務。
 
-沃茨之錘的雷吉圖很在意自己鬍子的狀況。"
+沃茨之錘的雷吉特很在意自己鬍子的狀況。"
 1,"TEXT_BANDWA102_03903_SEQ_01","和喬布要塞的負責補給的矮人交談"
 2,"TEXT_BANDWA102_03903_SEQ_02","和喬布要塞的負責補給的矮人進行了交談
-將委託物品交給雷吉圖"
+將委託物品交給雷吉特"
 3,"TEXT_BANDWA102_03903_SEQ_03",""
 4,"TEXT_BANDWA102_03903_SEQ_04",""
 5,"TEXT_BANDWA102_03903_SEQ_05",""
@@ -30,7 +30,7 @@ int32,str,str
 22,"TEXT_BANDWA102_03903_SEQ_22",""
 23,"TEXT_BANDWA102_03903_SEQ_23",""
 24,"TEXT_BANDWA102_03903_TODO_00","和喬布要塞的負責補給的矮人對話"
-25,"TEXT_BANDWA102_03903_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉圖</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉圖</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉圖</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉圖</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉圖</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉圖</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉圖</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉圖</If><Else/></If></If></If></If></If></If></If></If>"
+25,"TEXT_BANDWA102_03903_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉特</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉特</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉特</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉特</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉特</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉特</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉特</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務：製作<Sheet(Item,IntegerParameter(5),0)/><Else/>將<Sheet(Item,IntegerParameter(5),0)/>交給雷吉特</If><Else/></If></If></If></If></If></If></If></If>"
 26,"TEXT_BANDWA102_03903_TODO_02",""
 27,"TEXT_BANDWA102_03903_TODO_03",""
 28,"TEXT_BANDWA102_03903_TODO_04",""
@@ -75,7 +75,7 @@ int32,str,str
 55,"TEXT_BANDWA102_03903_DAILYDWARF03903_000_014","我想讓你用這個素材製作2瓶<Sheet(Item,31149,0)/>，
 也就是用來使鬍子變得光澤亮麗的乳液。
 素材不夠的話，可以從收集素材的自走人偶那裡拿！"
-56,"TEXT_BANDWA102_03903_DAILYDWARF03903_000_016","東西做好之後，回到沃茨之錘交給雷吉圖就好！
+56,"TEXT_BANDWA102_03903_DAILYDWARF03903_000_016","東西做好之後，回到沃茨之錘交給雷吉特就好！
 回去我也要好好保養一下鬍子才行！"
 57,"TEXT_BANDWA102_03903_DAILYDWARF03903_000_116","素材不夠的話，可以從收集素材的自走人偶那裡拿。
 我好期待你製作的<Sheet(Item,31149,0)/>！"
@@ -96,7 +96,7 @@ int32,str,str
 65,"TEXT_BANDWA102_03903_AUTOMATON03903_000_022","沙沙……需要素材？
 好的。"
 66,"TEXT_BANDWA102_03903_DAILYDWARF03903_000_023","東西已經做好了？
-回到沃茨之錘交給雷吉圖就好！"
+回到沃茨之錘交給雷吉特就好！"
 67,"TEXT_BANDWA102_03903_REGITT_000_030","你回來啦！
 帶來<Sheet(Item,31149,0)/>了嗎？"
 68,"TEXT_BANDWA102_03903_REGITT_000_031","哇哦，看起來很好用的樣子！

@@ -402,7 +402,7 @@ int32,str
 284,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>鷹眼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狂風蝕箭、烈毒咬箭、伶牙俐齒命中時（發動機率35%）"
-285,"強力射擊變為魔法爆裂"
+285,"強力射擊變為爆裂射擊"
 286,"軍神的讚美歌狀態中且身上有<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>詩心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>時，使用賢者的敘事謠或放浪神的小步舞曲會對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>軍神的加護<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>軍神的加護效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自動攻擊間隔、戰技與魔法的詠唱及冷卻時間縮短
@@ -1436,7 +1436,7 @@ MP不會自然恢復
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>九天連箭的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>260
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>側風誘導箭的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>輝煌箭的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔法爆裂的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>爆裂射擊的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>絕峰箭的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120～600"
 669,"部分技能的威力提高
 

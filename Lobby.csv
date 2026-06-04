@@ -1114,7 +1114,7 @@ https://www.ffxiv.com.tw","",""
 848,0,0,0,"上傳","",""
 849,0,0,0,"","",""
 850,0,0,0,"","",""
-851,0,0,0,"備份<UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>用戶端通用設定資料<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，包括全角色公用巨集還有介面尺寸、聲音設定等一部分系統設定。
+851,0,0,0,"備份<UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>用戶端通用設定資料<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，包括全角色共用巨集還有介面尺寸、聲音設定等一部分系統設定。
 ※受設備環境影響的畫面解析度、控制設備等設定不在備份範圍內。","",""
 852,0,0,0,"將<UIForeground>F20239</UIForeground><UIGlow>F2023A</UIGlow>角色專有設定資料<UIGlow>01</UIGlow><UIForeground>01</UIForeground>備份到伺服器儲存，包括角色設定、介面佈局、快速鍵、套裝列表等。
 ※道具整理與所持狀況確認用資料不在備份範圍內。","",""
@@ -1196,8 +1196,8 @@ https://www.ffxiv.com.tw","",""
 904,0,51,0,"儲存過場動畫的語音等設定。
 ※受設備環境影響的設定不在儲存範圍內。","其他設定",""
 905,0,61,0,"儲存聲音的視覺表現、色覺多樣性設定。","協助工具設定",""
-906,0,161,0,"儲存角色公用巨集的情報。
-※角色專用巨集則需要在角色設定資料裡備份。","角色公用巨集",""
+906,0,161,0,"儲存角色共用巨集的情報。
+※角色專用巨集則需要在角色設定資料裡備份。","角色共用巨集",""
 907,0,0,0,"","",""
 908,0,0,0,"","",""
 909,0,0,0,"","",""
@@ -1218,7 +1218,7 @@ https://www.ffxiv.com.tw","",""
 924,0,151,0,"儲存快捷建設定。","按鍵設定",""
 925,0,121,0,"儲存訊息視窗用的訊息過濾設定。","消息過濾設定",""
 926,0,161,0,"儲存角色專用巨集的情報。
-※角色公用巨集則需要在用戶端通用設定資料裡備份。","角色專用巨集",""
+※角色共用巨集則需要在用戶端通用設定資料裡備份。","角色專用巨集",""
 927,0,51,0,"儲存九宮幻卡、萌寵之王等設定情報。","其他",""
 928,0,171,0,"儲存好友名單的分組名、戰友列表等情報。","社交",""
 929,0,0,0,"","",""
@@ -1235,12 +1235,12 @@ https://www.ffxiv.com.tw","",""
 940,0,0,0,"恢復","",""
 941,0,0,0,"恢復<If(Equal(PlayerParameter(75),0))>巨集<Else/>設定</If>","",""
 942,0,0,0,"恢復設定","",""
-943,0,0,0,"恢復<If(Equal(PlayerParameter(75),0))>公用巨集<Else/>用戶端通用設定</If>","",""
+943,0,0,0,"恢復<If(Equal(PlayerParameter(75),0))>共用巨集<Else/>用戶端通用設定</If>","",""
 944,0,0,0,"","",""
 945,0,0,0,"恢復對象：<UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>用戶端通用設定資料<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(Equal(PlayerParameter(75),0))>
-中的100個公用巨集<Else/></If>","",""
+中的100個共用巨集<Else/></If>","",""
 946,0,0,0,"下載備份的用戶端通用設定資料時如果發生問題，
-可選擇將<If(Equal(PlayerParameter(75),0))>公用巨集的<Else/></If>資料恢復到下載開始前的狀態。
+可選擇將<If(Equal(PlayerParameter(75),0))>共用巨集的<Else/></If>資料恢復到下載開始前的狀態。
 請選擇用來恢復的資料。","",""
 947,0,0,0,"下載伺服器上儲存的備份資料進行覆蓋時，
 會自動儲存最多10個恢復用資料。
@@ -1256,11 +1256,11 @@ https://www.ffxiv.com.tw","",""
 會自動儲存最多10個恢復用資料。
 現在還沒有恢復用資料。","",""
 954,0,0,0,"確定要使用<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>的資料
-恢復<If(Equal(PlayerParameter(75),0))>角色公用巨集<Else/>用戶端通用設定</If>嗎？","",""
+恢復<If(Equal(PlayerParameter(75),0))>角色共用巨集<Else/>用戶端通用設定</If>嗎？","",""
 955,0,0,0,"確定要使用<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>的資料
 恢復角色設定嗎？","",""
-956,0,0,0,"<If(Equal(PlayerParameter(75),0))>角色公用巨集<Else/>用戶端通用設定</If>恢復成功。","",""
-957,0,0,0,"<If(Equal(PlayerParameter(75),0))>角色公用巨集<Else/>用戶端通用設定</If>恢復失敗。","",""
+956,0,0,0,"<If(Equal(PlayerParameter(75),0))>角色共用巨集<Else/>用戶端通用設定</If>恢復成功。","",""
+957,0,0,0,"<If(Equal(PlayerParameter(75),0))>角色共用巨集<Else/>用戶端通用設定</If>恢復失敗。","",""
 958,0,0,0,"角色設定恢復成功。","",""
 959,0,0,0,"角色設定恢復失敗。","",""
 960,0,0,0,"備份的資料存在問題，下載失敗。","",""

@@ -3646,14 +3646,14 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/默劇","",293,0
-631,2,1,2,0,0,"/vexed","","/不解 指令
+631,2,1,2,0,0,"/vexed","","/疑惑 指令
 /vexed
-表現出困惑的樣子。
+表現出疑惑的樣子。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出動作並顯示文字提示。","/不解","",293,0
+做出動作並顯示文字提示。","/疑惑","",293,0
 632,2,1,2,0,0,"/shush","/shh","/噓 指令
 /shush、/shh
 催促周圍保持安靜。
