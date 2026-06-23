@@ -686,7 +686,7 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 /recommended
 打開推薦任務視窗。","/推薦任務","/推薦",32,0
 160,2,1,0,0,0,"/inventory","/bag","/物品(/背包)
-/inventory
+/inventory、/bag
 打開物品視窗。","/物品","/背包",32,0
 161,3,1,2,0,0,"/freecompanycmd","/fccmd","/公會命令(/公命)
 /freecompanycmd、/fccmd
@@ -2559,7 +2559,7 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/聲援小紅","",293,0
 469,2,1,2,0,0,"/straightface","/straight","/平常 指令
-/straightface
+/straightface、/straight
 表現出面無表情的樣子。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -2599,7 +2599,7 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/無畏","",293,0
 474,2,1,2,0,0,"/shuteyes","/shut","/閉目 指令
-/shuteyes
+/shuteyes、/shut
 閉上眼睛。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -2615,7 +2615,7 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/悲傷","",293,0
 476,2,1,2,0,0,"/scared","/fear","/恐怖 指令
-/scared
+/scared、/fear
 做出感到害怕的表情。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -2623,7 +2623,7 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/恐怖","",293,0
 477,2,1,2,0,0,"/amazed","/awe","/意外 指令
-/amazed
+/amazed、/awe
 做出意外的表情。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -2631,7 +2631,7 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/意外","",293,0
 478,2,1,2,0,0,"/ouch","/ow","/痛苦 指令
-/ouch
+/ouch、/ow
 做出痛苦的表情。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -2639,7 +2639,7 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/痛苦","",293,0
 479,2,1,2,0,0,"/annoyed","/annoy","/反感 指令
-/annoyed
+/annoyed、/annoy
 做出不耐煩的反感表情。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -2655,7 +2655,7 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/吃驚","",293,0
 481,2,1,2,0,0,"/worried","/worry","/擔心 指令
-/worried
+/worried、/worry
 做出很擔心的表情。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -3411,7 +3411,7 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/優雅仙人掌怪","",293,0
 599,2,1,2,0,0,"/mandervillemambo","/mmambo","/紳士舞步 指令
-/mandervillemambo(/mmambo)
+/mandervillemambo、/mmambo
 踏上最具紳士風度的舞步。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -3471,7 +3471,7 @@ F.A.T.E.範圍內
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/彈指","",293,0
 607,2,1,2,0,0,"/breakfast","/bread","/吃麵包 指令
-/bread
+/bread、/breakfast
 拿出麵包啃。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -4014,6 +4014,14 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/搖雪克杯","",293,0
+683,2,1,2,0,0,"/poseoftheunbound","/unbound","/象徵自由的姿勢 指令
+/poseoftheunbound、/unbound
+擺出象徵自由的姿勢。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/象徵自由的姿勢","",293,0
 684,2,1,2,0,0,"/bouquet","","/贈送花束 指令
 /bouquet
 送出漂亮的花束。
@@ -4038,3 +4046,11 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/噢霍卡利","",293,0
+689,2,1,2,0,0,"/photograph","","/拍照 指令
+/photograph
+拍一張照片。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/拍照","",293,0

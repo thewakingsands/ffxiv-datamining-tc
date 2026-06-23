@@ -339,7 +339,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 335,"水妖人偶",0,"",0,0,1,0,0,2490,100,10,0,0,0,1,0,0,0,8,384,False,True,True,False,False,0,False,True,4735,6003,True,0,15,390,36,360,30,1,634,3
 336,"小犰狳",0,"",0,0,1,0,0,2492,100,10,0,0,0,2,0,0,0,8,385,True,False,False,True,True,0,False,True,4736,1078,True,0,10,350,21,0,20,1,620,1
 337,"隆卡的水蛇？",0,"",0,0,1,0,0,2493,100,10,0,0,0,2,0,0,0,8,386,True,False,True,False,True,0,False,True,4737,3021,True,0,15,460,17,0,30,1,620,1
-338,"迷你巨人掌",0,"",0,0,1,0,0,2491,100,10,0,0,0,2,0,0,0,8,27,True,False,False,True,False,0,False,True,4738,1079,True,0,25,565,31,0,40,1,620,2
+338,"迷你巨人掌怪",0,"",0,0,1,0,0,2491,100,10,0,0,0,2,0,0,0,8,27,True,False,False,True,False,0,False,True,4738,1079,True,0,25,565,31,0,40,1,620,2
 339,"小小冰海天使",0,"",0,0,1,0,0,2494,100,10,0,0,0,2,0,0,0,8,388,True,False,True,False,True,0,False,True,4739,1080,True,0,15,420,33,0,20,1,620,2
 340,"小鴨嘴獸",0,"",0,0,1,0,0,2495,100,10,0,0,0,2,0,0,0,8,389,True,False,True,False,True,0,False,True,4740,4008,True,0,25,540,20,30,60,1,604,1
 341,"迷你伊甸",0,"",0,0,1,0,0,2566,100,10,0,0,0,1,0,0,0,8,390,False,True,False,True,False,0,False,True,4741,2010,True,0,30,450,1,30,60,1,603,2
@@ -538,7 +538,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 534,"佩魯佩魯族玩偶",0,"",0,0,1,0,0,4391,100,10,0,0,0,1,0,0,0,8,530,False,True,False,True,False,0,False,True,4934,10029,False,0,10,380,31,0,50,1,620,3
 535,"鐵皮士兵S3",0,"",0,0,1,0,0,4392,100,10,0,0,0,1,0,0,0,8,531,False,True,False,True,False,0,False,True,4935,11032,False,0,25,620,40,0,30,1,631,3
 536,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-537,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+537,"薄暗之雲",0,"",0,0,1,0,0,4394,100,10,0,0,0,1,0,0,0,8,232,False,True,False,True,False,0,False,True,4937,2101,False,0,20,600,31,0,30,1,620,2
 538,"迷你特彌斯",0,"",0,0,1,0,0,4395,100,10,0,0,0,1,0,0,0,8,533,False,True,False,True,False,0,False,True,4938,9051,False,0,15,500,23,30,20,1,613,3
 539,"黃金綠茵號",0,"",0,0,1,0,0,4396,100,10,0,0,0,1,0,0,0,8,534,False,True,False,True,False,0,False,True,4939,11033,False,0,10,460,42,0,20,1,620,4
 540,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0

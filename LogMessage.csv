@@ -1264,8 +1264,8 @@ int32,uint16,uint16,byte,byte,bit&01,str
 1229,60,8,0,0,False,"目前<Sheet(ClassJob,IntegerParameter(1),0)/>等級不足，無法學習這本秘笈。"
 1230,0,0,0,0,False,""
 1231,65,1,0,0,False,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>在<Highlight>StringParameter(2)</Highlight>條件下對「<If(LessThanOrEqualTo(IntegerParameter(4),1))><Sheet(Item,IntegerParameter(1),0)/><Else/><Sheet(Item,IntegerParameter(1),0)/>×<Value>IntegerParameter(4)</Value></If>」擲出了<Value>IntegerParameter(3)</Value>點。"
-1232,62,1,0,0,True,"<If(Equal(PlayerParameter(51),0))><If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>獲得了「<Sheet(Item,IntegerParameter(1),0)/>」。<Else/><If(Equal(PlayerParameter(51),1))>由於您正處於防沉迷狀態，所以暫無法獲得收益。<Else/>由於您正處於防沉迷狀態，所以暫無法獲得收益。</If></If>"
-1233,62,1,0,0,True,"<If(Equal(PlayerParameter(51),0))><If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>獲得了「<Sheet(Item,IntegerParameter(1),0)/>」×<Value>IntegerParameter(2)</Value>。<Else/><If(Equal(PlayerParameter(51),1))><If(LessThan(IntegerParameter(2),1))>由於您正處於防沉迷狀態，所以暫無法獲得收益。<Else/><If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>獲得了「<Sheet(Item,IntegerParameter(1),0)/>」<If(GreaterThan(IntegerParameter(2),1))>×<Value>IntegerParameter(2)</Value><Else/></If>。您正處於防沉迷狀態，收益已被減半。</If><Else/>由於您正處於防沉迷狀態，所以暫無法獲得收益。</If></If>"
+1232,62,1,0,0,True,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>獲得了「<Sheet(Item,IntegerParameter(1),0)/>」。<If(Equal(IntegerParameter(2),1))>（限時獎勵效果生效！）<Else/></If>"
+1233,62,1,0,0,True,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>獲得了<Sheet(Item,IntegerParameter(1),0)/>×<Value>IntegerParameter(2)</Value>。<If(Equal(IntegerParameter(3),1))>（限時獎勵效果生效！）<Else/></If>"
 1234,60,9,0,0,False,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>的背包已滿。"
 1235,60,9,0,0,False,"無法獲得物品，<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>的背包中已有同樣的珍稀道具。"
 1236,57,1,0,0,False,"無法獲得「<Sheet(Item,IntegerParameter(1),0)/>」。"
@@ -1289,7 +1289,7 @@ int32,uint16,uint16,byte,byte,bit&01,str
 1251,60,8,0,0,False,"已經擲骰完畢。"
 1252,60,8,0,0,False,"無法裝備，目前等級不足。"
 1253,60,129,0,0,False,"您正處於防沉迷狀態，無法從寶箱中獲得道具。"
-1254,57,33,1,0,False,"獲得了新的戰利品<If(LessThanOrEqualTo(IntegerParameter(2),1))><Sheet(Item,IntegerParameter(1),0)/><Else/><Sheet(Item,IntegerParameter(1),0)/>×<Value>IntegerParameter(2)</Value></If>。"
+1254,57,33,1,0,False,"獲得了新的戰利品<If(LessThanOrEqualTo(IntegerParameter(2),1))><Sheet(Item,IntegerParameter(1),0)/><Else/><Sheet(Item,IntegerParameter(1),0)/>×<Value>IntegerParameter(2)</Value></If>。<If(Equal(IntegerParameter(3),1))>（限時獎勵效果生效！）<Else/></If>"
 1255,60,9,0,0,False,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If>由於某種原因沒能獲得戰利品。"
 1256,57,1025,0,0,False,"集體動作已開啟。使用以下功能後會顯示設定功能表。
 <If(GreaterThan(PlayerParameter(80),0))><CommandIcon(10)/>鍵、自動前進<Highlight>StringParameter(1)</Highlight>、子選單<Highlight>StringParameter(2)</Highlight><Else/>自動前進<Highlight>StringParameter(1)</Highlight>、子選單<Highlight>StringParameter(2)</Highlight>、<CommandIcon(10)/>鍵</If>"
@@ -3062,12 +3062,12 @@ int32,uint16,uint16,byte,byte,bit&01,str
 2974,57,33,0,0,False,"按照飛燕的指示進行移動！"
 2975,57,33,0,0,False,"姆斯塔迪奧看穿了你的弱點……"
 2976,57,33,0,0,False,"姆斯塔迪奧正在尋找你的弱點……"
-2977,57,33,0,0,False,"此次戰鬥中
-可以使用任務指令「位移破擊」。
-將其靈活運用在攻擊與移動中吧。"
-2978,57,33,0,0,False,"看好時機配合諾克提斯使用「位移破擊」，
-進行「連鎖攻擊」吧！"
-2979,57,33,0,0,False,"向石塔發動「位移破擊」，與迦樓羅拉開距離！"
+2977,57,33,0,0,False,"本戰鬥中
+可以使用任務指令「變移破解」。
+此任務指令可以用於攻擊和移動。"
+2978,57,33,0,0,False,"看準時機配合諾克提斯使用「變移破解」，
+進行「連結攻擊」吧！"
+2979,57,33,0,0,False,"向石塔發動「變移破解」，與迦樓羅拉開距離！"
 2980,57,33,0,0,False,"被異常空間所包覆，無法進行任何行動……"
 2981,57,33,0,0,False,"聖盾的印章閃耀出了光芒！ 觸碰印章後就可以使用任務指令「聖盾防禦」了！"
 2982,57,33,0,0,False,"聖劍的印章閃耀出了光芒！ 觸碰印章後就可以使用任務指令「聖劍攻擊」了！"
@@ -3077,8 +3077,8 @@ int32,uint16,uint16,byte,byte,bit&01,str
 2986,57,1,0,0,False,"“流石だ……なかなかやるじゃないかッ！
 だが、このアビリティに耐えることができるかなッ！？”"
 2987,57,1,0,0,False,"“ファイナルテスタメント！”"
-2988,57,33,0,0,False,"通過配合諾克提斯使用「位移破擊」
-發動了「連鎖攻擊」！"
+2988,57,33,0,0,False,"成功配合諾克提斯使出「變移破解」
+發動了「連結攻擊」！"
 2989,57,33,0,0,False,"原祖鯊出現了！"
 2990,57,33,0,0,False,"<Sheet(BNpcName,IntegerParameter(1),0)/>正在積蓄力量……"
 2991,57,33,0,0,False,"隆卡石像散發出了妖異的光輝！"
@@ -4884,7 +4884,7 @@ int32,uint16,uint16,byte,byte,bit&01,str
 請等待遊戲管理員方面的處理。"
 4693,60,9,0,0,False,"配對成功後若想取消參加，請在出發確認視窗中選擇「辭退」。"
 4694,60,9,0,0,False,"無法申請參加，未滿足必要人數。"
-4695,60,9,0,0,False,"含有設限特職的小隊只有在以規定人陣列隊或解除限制的狀態下才能進入符合條件的副本任務。"
+4695,60,9,0,0,False,"含有設限特職的小隊只有在以規定人數組隊或解除限制的狀態下才能進入符合條件的副本任務。"
 4696,60,9,0,0,False,"データ不整合が検出されたためコンテンツファインダーサーバーの起動に失敗しました。"
 4697,60,9,0,0,False,"由於辭退任務取消了配對，觸發退出懲罰的計數加一。"
 4698,60,9,0,0,False,"由於辭退任務取消了配對，進入了退出懲罰期間。"
@@ -10358,10 +10358,10 @@ int32,uint16,uint16,byte,byte,bit&01,str
 10009,57,33,0,0,False,"3人合力防禦真月奧汀的攻擊！"
 10010,57,33,0,0,False,"阿莉塞的攻擊打破了真月羅波那的防禦！"
 10011,57,33,0,0,False,"消耗靈魂量值，召喚出了化身！"
-10012,57,33,0,0,False,"奪魂者通過凝聚靈魂量值，
+10012,57,33,0,0,False,"奪魂者透過累積靈魂量值，
 可以召喚出化身。"
-10013,57,33,0,0,False,"靈魂量值可以通過以切割為起手的連擊
-或直接使用靈魂切片等技能進行凝聚。"
+10013,57,33,0,0,False,"靈魂量值可以透過以切割為起手的連擊
+或直接使用靈魂切片等技能進行累積。"
 10014,57,33,0,0,False,"掉落了青磷水箱……"
 10015,57,33,0,0,False,"使用了駕駛席上的帝國式強壯劑，得到了傷害提高的效果！"
 10016,57,33,0,0,False,"使用了麻袋裡的帝國式恢復劑，得到了HP持續恢復的效果！"
@@ -10980,10 +10980,10 @@ int32,uint16,uint16,byte,byte,bit&01,str
 10611,57,4097,0,30,False,"歐提斯快要到極限了……！"
 10612,57,33,0,0,False,"永久冰晶化為碎片消失了……"
 10613,57,2049,0,50,False,"超越極限，跨越危機吧！"
-10614,0,0,0,0,False,""
-10615,0,0,0,0,False,""
-10616,0,0,0,0,False,""
-10617,0,0,0,0,False,""
+10614,57,4097,0,30,False,"魔力集中到了黑暗之雲身上……"
+10615,57,4097,0,30,False,"暗雲帶來了恐懼……"
+10616,57,4097,0,30,False,"黑暗外溢，形成了暗之淤影……"
+10617,57,4097,0,30,False,"大量魔力集中到了黑暗之雲身上……"
 10618,57,4097,0,50,False,"水池裡充滿了電！"
 10619,57,4097,0,50,False,"火靈出現了……"
 10620,57,4097,0,50,False,"保護犎牛！"
@@ -11009,7 +11009,7 @@ int32,uint16,uint16,byte,byte,bit&01,str
 10640,57,4097,0,50,False,"場上捲起了強風！"
 10641,57,4097,0,50,False,"反彈發霉仙人掌怪的雙臂！"
 10642,60,9,0,0,False,"未加入大國防聯軍，無法使用。"
-10643,0,0,0,0,False,""
+10643,57,4097,0,30,False,"黑暗之碎雨雲出現了……"
 10644,57,2049,0,50,False,"坦伽塔的火靈的守護消失了！"
 10645,0,0,0,0,False,""
 10646,0,0,0,0,False,""
@@ -11022,7 +11022,7 @@ int32,uint16,uint16,byte,byte,bit&01,str
 10653,57,4097,0,40,False,"Ark Angel TT正在累積著魔力……"
 10654,57,4097,0,40,False,"Ark Angel HM正在累積著力量……"
 10655,57,4097,0,50,False,"Fafnirが力を溜めている……"
-10656,0,0,0,0,False,""
+10656,57,33,0,30,False,"透過消耗暗之淤影，對黑暗之雲造成了<Value>IntegerParameter(1)</Value>點傷害！"
 10657,57,4097,0,50,False,"保護洛蘇卡納！"
 10658,57,4097,0,50,False,"Fafnir抬起了尾巴……"
 10659,57,4097,0,50,False,"Fafnir的口中冒出了火焰……"
@@ -11030,8 +11030,8 @@ int32,uint16,uint16,byte,byte,bit&01,str
 10661,57,4097,0,50,False,"Shadow Lord架起了大劍……"
 10662,57,4097,0,50,False,"Shadow Lord的雙手正在聚集魔力……"
 10663,0,0,0,0,False,""
-10664,0,0,0,0,False,""
-10665,0,0,0,0,False,""
+10664,57,4097,0,30,False,"暗之淤影創造出了暗之植物……"
+10665,57,4097,0,30,False,"暗之淤影正在操縱暗之植物……"
 10666,57,4097,0,30,False,"距離萬億斬擊發動還有 15 秒！"
 10667,57,4097,0,30,False,"距離萬億斬擊發動還有 10 秒！"
 10668,57,4097,0,30,False,"距離萬億斬擊發動還有 5 秒！"
@@ -11267,10 +11267,11 @@ int32,uint16,uint16,byte,byte,bit&01,str
 10898,0,0,0,0,False,""
 10899,0,0,0,0,False,""
 10900,57,33,0,0,False,"解鎖了多瑪方城戰語音「<Sheet(EmjVoiceNpc,IntegerParameter(1),27)/>」。"
-10901,0,0,0,0,False,""
-10902,0,0,0,0,False,""
-10903,0,0,0,0,False,""
-10904,0,0,0,0,False,""
+10901,57,65,0,0,False,"隊伍中有初次執行該任務的隊員，在完成任務時會附加額外的報酬。
+額外報酬將根據初次執行該任務的隊員數量等比增加。"
+10902,57,65,0,0,False,"因隊伍中有初次執行該任務的隊員，獎勵中額外增加了<Value>IntegerParameter(2)</Value>人份的<Sheet(Item,IntegerParameter(1),0)/>。"
+10903,57,65,0,0,False,"因隊伍中有初次執行該任務的隊員，額外進行了<Value>IntegerParameter(2)</Value>人份的概率判定，獎勵中追加了<Value>IntegerParameter(3)</Value>個<Sheet(Item,IntegerParameter(1),0)/>。"
+10904,57,65,0,0,False,"因隊伍中有初次執行該任務的隊員，額外進行了<Value>IntegerParameter(2)</Value>人份的概率判定，但獎勵中未能追加<Sheet(Item,IntegerParameter(1),0)/>。"
 10905,60,9,0,0,False,"僅可在自己土地的庭院內使用內部改建功能。"
 10906,0,0,0,0,False,""
 10907,57,9,0,0,False,"變更了裝修風格。"

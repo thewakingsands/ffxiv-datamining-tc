@@ -601,7 +601,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
 ","美眼因克·佐恩的絕招。
-召喚大量糖果從頭頂落下，用香甜的衝擊為肉體帶去痛苦的傷害。雖然叫糖果手杖，但掉落的糖果中不乏手杖形狀以外的糖果，這些可能都是額外贈送的。",4,649,0,0,True,True,False,False,False,False,False,False,False,False,False,False
+召喚大量糖果從頭頂落下，用香甜的衝擊為肉體帶來痛苦的傷害。雖然叫糖果手杖，但掉落的糖果中不乏手杖形狀以外的糖果，這些可能都是額外贈送的。",4,649,0,0,True,True,False,False,False,False,False,False,False,False,False,False
 121,121,72322,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★
