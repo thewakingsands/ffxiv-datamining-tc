@@ -56,7 +56,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
 ","野生生物的鬥爭本能。
-通過憤怒來增幅魔力，提高自身的戰鬥能力。青魔道士拿來用的話也許能提高魔法攻擊的威力。",1,55,0,0,False,True,False,False,False,False,False,False,False,False,False,False
+透過憤怒來增幅魔力，提高自身的戰鬥能力。青魔道士拿來用的話也許能提高魔法攻擊的威力。",1,55,0,0,False,True,False,False,False,False,False,False,False,False,False,False
 12,41,72212,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★
@@ -66,7 +66,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★
 ","蝙蝠和沙蚤使用的青魔法。
-通過血液吸收敵人的生命乙太，並轉化為自身的魔力。人們推測最初這種魔法是由攝取養分的吸血行為逐漸演變來的。",1,31,68730,68729,True,True,False,False,False,False,False,False,False,False,False,False
+透過血液吸收敵人的生命乙太，並轉化為自身的魔力。人們推測最初這種魔法是由攝取養分的吸血行為逐漸演變來的。",1,31,68730,68729,True,True,False,False,False,False,False,False,False,False,False,False
 14,19,72214,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
@@ -101,12 +101,12 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
 ","向自身前方放出火焰的青魔法。
-與咒術中的火炎原理相似，通過放出火屬性乙太來引起火焰燃燒的現象。也有兵器可以通過噴射可燃液體加以點燃來產生相似效果。",4,20,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+與咒術中的火炎原理相似，透過放出火屬性乙太來引起火焰燃燒的現象。也有兵器可以透過噴射可燃液體加以點燃來產生相似效果。",4,20,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 21,23,72221,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★
 ","盧恩族擅長的青魔法。
-為了從凶猛的肉食野獸口中保護自己而創造出的魔法，將魔力凝聚在手掌上，通過拍手產生的衝擊波來驚嚇敵人。",1,32,68732,68731,True,False,False,False,False,False,False,True,False,False,False,False
+為了從凶猛的肉食野獸口中保護自己而創造出的魔法，將魔力凝聚在手掌上，透過拍手產生的衝擊波來驚嚇敵人。",1,32,68732,68731,True,False,False,False,False,False,False,True,False,False,False,False
 22,10,72222,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>雷
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
@@ -146,7 +146,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
 ","新大陸的巨人種族使用的青魔法。
-這是一種原始的詛咒，通過侵蝕敵人的精神來瓦解對方的防禦。當敵人變得毫無防備後，己方攻擊的效果將大幅提升。",2,0,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+這是一種原始的詛咒，透過侵蝕敵人的精神來瓦解對方的防禦。當敵人變得毫無防備後，己方攻擊的效果將大幅提升。",2,0,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 30,31,72230,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>物理打擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
@@ -171,7 +171,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
 ","新大陸的妖異使用的青魔法。
-是一種強有力的詛咒，對敵人宣言其生命所剩無幾，通過暗示來實行咒殺。只不過由於可以左右生死的效果過於強力，所以成功率也相應的很低。",2,0,0,0,True,False,False,False,False,False,False,False,False,False,False,True
+是一種強有力的詛咒，對敵人宣言其生命所剩無幾，透過暗示來實行咒殺。只不過由於可以左右生死的效果過於強力，所以成功率也相應的很低。",2,0,0,0,True,False,False,False,False,False,False,False,False,False,False,True
 35,30,72235,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
@@ -191,7 +191,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>雷
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
 ","奇美拉使用的青魔法。
-據說是通過合成擅長操控雷電的龍族而使奇美拉獲得的能力。使用時會在周圍引發激烈的放電現象。",4,12,0,0,True,False,False,False,True,False,False,False,False,False,False,False
+據說是透過合成擅長操控雷電的龍族而使奇美拉獲得的能力。使用時會在周圍引發激烈的放電現象。",4,12,0,0,True,False,False,False,True,False,False,False,False,False,False,False
 39,43,72239,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
@@ -221,7 +221,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>風
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★★
 ","迦樓羅的絕招。
-散佈魔法羽毛的同時引發暴風來撕裂敵人。通過對敵人造成無數的裂傷來維持強烈的疼痛感，十分冷酷無情。",4,65,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+散佈魔法羽毛的同時引發暴風來撕裂敵人。透過對敵人造成無數的裂傷來維持強烈的疼痛感，十分冷酷無情。",4,65,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 45,45,72245,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★★
@@ -231,7 +231,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>土
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★★
 ","泰坦的絕招。
-通過放出強力的土屬性乙太來製造出岩石塊，給予敵人劇烈的打擊。如同山崩地裂般的可怕光景導致的衝擊感無法估量。",4,64,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+透過放出強力的土屬性乙太來製造出岩石塊，給予敵人劇烈的打擊。如同山崩地裂般的可怕光景導致的衝擊感無法估量。",4,64,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 47,47,72247,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>雷
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★★
@@ -256,7 +256,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>水
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★
 ","有生命活水的特殊攻擊。
-機械裝置「水合核心」通過操控流體創造了激流。如果能用魔法進行再現，就算再巨大的敵人也都可以沖走了。",4,114,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+機械裝置「水合核心」透過操控流體創造了激流。如果能用魔法進行再現，就算再巨大的敵人也都可以沖走了。",4,114,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 52,52,72253,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>冰
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
@@ -276,7 +276,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
 ","上級惡魔的絕招。
-通過乙太鍊成無數的劍，從各個方位刺向敵人。這也可以通過刺傷敵人的神經系統，使其產生麻痺。",4,31,0,0,True,False,False,False,True,False,False,False,False,False,False,False
+透過乙太鍊成無數的劍，從各個方位刺向敵人。這也可以透過刺傷敵人的神經系統，使其產生麻痺。",4,31,0,0,True,False,False,False,True,False,False,False,False,False,False,False
 56,56,72257,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★
@@ -286,7 +286,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
 ","疫蟲等魔物使用的青魔法。
-通過震動身體的一部分，發出令人不適的音波。據說該震動發出的音波能打消一部分乙太波長，從而解除部分強化魔法。",1,2101,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+透過震動身體的一部分，發出令人不適的音波。據說該震動發出的音波能打消一部分乙太波長，從而解除部分強化魔法。",1,2101,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 58,58,72259,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★
@@ -296,7 +296,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
 ","部分哥布林使用的青魔法。
-科學家集團青藍之手在用科學原理研究分析魔法的過程中創造出的新魔法，通過在身體表面展開如皮膚般輕薄的魔法障壁，可以吸收外界帶來的衝擊。",1,2001,0,0,False,True,False,False,False,False,False,False,False,False,False,False
+科學家集團青藍之手在用科學原理研究分析魔法的過程中創造出的新魔法，透過在身體表面展開如皮膚般輕薄的魔法障壁，可以吸收外界帶來的衝擊。",1,2001,0,0,False,True,False,False,False,False,False,False,False,False,False,False
 60,60,72261,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
@@ -306,7 +306,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★
 ","鷹蜂女王使用的青魔法。
-通過釋放特殊的荷爾蒙，可以命令蜂群守護自己。學會此青魔法後，經常會把隊友看成肉盾。",4,41,0,0,False,True,False,False,False,False,False,False,False,False,False,False
+透過釋放特殊的荷爾蒙，可以命令蜂群守護自己。學會此青魔法後，經常會把隊友看成肉盾。",4,41,0,0,False,True,False,False,False,False,False,False,False,False,False,False
 62,62,72263,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★
@@ -321,17 +321,17 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★
 ","長頸駝使用的青魔法。
-通過自我暗示提升力量，是一種強化魔法。繁殖期的長頸駝會一邊發出口笛的聲音，一邊用該魔法強化自己，以向異性展示自己。",1,2100,69270,69269,False,True,False,False,False,False,False,False,False,False,False,False
+透過自我暗示提升力量，是一種強化魔法。繁殖期的長頸駝會一邊發出口笛的聲音，一邊用該魔法強化自己，以向異性展示自己。",1,2100,69270,69269,False,True,False,False,False,False,False,False,False,False,False,False
 65,65,72266,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
 ","捕獲異端者用人偶騎士的特殊攻擊。
-通過照射特定波長的乙太，可以侵蝕對方的肉體，使其動作變得遲緩。如果對方精神也被侵蝕，那麼威力會更加強大。",4,34,0,0,True,False,True,False,False,False,False,False,False,False,False,False
+透過照射特定波長的乙太，可以侵蝕對方的肉體，使其動作變得遲緩。如果對方精神也被侵蝕，那麼威力會更加強大。",4,34,0,0,True,False,True,False,False,False,False,False,False,False,False,False
 66,66,72267,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
 ","拷問異端者用人偶騎士的特殊攻擊。
-通過照射特定波長的乙太，可以侵蝕對方的精神，從而奪取對方行動的自由。如果對方肉體也被侵蝕，那麼威力會更加強大。",4,34,0,0,True,False,False,False,False,False,False,False,False,True,False,False
+透過照射特定波長的乙太，可以侵蝕對方的精神，從而奪取對方行動的自由。如果對方肉體也被侵蝕，那麼威力會更加強大。",4,34,0,0,True,False,False,False,False,False,False,False,False,True,False,False
 67,67,72268,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
@@ -366,7 +366,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
 ","瓦魔蛾使用的青魔法。
-通過活化自身的治癒能力，可以排除體內的代謝物和毒素。使用此魔法後，會有一種類似蛻皮的感覺。",1,2100,69271,69270,False,True,False,False,False,False,False,False,False,False,False,False
+透過活化自身的治癒能力，可以排除體內的代謝物和毒素。使用此魔法後，會有一種類似蛻皮的感覺。",1,2100,69271,69270,False,True,False,False,False,False,False,False,False,False,False,False
 74,74,72275,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>雷
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★
@@ -461,7 +461,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★
 ","模仿恐甲螞蜓特技的青魔法。
-將身體的一部分視為翅膀，通過細微的震動產生超音波。如果震動傳到了被凍結或被石化的敵人那裡，則會將敵人震成細小的碎片。",1,2407,69528,69527,True,False,False,False,False,False,False,False,False,False,False,True
+將身體的一部分視為翅膀，透過細微的震動產生超音波。如果震動傳到了被凍結或被石化的敵人那裡，則會將敵人震成細小的碎片。",1,2407,69528,69527,True,False,False,False,False,False,False,False,False,False,False,True
 93,93,72294,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>冰
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
@@ -471,7 +471,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
 ","模仿歐米茄使用的化學兵器的青魔法。
-用魔法合成有害成分，再通過爆炸將其散播出去。本來是無味的毒素，但因混入了不純物，有了類似芥末的味道，從而得名。",4,589,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+用魔法合成有害成分，再透過爆炸將其散播出去。本來是無味的毒素，但因混入了不純物，有了類似芥末的味道，從而得名。",4,589,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 95,95,72296,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★
@@ -511,7 +511,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★★
 ","齊天大聖的絕招。
-神通力創造出的可伸縮自如的武器——如意棒，現在用魔法將其再現。通過高速揮動如意棒，可以帶動四周的空氣，產生旋風。",4,536,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+神通力創造出的可伸縮自如的武器——如意棒，現在用魔法將其再現。透過高速揮動如意棒，可以帶動四周的空氣，產生旋風。",4,536,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 103,103,72304,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>物理打擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★★
@@ -526,12 +526,12 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★
 ","大哥布林的絕招。
-連續毆打敵人的野蠻招式。變為青魔法後可以通過在拳頭上附加魔力來提升傷害，這個時候如果下定決心正面迎敵將會發揮出更加強大的力量。",1,2954,70310,70309,True,False,False,False,False,False,False,False,False,False,False,False
+連續毆打敵人的野蠻招式。變為青魔法後可以透過在拳頭上附加魔力來提升傷害，這個時候如果下定決心正面迎敵將會發揮出更加強大的力量。",1,2954,70310,70309,True,False,False,False,False,False,False,False,False,False,False,False
 106,106,72307,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>物理打擊
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★
 ","大犰狳的特殊攻擊。
-通過魔法再現大犰狳用三叉狀的尾巴抓住岩石進行揮舞的攻擊招式。高速旋轉的魔力岩塊將會吹飛所有靠近的生物。",4,656,0,0,True,True,False,False,False,False,False,False,False,False,False,False
+透過魔法再現大犰狳用三叉狀的尾巴抓住岩石進行揮舞的攻擊招式。高速旋轉的魔力岩塊將會吹飛所有靠近的生物。",4,656,0,0,True,True,False,False,False,False,False,False,False,False,False,False
 107,107,72308,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★
@@ -566,7 +566,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
 ","仿照紅寶石武器的技術的青魔法。
-原本是通過神兵武器內藏的電圈將能量以爪狀展開後進行橫掃的攻擊，現在利用乙太將其以青魔法的形式進行再現。",4,717,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+原本是透過神兵武器內藏的電圈將能量以爪狀展開後進行橫掃的攻擊，現在利用乙太將其以青魔法的形式進行再現。",4,717,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 114,114,72315,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★
@@ -581,12 +581,12 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★
 ","得到寬恕的猥褻的絕招。
-將光屬性乙太以帶狀延伸進行的攻擊。充其量不過是通過魔法進行再現的產物，該攻擊不具備讓物件產生食罪靈化的效果。",4,659,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+將光屬性乙太以帶狀延伸進行的攻擊。充其量不過是透過魔法進行再現的產物，該攻擊不具備讓物件產生食罪靈化的效果。",4,659,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 117,117,72318,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★
 ","賽菲羅特的絕招。
-原本是包圍在敵人身上，為敵人帶來負面影響的力場，現在通過反向思維將其轉為防護用的技能。不過該立場並不穩定，只能隨機發揮出物理現象或是魔法現象中的一種。",2,0,0,0,False,True,False,False,False,False,False,False,False,False,False,False
+原本是包圍在敵人身上，為敵人帶來負面影響的力場，現在透過逆向思考將其轉為防護用的技能。不過該立場並不穩定，只能隨機發揮出物理現象或是魔法現象中的一種。",2,0,0,0,False,True,False,False,False,False,False,False,False,False,False,False
 118,118,72319,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>物理突刺
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★
@@ -606,7 +606,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★
 ","盧格斯的必殺技。
-釋放在對方燃盡之前絕對不會熄滅的火炎。在通過青魔法進行再現的時候，有人指出該技能可能存在稍有失誤便會毀滅一個城市的危險，為此青魔道士行會對該技能進行了調整。現在該技能的威力得到了控制，可以用小火將敵人慢慢烤至兩面焦黃。",4,692,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+釋放在對方燃盡之前絕對不會熄滅的火炎。在透過青魔法進行再現的時候，有人指出該技能可能存在稍有失誤便會毀滅一個城市的危險，為此青魔道士行會對該技能進行了調整。現在該技能的威力得到了控制，可以用小火將敵人慢慢烤至兩面焦黃。",4,692,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 122,122,72323,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>水
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★★
@@ -616,7 +616,7 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★★
 ","至大災獸的特殊攻擊。
-如同名字含義中的「天啟」一樣，該技能並非通過語言或是文字，而是通過想像的力量造成破壞。如果一直保持著終結一切這種自暴自棄的想法，該技能似乎能夠半永久地持續下去。",4,652,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+如同名字含義中的「天啟」一樣，該技能並非透過語言或是文字，而是透過想像的力量造成破壞。如果一直保持著終結一切這種自暴自棄的想法，該技能似乎能夠半永久地持續下去。",4,652,0,0,True,False,False,False,False,False,False,False,False,False,False,False
 124,124,72325,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊類型：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔法
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>攻擊屬性：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>無
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>評級：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>★★★★★

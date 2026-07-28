@@ -26,7 +26,7 @@ int32,str
 看來戒指中還包含了深厚的信任咕波！"
 1014,"<Unknown0A>E802</Unknown0A><If(Equal(IntegerParameter(3),0))>先生<Else/>女士</If>為了尋找一枚合適的戒指，走遍了艾奧傑亞各個地區，
 終於買到了最為特別的一款咕波！"
-1015,"<Unknown0A>E802</Unknown0A><If(Equal(IntegerParameter(3),0))>先生<Else/>女士</If>通過某種特別的方法得到了這枚精美的戒指，
+1015,"<Unknown0A>E802</Unknown0A><If(Equal(IntegerParameter(3),0))>先生<Else/>女士</If>使用某種特別的方法得到了這枚精美的戒指，
 好像很神秘啊咕波！"
 1016,"<Unknown0A>E803</Unknown0A><If(Equal(IntegerParameter(4),0))>先生<Else/>女士</If>的戒指也是一枚親手打造出來的逸品咕波！"
 1017,"<Unknown0A>E803</Unknown0A><If(Equal(IntegerParameter(4),0))>先生<Else/>女士</If>的戒指也是一枚由好友幫忙打造的逸品咕波！"
@@ -100,7 +100,7 @@ int32,str
 試問世間有何物能代表二人永世不變的忠誠？"
 1059,"試問世間又有何物能夠承載十二神的祝福，
 並將祝福從手指傳遞至內心？"
-1060,"<Unknown0A>E802</Unknown0A><If(Equal(IntegerParameter(3),0))>先生<Else/>女士</If>通過自己靈巧無比的雙手，
+1060,"<Unknown0A>E802</Unknown0A><If(Equal(IntegerParameter(3),0))>先生<Else/>女士</If>使用自己靈巧無比的雙手，
 製作了一枚完美無瑕的答案。"
 1061,"<Unknown0A>E802</Unknown0A><If(Equal(IntegerParameter(3),0))>先生<Else/>女士</If>依靠自己親密無間的摯友，
 獲得了一枚完美無瑕的答案。"

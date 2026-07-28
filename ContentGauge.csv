@@ -85,6 +85,8 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 81,0,"天災徵兆",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 82,0,"伊可·索可·休瑪玖恩的魔力",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 83,0,"",0,False,"",0,0,0,0,0,0,0
-84,0,"",0,False,"",0,0,0,0,0,0,0
-85,0,"",0,False,"",0,0,0,0,0,0,0
-86,0,"",0,False,"",0,0,0,0,0,0,0
+84,0,"呼嘯之劍的劍氣",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+85,0,"節奏感",1,True,"",-1,1,0,-1,1,0,0
+86,0,"澤蓮尼亞的乙太",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+87,0,"",0,False,"",0,0,0,0,0,0,0
+88,0,"",0,False,"",0,0,0,0,0,0,0

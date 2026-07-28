@@ -42,3 +42,6 @@ int32,byte,bit&01
 38,2,False
 39,2,False
 40,2,False
+41,0,False
+42,0,False
+43,0,False

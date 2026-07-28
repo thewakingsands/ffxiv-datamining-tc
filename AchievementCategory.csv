@@ -83,4 +83,4 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 79,"尤卡圖拉爾",11,True,False,14
 80,"薩卡圖拉爾",11,True,False,15
 81,"",0,False,False,0
-82,"",0,False,False,0
+82,"宇宙工具",4,True,False,53

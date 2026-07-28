@@ -466,28 +466,28 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 只輸入「/通訊貝頻道(/訊)」可將默認聊天頻道變更為常用通訊貝頻道。","/通訊貝頻道","/訊",1021,0
 107,1,0,0,0,0,"/linkshell1","/l1","/通訊貝頻道1(/訊1) 發言內容
 /linkshell1、/l1
-向１號通訊貝內的玩家發送聊天信息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道1","/訊1",1021,0
+向１號通訊貝內的玩家發送聊天訊息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道1","/訊1",1021,0
 108,1,0,0,0,0,"/linkshell2","/l2","/通訊貝頻道2(/訊2) 發言內容
 /linkshell2、/l2
-向２號通訊貝內的玩家發送聊天信息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道2","/訊2",1021,0
+向２號通訊貝內的玩家發送聊天訊息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道2","/訊2",1021,0
 109,1,0,0,0,0,"/linkshell3","/l3","/通訊貝頻道3(/訊3) 發言內容
 /linkshell3、/l3
-向３號通訊貝內的玩家發送聊天信息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道3","/訊3",1021,0
+向３號通訊貝內的玩家發送聊天訊息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道3","/訊3",1021,0
 110,1,0,0,0,0,"/linkshell4","/l4","/通訊貝頻道4(/訊4) 發言內容
 /linkshell4、/l4
-向４號通訊貝內的玩家發送聊天信息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道4","/訊4",1021,0
+向４號通訊貝內的玩家發送聊天訊息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道4","/訊4",1021,0
 111,1,0,0,0,0,"/linkshell5","/l5","/通訊貝頻道5(/訊5) 發言內容
 /linkshell5、/l5
-向５號通訊貝內的玩家發送聊天信息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道5","/訊5",1021,0
+向５號通訊貝內的玩家發送聊天訊息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道5","/訊5",1021,0
 112,1,0,0,0,0,"/linkshell6","/l6","/通訊貝頻道6(/訊6) 發言內容
 /linkshell6、/l6
-向６號通訊貝內的玩家發送聊天信息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道6","/訊6",1021,0
+向６號通訊貝內的玩家發送聊天訊息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道6","/訊6",1021,0
 113,1,0,0,0,0,"/linkshell7","/l7","/通訊貝頻道7(/訊7) 發言內容
 /linkshell7、/l7
-向７號通訊貝內的玩家發送聊天信息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道7","/訊7",1021,0
+向７號通訊貝內的玩家發送聊天訊息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道7","/訊7",1021,0
 114,1,0,0,0,0,"/linkshell8","/l8","/通訊貝頻道8(/訊8) 發言內容
 /linkshell8、/l8
-向８號通訊貝內的玩家發送聊天信息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道8","/訊8",1021,0
+向８號通訊貝內的玩家發送聊天訊息，無論離多遠、無論在哪個地區都可以看到。","/通訊貝頻道8","/訊8",1021,0
 115,1,0,0,0,0,"/freecompany","/fc","/公會頻道(/公) 發言內容
 /freecompany、/fc
 向同一公會內的全體成員發送聊天消息，無論離多遠、無論在哪個地區都可以看到。
@@ -843,7 +843,7 @@ F.A.T.E.範圍內
 設定戰鬥開始倒數時間。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>秒數(5-30)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　實行指定時間的戰鬥開始倒數。以文本指令實行此操作時將不會保存指定秒數，同時也不會在消息視窗中顯示每5秒一次的通知信息。
+　實行指定時間的戰鬥開始倒數。以文本指令實行此操作時將不會保存指定秒數，同時也不會在消息視窗中顯示每5秒一次的通知訊息。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　打開戰鬥開始倒數視窗。
 >>範例
@@ -1625,6 +1625,7 @@ F.A.T.E.範圍內
 十字快速鍵(Crosshotbar)
 主線向導(ScenarioGuide)
 高壓乙太(CompressedAether)
+宇宙探索：行星情報(CosmoExplorer:Info)
 水晶衝突：進度情報(CConflict:Progress)
 水晶衝突：我方情報(CConflict:Ally)
 水晶衝突：敵方情報(CConflict:Enemy)
@@ -1632,6 +1633,7 @@ F.A.T.E.範圍內
 水晶衝突：導向地圖(CConflict:Map)
 紛爭前線：戰意槽(Frontline:BattleGauge)
 紛爭前線：情報值(Frontline:Score)
+紛爭前線：戰況情報(Frontline:CampaignInfo)
 烈羽爭鋒：防禦塔與核心情報(RivalWings:Gauge)
 烈羽爭鋒：車站情報(RivalWings:Station)
 烈羽爭鋒：團隊列表(RivalWings:Alliance)
@@ -3566,14 +3568,14 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/啦哩吼舞","",293,0
-621,2,1,2,0,0,"/eatriceball","/riceball","/吃飯團 指令
+621,2,1,2,0,0,"/eatriceball","/riceball","/吃飯糰 指令
 /eatriceball、/riceball
-開始吃飯團。
+開始吃飯糰。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-做出動作並顯示文字提示。","/吃飯團","",293,0
+做出動作並顯示文字提示。","/吃飯糰","",293,0
 622,2,1,2,0,0,"/eatapple","/apple","/吃蘋果 指令
 /eatapple、/apple
 開始吃蘋果。
@@ -3982,14 +3984,14 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/煎蛋","",293,0
-679,2,1,2,0,0,"/uchiwasshoi","/bigfan","/扇大團扇 指令
+679,2,1,2,0,0,"/uchiwasshoi","/bigfan","/搧大團扇 指令
 /uchiwasshoi、/bigfan
-用大團扇扇風。
+用大團扇搧風。
 >>指令
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-　做出動作並顯示文字提示。","/扇大團扇","",293,0
+　做出動作並顯示文字提示。","/搧大團扇","",293,0
 680,2,1,2,0,0,"/attend","","/待命 指令
 /attend
 等待命令指示。
@@ -4046,6 +4048,14 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/噢霍卡利","",293,0
+687,2,1,2,0,0,"/visage","","/用觸控板記錄 指令
+/visage
+用觸控板記錄自己的模樣。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/用觸控板記錄","",293,0
 689,2,1,2,0,0,"/photograph","","/拍照 指令
 /photograph
 拍一張照片。
@@ -4054,3 +4064,43 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/拍照","",293,0
+692,2,1,2,0,0,"/overreact","","/大驚小怪 指令
+/overreact
+做出誇張的受驚動作。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/大驚小怪","",293,0
+694,2,1,2,0,0,"/dazed","","/暈頭轉向 指令
+/dazed
+搖搖晃晃站不穩。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/暈頭轉向","",293,0
+695,2,1,2,0,0,"/rage","","/氣得發抖 指令
+/rage
+氣得渾身發抖。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/氣得發抖","",293,0
+696,2,1,2,0,0,"/tomescroll","","/玩神典石 指令
+/tomescroll
+專心的玩神典石。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/玩神典石","",293,0
+697,2,1,2,0,0,"/study","","/認真看書 指令
+/study
+拿出書認真閱讀。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/認真看書","",293,0
