@@ -1,11 +1,11 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSC507_00995_SEQ_00","聖寇伊納克調查地的旺達凌·布里茲，有件事想要委託給冒險者。"
-1,"TEXT_GAIUSC507_00995_SEQ_01","旺達凌·布里茲想要對基迦巨人族的生活狀態及習性進行研究。討伐<Sheet(BNpcName,647,0)/>、<Sheet(BNpcName,646,0)/>或<Sheet(BNpcName,648,0)/>共4隻，獲得<Sheet(EventItem,2000762,0)/>。"
-2,"TEXT_GAIUSC507_00995_SEQ_02","獲得了<Sheet(EventItem,2000762,0)/>。將其交給聖寇伊納克調查地的旺達凌·布里茲。"
+0,"TEXT_GAIUSC507_00995_SEQ_00","聖寇伊納克調查地的旺達凌・布里茲，有件事想要委託給冒險者。"
+1,"TEXT_GAIUSC507_00995_SEQ_01","旺達凌・布里茲想要對基迦巨人族的生活狀態及習性進行研究。討伐<Sheet(BNpcName,647,0)/>、<Sheet(BNpcName,646,0)/>或<Sheet(BNpcName,648,0)/>共4隻，獲得<Sheet(EventItem,2000762,0)/>。"
+2,"TEXT_GAIUSC507_00995_SEQ_02","獲得了<Sheet(EventItem,2000762,0)/>。將其交給聖寇伊納克調查地的旺達凌・布里茲。"
 3,"TEXT_GAIUSC507_00995_SEQ_03","基迦巨人族將水晶塔視為聖地，因此才遷移至此。將<Sheet(EventItem,2000947,0)/>放置在<Sheet(EObj,2002212,0)/>處，觀察基迦巨人族的反應。"
-4,"TEXT_GAIUSC507_00995_SEQ_04","打倒現身的<Sheet(BNpcName,2006,0)/>，獲得<Sheet(EventItem,2000853,0)/>。將其交給聖寇伊納克調查地的旺達凌·布里茲。"
+4,"TEXT_GAIUSC507_00995_SEQ_04","打倒現身的<Sheet(BNpcName,2006,0)/>，獲得<Sheet(EventItem,2000853,0)/>。將其交給聖寇伊納克調查地的旺達凌・布里茲。"
 5,"TEXT_GAIUSC507_00995_SEQ_05","發現了<Sheet(BNpcName,647,0)/>閱覽過資料的痕跡。看來就連身為魔物的基迦巨人族，也想解開水晶塔之謎……"
 6,"TEXT_GAIUSC507_00995_SEQ_06","無"
 7,"TEXT_GAIUSC507_00995_SEQ_07","無"
@@ -26,9 +26,9 @@ int32,str,str
 22,"TEXT_GAIUSC507_00995_SEQ_22","無"
 23,"TEXT_GAIUSC507_00995_SEQ_23","無"
 24,"TEXT_GAIUSC507_00995_TODO_00","從基迦巨人族身上獲取<Sheet(EventItem,2000762,0)/>"
-25,"TEXT_GAIUSC507_00995_TODO_01","將<Sheet(EventItem,2000762,0)/>交給旺達凌·布里茲"
+25,"TEXT_GAIUSC507_00995_TODO_01","將<Sheet(EventItem,2000762,0)/>交給旺達凌・布里茲"
 26,"TEXT_GAIUSC507_00995_TODO_02","將<Sheet(EventItem,2000947,0)/>設置在<Sheet(EObj,2002212,0)/>處"
-27,"TEXT_GAIUSC507_00995_TODO_03","將<Sheet(EventItem,2000853,0)/>交給旺達凌·布里茲"
+27,"TEXT_GAIUSC507_00995_TODO_03","將<Sheet(EventItem,2000853,0)/>交給旺達凌・布里茲"
 28,"TEXT_GAIUSC507_00995_TODO_04","無"
 29,"TEXT_GAIUSC507_00995_TODO_05","無"
 30,"TEXT_GAIUSC507_00995_TODO_06","無"

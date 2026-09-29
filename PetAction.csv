@@ -58,7 +58,7 @@ int32,str,str,Image,Action,Pet,bit&01,bit&02,bit&04
 27,"深紅旋風","對目標發動火屬性魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>110
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>眩暈　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2秒
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>「協助戰鬥」狀態下在接到命令之前不會發動該技能<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,797,3,True,False,False
-28,"燃火強襲","對目標發動火屬性魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>135",786,798,3,True,False,False
+28,"燃燒強擊","對目標發動火屬性魔法攻擊　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>135",786,798,3,True,False,False
 29,"輝煌盾","為自身與周圍隊員附加防護罩
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>防護罩效果（被攻擊時100%發動）：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>攻擊者所受物理傷害提高2%　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>4秒

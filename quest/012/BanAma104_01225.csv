@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANAMA104_01225_SEQ_00","灰陣營的菲布布·夏遇到了無法容忍的事。"
-1,"TEXT_BANAMA104_01225_SEQ_01","接受了菲布布·夏的委託。前往贊拉克，首先討伐3隻<Sheet(BNpcName,2511,0)/>，再討伐現身的頭目<Sheet(BNpcName,2360,0)/>。"
-2,"TEXT_BANAMA104_01225_SEQ_02","討伐了<Sheet(BNpcName,2511,0)/>及其頭目<Sheet(BNpcName,2360,0)/>。向灰陣營的菲布布·夏報告。"
-3,"TEXT_BANAMA104_01225_SEQ_03","向菲布布·夏報告完畢。討伐了<Sheet(BNpcName,2360,0)/>之後，<Sheet(BNpcName,2511,0)/>們應該會安分一段時間。"
+0,"TEXT_BANAMA104_01225_SEQ_00","灰陣營的菲布布・夏遇到了無法容忍的事。"
+1,"TEXT_BANAMA104_01225_SEQ_01","接受了菲布布・夏的委託。前往贊拉克，首先討伐3隻<Sheet(BNpcName,2511,0)/>，再討伐現身的頭目<Sheet(BNpcName,2360,0)/>。"
+2,"TEXT_BANAMA104_01225_SEQ_02","討伐了<Sheet(BNpcName,2511,0)/>及其頭目<Sheet(BNpcName,2360,0)/>。向灰陣營的菲布布・夏報告。"
+3,"TEXT_BANAMA104_01225_SEQ_03","向菲布布・夏報告完畢。討伐了<Sheet(BNpcName,2360,0)/>之後，<Sheet(BNpcName,2511,0)/>們應該會安分一段時間。"
 4,"TEXT_BANAMA104_01225_SEQ_04","無"
 5,"TEXT_BANAMA104_01225_SEQ_05","無"
 6,"TEXT_BANAMA104_01225_SEQ_06","無"
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_BANAMA104_01225_SEQ_22","無"
 23,"TEXT_BANAMA104_01225_SEQ_23","無"
 24,"TEXT_BANAMA104_01225_TODO_00","討伐3隻<Sheet(BNpcName,2511,0)/> 再討伐現身的<Sheet(BNpcName,2360,0)/>"
-25,"TEXT_BANAMA104_01225_TODO_01","向菲布布·夏報告"
+25,"TEXT_BANAMA104_01225_TODO_01","向菲布布・夏報告"
 26,"TEXT_BANAMA104_01225_TODO_02","無"
 27,"TEXT_BANAMA104_01225_TODO_03","無"
 28,"TEXT_BANAMA104_01225_TODO_04","無"

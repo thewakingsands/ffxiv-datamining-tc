@@ -6,10 +6,10 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 2,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡是行會理符受領處。
 一定可以為您找到一份合適的工作。","這裡是行會理符受領處。
 冒險者行會的成員們都會到這裡來領取行會理符任務。
-<Unknown17/>如果您能在冒險者行會中得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉小姐</Case><Case(2)>貢特朗先生</Case><Case(3)>尤斯塔斯先生</Case></Switch>的許可，
+<Unknown17/>如果您能在冒險者行會中得到<Switch(IntegerParameter(1))><Case(1)>茶・莫克莉小姐</Case><Case(2)>貢特朗先生</Case><Case(3)>尤斯塔斯先生</Case></Switch>的許可，
 我就可以給您介紹任務了。","那麼這個任務就拜託您了。","這裡是行會理符受領處。
 冒險者行會的成員們都會到這裡來領取行會理符任務。
-<Unknown17/>如果您能在冒險者行會中得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉小姐</Case><Case(2)>貢特朗先生</Case><Case(3)>尤斯塔斯先生</Case></Switch>的許可，
+<Unknown17/>如果您能在冒險者行會中得到<Switch(IntegerParameter(1))><Case(1)>茶・莫克莉小姐</Case><Case(2)>貢特朗先生</Case><Case(3)>尤斯塔斯先生</Case></Switch>的許可，
 我就可以給您介紹任務了。","您平安完成任務了嗎？
 看來把這個任務拜託給您是正確的選擇。
 這是準備好的報酬，請收下吧。","0","0","您竟然討伐了懸賞魔物？
@@ -52,7 +52,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 真是太了不起了。
 當然，你獲得的報酬也會有所追加。"
 6,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者們發行行會理符，
-任務內容基本是利姆薩·羅敏薩市民及周圍居民的一些委託。","你要是想找工作的話那就來對了。
+任務內容基本是利姆薩・羅敏薩市民及周圍居民的一些委託。","你要是想找工作的話那就來對了。
 這裡會為有實力的冒險者發行行會理符。
 <Unknown17/>不過得有冒險者行會的負責人<Switch(IntegerParameter(1))><Case(1)>巴德龍</Case><Case(2)>繆恩</Case><Case(3)>莫莫蒂</Case></Switch>老闆的介紹才行，
 這樣就可以為你提供各種各樣的工作了。","很好，祝你好運！","你要是想找工作的話那就來對了。
@@ -78,7 +78,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 都是來自周圍居民的委託，過來看看吧。
 ","喲，這位同志！
 這裡會為有實力的冒險者發行行會理符任務。
-<Unknown17/>不過你的實力得得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉大姐</Case><Case(2)>貢特朗大哥</Case><Case(3)>尤斯塔斯大哥</Case></Switch>的認可才行，
+<Unknown17/>不過你的實力得得到<Switch(IntegerParameter(1))><Case(1)>茶・莫克莉大姐</Case><Case(2)>貢特朗大哥</Case><Case(3)>尤斯塔斯大哥</Case></Switch>的認可才行，
 不然可無法交給你任務啊。","那就拜託給你了！","喲，這位同志！
 這裡會為有實力的冒險者發行行會理符任務。
 <Unknown17/>不過你得有能力輕鬆打倒這附近的魔物才行，
@@ -100,7 +100,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 10,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"這裡為冒險者發行一些行會理符，
 都是附近居民發來的一些委託。","這裡會為想要賺點外快的冒險者提供適合的行會理符任務。
 當然只發行給有一定實力的傢伙。
-<Unknown17/>首先你得得到<Switch(IntegerParameter(1))><Case(1)>茶·莫克莉大姐</Case><Case(2)>貢特朗大哥</Case><Case(3)>尤斯塔斯大哥</Case></Switch>的信任才行，
+<Unknown17/>首先你得得到<Switch(IntegerParameter(1))><Case(1)>茶・莫克莉大姐</Case><Case(2)>貢特朗大哥</Case><Case(3)>尤斯塔斯大哥</Case></Switch>的信任才行，
 不然可沒辦法把工作交給你。","喲，去吧！
 帶點像樣的說法回來！","這裡會為想要賺點外快的冒險者提供適合的行會理符任務。
 當然只發行給有一定實力的傢伙。
@@ -254,7 +254,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 辛苦了……委託人一定也會很感激你的。
 來，這是你的報酬，收下吧。","0","0","原來如此，你在執行任務時還討伐了懸賞魔物啊。
 好，那報酬也要多給你一些才行。"
-23,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我叫克·蕾塔伊，被冒險者行會派遣到這裡發行行會理符。","哦，你是在找事做嗎？
+23,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我叫克・蕾塔伊，被冒險者行會派遣到這裡發行行會理符。","哦，你是在找事做嗎？
 那你可找對人了。
 我可是行會理符的發行人。
 不過，目前還不能交給你理符任務。
@@ -275,7 +275,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 但必須要向黑渦司令部申請派兵！","確認任務已完成！
 按照規定，繳納<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>相應軍票！","本人是軍隊理符任務發行人。
 請你在加入任意大國防聯軍之後再來。","0","0"
-25,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"本人是黑渦團甲曹長卡·拉芙敏。
+25,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"本人是黑渦團甲曹長卡・拉芙敏。
 負責發行軍隊理符。","如果有執行過行會理符經驗的人，
 我倒可以把手中的任務派給他……
 但必須要向黑渦司令部申請派兵！","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，祝你旗開得勝！","如果有執行過行會理符經驗的人，
@@ -307,7 +307,7 @@ int32,bit&01,bit&01,bit&01,bit&01,bit&01,byte,byte,byte,byte,byte,uint32,uint32,
 不過需要和不滅隊作戰總部取得交涉才行。","確認任務已完成！
 按照規定，付你相應軍票！","我在此發行不滅隊的軍隊理符！
 請你在加入任意大國防聯軍之後再來領取任務！","0","0"
-29,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我是不滅隊的布露·海靈鬥曹長！
+29,False,False,False,False,False,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,"我是不滅隊的布露・海靈鬥曹長！
 在此發行軍隊理符任務！","有執行過行會理符任務的經驗是很好……
 不過需要和不滅隊作戰總部取得交涉才行。","<Highlight>ObjectParameter(1)</Highlight><If(GreaterThan(PlayerParameter(52),0))><If(LessThan(PlayerParameter(52),127))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(LessThan(PlayerParameter(53),127))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(LessThan(PlayerParameter(54),127))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If><Else/></If>，願水晶給予你指引！","有執行過行會理符任務的經驗是很好……
 不過需要和不滅隊作戰總部取得交涉才行。","確認任務已完成！

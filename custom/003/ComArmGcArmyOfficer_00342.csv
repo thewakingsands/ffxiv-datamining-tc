@@ -25,10 +25,10 @@ int32,str,str
 16,"TEXT_COMARMGCARMYOFFICER_00342_OBTAIN_TITLE","確定要領取報酬嗎？
 下列內容數量已達到上限，無法獲得全額報酬。
 <If(GreaterThan(IntegerParameter(1),0))>
-　·軍票<Else/></If><If(GreaterThan(IntegerParameter(2),0))>
-　·金碟幣<Else/></If><If(GreaterThan(IntegerParameter(3),0))>
-　·<Sheet(Item,IntegerParameter(5),0)/><Else/></If><If(GreaterThan(IntegerParameter(4),0))>
-　·<Sheet(Item,IntegerParameter(6),0)/><Else/></If>"
+　・軍票<Else/></If><If(GreaterThan(IntegerParameter(2),0))>
+　・金碟幣<Else/></If><If(GreaterThan(IntegerParameter(3),0))>
+　・<Sheet(Item,IntegerParameter(5),0)/><Else/></If><If(GreaterThan(IntegerParameter(4),0))>
+　・<Sheet(Item,IntegerParameter(6),0)/><Else/></If>"
 17,"TEXT_COMARMGCARMYOFFICER_00342_ABORT_YESNO","<Sheet(GcArmyExpedition,IntegerParameter(1),8)/>
 完成時間：<If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>小時<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分後<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>分後<Else/>不到1分鐘</If></If> [<Time(IntegerParameter(4))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]
 要中止分隊任務嗎？"
@@ -639,7 +639,7 @@ int32,str,str
 請進！"
 324,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_412","(-？？？？-)打擾了。
 這裡就是<Highlight>ObjectParameter(1)</Highlight>分隊的軍營吧？"
-325,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_413","啊，愛因扎爾·斯拉菲爾辛大甲將！
+325,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_413","啊，愛因扎爾・斯拉菲爾辛大甲將！
 您怎麼來了？！"
 326,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_414","有些話我想當面跟<Highlight>ObjectParameter(1)</Highlight>說，
 正好聽說你們任務歸來，我就直接過來了。"
@@ -664,7 +664,7 @@ int32,str,str
 請進！"
 335,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_412","(-？？？？-)打擾了。
 這裡就是<Highlight>ObjectParameter(1)</Highlight>中鬥士麾下分隊的軍營吧？"
-336,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_413","啊，斯蒂爾·里弗大鬥將！
+336,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_413","啊，斯蒂爾・里弗大鬥將！
 您怎麼來了？！"
 337,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_414","有些話我想當面跟我們不滅隊引以為傲的英雄說，
 正好聽說你們任務歸來，我就直接過來了。"

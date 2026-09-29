@@ -306,7 +306,7 @@ int32,str
 使用時會按下列順序發動能力。
 如果連擊過程中未滿足能力的發動條件，則回到第一個技能重新發動連擊。
 
-1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>袖內抽卡·命運<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+1：<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>袖內抽卡・命運<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 在命運的指引下，抽取一張奧秘卡
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>恢復自身最大MP的20%
 

@@ -2,7 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB313_00854_SEQ_00","太陽海岸的維斯凱特，想要冒險者來協助自己。"
-1,"TEXT_GAIUSB313_00854_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整。建議放棄本任務，前往太陽海岸找雅·修朵拉重新領取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+1,"TEXT_GAIUSB313_00854_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整。建議放棄本任務，前往太陽海岸找雅・修朵拉重新領取。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 ※接下來的主線任務可以在主線導覽中進行確認。在設定選單的系統中可以找到角色設定，打開角色設定後，在介面設定的介面選項中可以顯示或隱藏主線導覽。"
 2,"TEXT_GAIUSB313_00854_SEQ_02","從迪爾斯特維茲處得到了準備的指示。首先，將<Sheet(EventItem,2000663,0)/>擺放在<Sheet(EObj,2002072,0)/>裡。"
@@ -28,15 +28,15 @@ int32,str,str
 22,"TEXT_GAIUSB313_00854_SEQ_22","無"
 23,"TEXT_GAIUSB313_00854_SEQ_23","無"
 24,"TEXT_GAIUSB313_00854_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往太陽海岸找雅·修朵拉重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往太陽海岸找雅・修朵拉重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 25,"TEXT_GAIUSB313_00854_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往太陽海岸找雅·修朵拉重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往太陽海岸找雅・修朵拉重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSB313_00854_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往太陽海岸找雅·修朵拉重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往太陽海岸找雅・修朵拉重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSB313_00854_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往太陽海岸找雅·修朵拉重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往太陽海岸找雅・修朵拉重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 28,"TEXT_GAIUSB313_00854_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>本任務已經過調整 建議放棄本任務
-前往太陽海岸找雅·修朵拉重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+前往太陽海岸找雅・修朵拉重新領取<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29,"TEXT_GAIUSB313_00854_TODO_05","無"
 30,"TEXT_GAIUSB313_00854_TODO_06","無"
 31,"TEXT_GAIUSB313_00854_TODO_07","無"

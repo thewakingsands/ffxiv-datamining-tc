@@ -72,14 +72,14 @@ int32,str
 60,"能夠發現最高35級的魚洞"
 61,"能夠發現最高50級的魚洞"
 62,"可以把以小釣大釣到的魚當魚餌，繼續拋竿釣魚"
-63,"發動乙太超流時，自身會附加一檔<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>乙太超流<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態"
+63,"發動乙太超流時，自身會附加一階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>乙太超流<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態"
 64,"智力值增加8點"
 65,"智力值增加16點"
 66,"自身與召喚獸除自動攻擊外的技能造成的傷害提高至基本值的1.1倍，恢復技能的恢復量也提高至基本值的1.1倍"
-67,"發動乙太超流時，自身會附加二檔<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>乙太超流<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態"
+67,"發動乙太超流時，自身會附加二階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>乙太超流<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態"
 68,"智力值增加24點"
 69,"自身與召喚獸除自動攻擊外的技能造成的傷害提高至基本值的1.3倍，恢復技能的恢復量也提高至基本值的1.3倍"
-70,"發動乙太超流時，自身會附加三檔<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>乙太超流<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態"
+70,"發動乙太超流時，自身會附加三階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>乙太超流<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態"
 71,"搭檔的力量提高5%"
 72,"搭檔的最大HP提高10%"
 73,"搭檔的命中率提高5%"
@@ -213,8 +213,8 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>令<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天語<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態持續30秒
 另外，<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天語<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的效果量提高到10%"
 175,"毒化變為中度毒化"
-176,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>毀壞強化<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
-毀壞變為毀絕
+176,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>中毀滅強化<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
+中毀滅變為超毀滅
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最多可累積到4階<UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>發動靈攻I攻擊技能時"
 177,"中度毒化變為重度毒化，瘴氣變為瘴暍"
@@ -226,7 +226,7 @@ int32,str
 183,"庇護所及法令的複唱時間縮短5秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>療傷和中療傷暴擊時（發動機率20%）"
 184,"氣炎法變為魔炎法
-並將毀壞的威力提高到180"
+並將中毀滅的威力提高到180"
 185,"乙太超流的複唱時間縮短5秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>發動需要消耗乙太超流的技能時"
 186,"燒灼變為熾灼"
@@ -273,14 +273,14 @@ int32,str
 212,"精神值增加24點"
 213,"內力迸發的複唱時間縮短到120秒"
 214,"毀滅變為氣炎法
-同時，毀壞的威力提高到160，破陣法的威力提高到165"
+同時，中毀滅的威力提高到160，破陣法的威力提高到165"
 215,"可獲得<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>劍氣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>量值
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特定戰技命中時或發動心眼成功減輕所受的傷害時"
 216,"發動有詠唱時間的魔法時，對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>連續魔法<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>15秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>連續魔法效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>下次詠唱魔法不需要詠唱時間
 若在持續時間中發動自動攻擊或能力之外的技能，會立即解除連續魔法狀態"
-217,"毀滅變為毀壞"
+217,"毀滅變為中毀滅"
 218,"狂暴變為原初的解放"
 219,"擊倒特定的敵人時有機會學會青魔法技能
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>習得條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>敵人在戰鬥中使用了有機會學習的技能"
@@ -313,7 +313,7 @@ int32,str
 244,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>漁師之計<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>獲得大尺寸的魚時（一定機率）<If(Equal(PlayerParameter(68),18))><If(GreaterThanOrEqualTo(PlayerParameter(69),61))>
 釣魚與刺魚的發動機率不同<Else/></If><Else/></If>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大等階：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10階"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大階數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>10階"
 245,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>鬥氣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態的機率上升到100%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>戰技暴擊時"
 246,"暴亂劍與深奧之靈可恢復MP"
@@ -410,7 +410,7 @@ int32,str
 此外，軍神的讚美歌狀態中且身上有<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>詩心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>時，如果沒有使用賢者的敘事謠或放浪神的小步舞曲，則在軍神的讚美歌狀態自動結束時對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>軍神的契約<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>軍神的契約效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>使用賢者的敘事謠、軍神的讚美歌、放浪神的小步舞曲時，對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>軍神的加護<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
-不論哪種情況，該狀態的效果量都會隨<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>軍神的加護<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>軍神的契約<UIGlow>01</UIGlow><UIForeground>01</UIForeground>附加時<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>詩心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的等階發生變化
+不論哪種情況，該狀態的效果量都會隨<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>軍神的加護<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>軍神的契約<UIGlow>01</UIGlow><UIForeground>01</UIForeground>附加時<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>詩心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的階數發生變化
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>詩心1階時：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1%
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>詩心2階時：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2%
@@ -428,7 +428,7 @@ int32,str
 295,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈極心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔泉、靈極魂、冰寒發動時"
 296,"發動部分魔法後，對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星極火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈極冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大等階：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1階　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大階數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1階　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>永久
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>星極火效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>火屬性魔法威力提高40%
 火屬性魔法消耗的MP提高2倍
@@ -443,7 +443,7 @@ MP不會自然恢復
 297,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通曉<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以累積到2階"
 298,"對自身附加2階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>附體深度<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>龍神附體狀態結束時"
-299,"發動靈攻II攻擊技能時，可同時發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>毀壞效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性"
+299,"發動靈攻II攻擊技能時，可同時發動<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>中毀滅效果提高<UIGlow>01</UIGlow><UIForeground>01</UIForeground>特性"
 300,"衰敗的持續時間延長到30秒"
 301,"災禍追加效果的發動機率變為100%"
 302,"可使亞靈神鳳凰顯現　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>顯現時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>20秒
@@ -468,7 +468,7 @@ MP不會自然恢復
 310,"為庇護所附加區域內的自身和隊員所受的HP恢復效果提高10%的效果"
 311,"中度毒化變為蠱毒法"
 312,"魔炎法變為死炎法
-並將毀壞的威力提高到200"
+並將中毀滅的威力提高到200"
 313,"為野戰治療陣附加區域內的自身和隊員HP持續恢復的效果"
 314,"熾灼變為焚灼"
 315,"禍星變為煞星"
@@ -535,8 +535,8 @@ MP不會自然恢復
 368,"除自動攻擊外的技能造成的傷害提高至基本值的1.1倍，恢復技能的恢復量也提高至基本值的1.1倍"
 369,"除自動攻擊外的技能造成的傷害提高至基本值的1.3倍，恢復技能的恢復量也提高至基本值的1.3倍"
 370,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蛇膽<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大等階：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3階
-每隔20秒獲得一檔蛇膽
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大階數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3階
+每隔20秒獲得一階蛇膽
 陷入無法戰鬥狀態不影響獲得蛇膽"
 371,"部分技能的威力提高
 
@@ -549,7 +549,7 @@ MP不會自然恢復
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發炎的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>均衡注藥的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>40"
 373,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>蛇刺<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大等階：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3階
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大階數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3階
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>均衡診斷<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或對自身附加的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>均衡預後<UIGlow>01</UIGlow><UIForeground>01</UIForeground>因吸收到足夠的傷害而消失時"
 374,"注藥變為注藥II
 發炎變為發炎II
@@ -601,36 +601,36 @@ MP不會自然恢復
 387,"為自身及周圍隊員附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>祭祀環<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>5秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>祭祀環：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>持續時間內受自身祭祀環影響的目標發動戰技或魔法攻擊命中時，自身獲得1階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死亡祭品<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大等階：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8檔
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大階數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>8階
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>追加效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>死亡祭祀<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>死亡祭祀效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>從受到自身祭祀環影響的目標身上獲得死亡祭品
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>神秘環發動時"
 388,"提高品質成功時，自身便會附加「內靜」
-內靜等階每上升1階，提升品質的技能效率提升10%
-最大等階：10階"
+內靜階數每上升1階，提升品質的技能效率提升10%
+最大階數：10階"
 389,"提高品質成功時，自身便會附加「內靜」
-內靜等階每上升1階，提升品質的技能效率提升10%
-最大等階：10階"
+內靜階數每上升1階，提升品質的技能效率提升10%
+最大階數：10階"
 390,"提高品質成功時，自身便會附加「內靜」
-內靜等階每上升1階，提升品質的技能效率提升10%
-最大等階：10階"
+內靜階數每上升1階，提升品質的技能效率提升10%
+最大階數：10階"
 391,"提高品質成功時，自身便會附加「內靜」
-內靜等階每上升1階，提升品質的技能效率提升10%
-最大等階：10階"
+內靜階數每上升1階，提升品質的技能效率提升10%
+最大階數：10階"
 392,"提高品質成功時，自身便會附加「內靜」
-內靜等階每上升1階，提升品質的技能效率提升10%
-最大等階：10階"
+內靜階數每上升1階，提升品質的技能效率提升10%
+最大階數：10階"
 393,"提高品質成功時，自身便會附加「內靜」
-內靜等階每上升1階，提升品質的技能效率提升10%
-最大等階：10階"
+內靜階數每上升1階，提升品質的技能效率提升10%
+最大階數：10階"
 394,"提高品質成功時，自身便會附加「內靜」
-內靜等階每上升1階，提升品質的技能效率提升10%
-最大等階：10階"
+內靜階數每上升1階，提升品質的技能效率提升10%
+最大階數：10階"
 395,"提高品質成功時，自身便會附加「內靜」
-內靜等階每上升1階，提升品質的技能效率提升10%
-最大等階：10階"
+內靜階數每上升1階，提升品質的技能效率提升10%
+最大階數：10階"
 396,"模範製作的效率提高到180"
 397,"模範製作的效率提高到180"
 398,"模範製作的效率提高到180"
@@ -751,7 +751,7 @@ MP不會自然恢復
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>技巧舞步結束成功時"
 454,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>伶俐<UIGlow>01</UIGlow><UIForeground>01</UIForeground>增加量提高到10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>逆瀑瀉、墜噴泉、升風車、落血雨"
-455,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>扇舞·終預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
+455,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>扇舞・終預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>百花爭艷發動時"
 456,"防守之桑巴的冷卻時間縮短到90秒"
@@ -766,7 +766,7 @@ MP不會自然恢復
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>靈極冰效果：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>冰屬性魔法命中時恢復5000點MP
 火屬性魔法威力降低20%"
-459,"發動中火焰命中時，對自身附加最大等階的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星極火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態，發動中暴雪命中時，對自身附加最大等階的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈極冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
+459,"發動中火焰命中時，對自身附加最大階數的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星極火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態，發動中暴雪命中時，對自身附加最大階數的<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈極冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星極火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>與<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈極冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以累積到3階
 累積到3階後會發動以下效果
@@ -788,7 +788,7 @@ MP不會自然恢復
 465,"點亮<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>悖論水晶<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 該狀態附加後暴雪與火焰變為悖論
 解除星極火與靈極冰狀態後，悖論水晶也會變暗
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星極火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈極冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>與<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈極心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>最大等階時，將自身的狀態轉變為相反的屬性"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>自身<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星極火<UIGlow>01</UIGlow><UIForeground>01</UIForeground>或<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈極冰<UIGlow>01</UIGlow><UIForeground>01</UIForeground>與<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>靈極心<UIGlow>01</UIGlow><UIForeground>01</UIForeground>最大階數時，將自身的狀態轉變為相反的屬性"
 466,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>紅寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黃寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>乙太蓄能發動時"
 467,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>紅寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黃寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>綠寶石的奧秘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
@@ -797,13 +797,13 @@ MP不會自然恢復
 469,"黃寶石召喚變為土神召喚"
 470,"綠寶石召喚變為風神召喚"
 471,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>火神召喚<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>土神召喚<UIGlow>01</UIGlow><UIForeground>01</UIForeground>、<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>風神召喚<UIGlow>01</UIGlow><UIForeground>01</UIForeground>召喚出的召喚獸的技能發生變化
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火神召喚：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>燃火強襲變為地獄火焰
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火神召喚：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>燃燒強擊變為地獄火焰
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>土神召喚：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>碎岩變為大地之怒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>風神召喚：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>大氣斬變為大氣爆發"
 472,""
-473,"毀壞變為大毀滅"
+473,"中毀滅變為大毀滅"
 474,"乙太蓄能變為龍神附體"
-475,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>毀絕預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
+475,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>超毀滅預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>吸取能量及能量抽取發動時"
 476,"根據自身附加的不同<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>乙太<UIGlow>01</UIGlow><UIForeground>01</UIForeground>寶石耀發生變化
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>火屬性乙太：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>變為紅寶石之儀
@@ -824,10 +824,10 @@ MP不會自然恢復
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 481,"火神召喚變為火神召喚II，土神召喚變為土神召喚II，風神召喚變為風神召喚II"
 482,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔元集<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大等階：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3階
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大階數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3階
 當魔元集累積3階時，赤雷電與赤中雷電變為赤火光
 當學會赤神聖後，赤勁風與赤中勁風變為赤神聖
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔回刺、魔交擊斬、魔連攻、魔劃圓斬·一段、魔劃圓斬·二段、魔劃圓斬·三段命中時"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>魔回刺、魔交擊斬、魔連攻、魔劃圓斬・一段、魔劃圓斬・二段、魔劃圓斬・三段命中時"
 483,"赤雷電變為赤大雷電，赤勁風變為赤大勁風
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>魔元集<UIGlow>01</UIGlow><UIForeground>01</UIForeground>累積3階時，赤大雷電變為赤火光，赤大勁風變為赤神聖"
 484,"震盪變為激盪
@@ -845,7 +845,7 @@ MP不會自然恢復
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>魔續斬的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340"
 485,"促進變為累積技能
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
-486,"魔元化的最大等階增加至6階"
+486,"魔元化的最大階數增加至6階"
 487,"閃耀變為閃灼"
 488,"神聖變為豪聖"
 489,"部分技能的恢復力提高
@@ -862,7 +862,7 @@ MP不會自然恢復
 490,"神祝禱變為累積技能
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>累積次數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2"
 491,"死炎法變為極炎法
-毀壞的威力提高至220"
+中毀滅的威力提高至220"
 492,"破陣法變為裂陣法"
 493,"部分技能與防護罩的效果提高
 
@@ -923,7 +923,7 @@ MP不會自然恢復
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>殘暴彈的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>160
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>迅連斬的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>140"
 508,"在使用龍眼雷電與龍眼蒼天時，對自身附加1階<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>天龍眼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大等階：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2階
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大階數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>2階
 另外，部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>武神槍的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
@@ -1077,7 +1077,7 @@ MP不會自然恢復
 持續時間內，絕對統治變為榮耀之劍"
 567,"復仇變為戮罪"
 568,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>原初的搏動<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大等階：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3階　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大階數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>3階　<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 附加3階原初的搏動後，該狀態變為<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>原初的怒震預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>，原初的解放變為原初的怒震
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>原初的解放狀態中發動裂石飛環或地毀人亡命中敵人時"
 569,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>盡毀預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
@@ -1132,7 +1132,7 @@ MP不會自然恢復
 持續時間內，天地人變為天理人道"
 589,"心眼變為天眼通"
 590,"刃風變為曉風"
-591,"必殺劍·紅蓮和必殺劍·閃影的冷卻時間縮短到60秒"
+591,"必殺劍・紅蓮和必殺劍・閃影的冷卻時間縮短到60秒"
 592,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>殘心預備<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>持續時間：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>30秒
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>意氣衝天發動時"
@@ -1193,7 +1193,7 @@ MP不會自然恢復
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>黑魔紋<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態中"
 615,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>通曉<UIGlow>01</UIGlow><UIForeground>01</UIForeground>的累積次數增加到3次"
 616,"對自身附加<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>星極魂<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大等階：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6檔
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>最大階數：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>6階
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>發動條件：<UIGlow>01</UIGlow><UIForeground>01</UIForeground><UIGlow>01</UIGlow><UIForeground>01</UIForeground>超火焰或火光命中時
 同時，發動絕望不需要詠唱時間"
 617,"潰爛爆發變為壞死爆發"
@@ -1380,12 +1380,12 @@ MP不會自然恢復
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>噴泉的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>120
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>雙色標準舞步結束的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>850
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>逆瀑瀉的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>扇舞·序的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>扇舞・序的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>180
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>墜噴泉的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>扇舞·急的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>扇舞・急的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>220
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>四色技巧舞步結束的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>1300
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>劍舞的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>扇舞·終的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>扇舞・終的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>420"
 663,"部分技能的威力提高
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>重斬的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>300
@@ -1399,7 +1399,7 @@ MP不會自然恢復
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>大毀滅的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>星極脈衝的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>500
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>毀絕的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>超毀滅的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>520
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>紅寶石之儀的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>580
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>黃寶石之儀的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>340
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>綠寶石之儀的威力：<UIGlow>01</UIGlow><UIForeground>01</UIForeground>280

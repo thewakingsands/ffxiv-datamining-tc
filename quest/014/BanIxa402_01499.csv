@@ -5,16 +5,16 @@ int32,str,str
 ※本任務推薦等級為：
 　製作職業10級以上、戰鬥職業47級以上。
 
-長風實驗場的學者塔澤爾·梅耶安有個重要的委託要交給冒險者。"
+長風實驗場的學者塔澤爾・梅耶安有個重要的委託要交給冒險者。"
 1,"TEXT_BANIXA402_01499_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整任務。
 
-學者塔澤爾·梅耶安委託冒險者製作<Sheet(ItemHQ,　8106,0)/>。為了換到需要的材料，在成為採掘師的狀態下，從和平苑西邊的礦脈採集15個<Sheet(EventItem,2001391,0)/>、5個<Sheet(EventItem,2001392,0)/>。"
+學者塔澤爾・梅耶安委託冒險者製作<Sheet(ItemHQ,　8106,0)/>。為了換到需要的材料，在成為採掘師的狀態下，從和平苑西邊的礦脈採集15個<Sheet(EventItem,2001391,0)/>、5個<Sheet(EventItem,2001392,0)/>。"
 2,"TEXT_BANIXA402_01499_SEQ_02","採到了<Sheet(EventItem,2001391,0)/>和<Sheet(EventItem,2001392,0)/>。去秋瓜浮村找個體貿易商進行交換。"
 3,"TEXT_BANIXA402_01499_SEQ_03","從個體貿易商手中換來了<Sheet(EventItem,2001390,0)/>。將<Sheet(EventItem,2001390,0)/>交給秋瓜浮村浮栓亭的休德耶德，獲取製作設施的使用許可。"
-4,"TEXT_BANIXA402_01499_SEQ_04","可以使用製作設施了。用<Sheet(Item,　8067,0)/>製作4個<Sheet(ItemHQ,　8106,0)/>，並將其交給長風實驗場的學者塔澤爾·梅耶安。
+4,"TEXT_BANIXA402_01499_SEQ_04","可以使用製作設施了。用<Sheet(Item,　8067,0)/>製作4個<Sheet(ItemHQ,　8106,0)/>，並將其交給長風實驗場的學者塔澤爾・梅耶安。
 
 ※如果「製作設施：複雜工作」的狀態效果消失了，或者<Sheet(Item,　8067,0)/>不足的話，就和休德耶德對話，即可重獲狀態效果和材料，並再次進行挑戰。"
-5,"TEXT_BANIXA402_01499_SEQ_05","將<Sheet(ItemHQ,　8106,0)/>交給了學者塔澤爾·梅耶安。他對冒險者完美的加工手藝予以了稱讚與感嘆。看來只要手藝還入得學者塔澤爾·梅耶安的法眼，就不會愁沒有工作可幹。"
+5,"TEXT_BANIXA402_01499_SEQ_05","將<Sheet(ItemHQ,　8106,0)/>交給了學者塔澤爾・梅耶安。他對冒險者完美的加工手藝予以了稱讚與感嘆。看來只要手藝還入得學者塔澤爾・梅耶安的法眼，就不會愁沒有工作可幹。"
 6,"TEXT_BANIXA402_01499_SEQ_06","空"
 7,"TEXT_BANIXA402_01499_SEQ_07","空"
 8,"TEXT_BANIXA402_01499_SEQ_08","空"
@@ -38,7 +38,7 @@ int32,str,str
 26,"TEXT_BANIXA402_01499_TODO_02","將<Sheet(EventItem,2001391,0)/>與<Sheet(EventItem,2001392,0)/>
 交給秋瓜浮村的個體貿易商"
 27,"TEXT_BANIXA402_01499_TODO_03","將<Sheet(EventItem,2001390,0)/>交給秋瓜浮村的休德耶德"
-28,"TEXT_BANIXA402_01499_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務10級：製作<Sheet(ItemHQ,　8106,0)/><Else/>將<Sheet(ItemHQ,　8106,0)/>交給學者塔澤爾·梅耶安</If>"
+28,"TEXT_BANIXA402_01499_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務10級：製作<Sheet(ItemHQ,　8106,0)/><Else/>將<Sheet(ItemHQ,　8106,0)/>交給學者塔澤爾・梅耶安</If>"
 29,"TEXT_BANIXA402_01499_TODO_05","空"
 30,"TEXT_BANIXA402_01499_TODO_06","空"
 31,"TEXT_BANIXA402_01499_TODO_07","空"

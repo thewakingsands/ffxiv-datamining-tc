@@ -5,16 +5,16 @@ int32,str,str
 ※本任務推薦等級為：
 　製作職業15級以上、戰鬥職業48級以上。
 
-長風實驗場的工匠多扎爾·梅耶安有個試製委託要交給冒險者。"
+長風實驗場的工匠多扎爾・梅耶安有個試製委託要交給冒險者。"
 1,"TEXT_BANIXA505_01513_SEQ_01","※本任務為<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 等級調整任務。
 
-工匠多扎爾·梅耶安委託冒險者製作<Sheet(ItemHQ,8117,0)/>。去摩杜納喪靈鐘的鑽石工坊找菲厄布瑞達，獲取製作設施的使用許可。"
+工匠多扎爾・梅耶安委託冒險者製作<Sheet(ItemHQ,8117,0)/>。去摩杜納喪靈鐘的鑽石工坊找菲厄布瑞達，獲取製作設施的使用許可。"
 2,"TEXT_BANIXA505_01513_SEQ_02","與菲厄布瑞達進行了交談。作為製作設施的使用條件，前往帝國中央堡擊退<Sheet(BNpcName,2983,0)/>，從<Sheet(EObj,2004479,0)/>中獲取<Sheet(EventItem,2001420,0)/>。"
 3,"TEXT_BANIXA505_01513_SEQ_03","獲得了<Sheet(EventItem,2001420,0)/>。將<Sheet(EventItem,2001420,0)/>與<Sheet(EventItem,2001419,0)/>交給鑽石工坊的菲厄布瑞達，獲取製作設施的使用許可。"
-4,"TEXT_BANIXA505_01513_SEQ_04","可以使用製作設施了。用<Sheet(Item,8076,0)/>製作<Sheet(ItemHQ,8117,0)/>，並將其交給長風實驗場的工匠多扎爾·梅耶安。
+4,"TEXT_BANIXA505_01513_SEQ_04","可以使用製作設施了。用<Sheet(Item,8076,0)/>製作<Sheet(ItemHQ,8117,0)/>，並將其交給長風實驗場的工匠多扎爾・梅耶安。
 
 ※如果「製作設施：專項工作」的狀態效果消失了，或者<Sheet(Item,　8076,0)/>不足的話，就和菲厄布瑞達對話，即可重獲狀態效果和材料，並再次進行挑戰。"
-5,"TEXT_BANIXA505_01513_SEQ_05","將<Sheet(ItemHQ,8117,0)/>交給了工匠多扎爾·梅耶安。雖然冒了接近帝國軍據點的風險，但辛苦沒有白費。冒險者試製的東西有很多鳥人族沒有想過的新穎之處。也許塔塔拉姆的祖父也曾與迪茲爾·庫瓦蘭一起像這樣進行過技術交流。"
+5,"TEXT_BANIXA505_01513_SEQ_05","將<Sheet(ItemHQ,8117,0)/>交給了工匠多扎爾・梅耶安。雖然冒了接近帝國軍據點的風險，但辛苦沒有白費。冒險者試製的東西有很多鳥人族沒有想過的新穎之處。也許塔塔拉姆的祖父也曾與迪茲爾・庫瓦蘭一起像這樣進行過技術交流。"
 6,"TEXT_BANIXA505_01513_SEQ_06","空"
 7,"TEXT_BANIXA505_01513_SEQ_07","空"
 8,"TEXT_BANIXA505_01513_SEQ_08","空"
@@ -38,7 +38,7 @@ int32,str,str
 獲取<Sheet(EventItem,2001420,0)/>"
 26,"TEXT_BANIXA505_01513_TODO_02","將<Sheet(EventItem,2001420,0)/>和<Sheet(EventItem,2001419,0)/>
 交給喪靈鐘的菲厄布瑞達"
-27,"TEXT_BANIXA505_01513_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務15級：製作<Sheet(ItemHQ,8117,0)/><Else/>將<Sheet(ItemHQ,8117,0)/>交給工匠多扎爾·梅耶安</If>"
+27,"TEXT_BANIXA505_01513_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>製作筆記 友好部族任務15級：製作<Sheet(ItemHQ,8117,0)/><Else/>將<Sheet(ItemHQ,8117,0)/>交給工匠多扎爾・梅耶安</If>"
 28,"TEXT_BANIXA505_01513_TODO_04","空"
 29,"TEXT_BANIXA505_01513_TODO_05","空"
 30,"TEXT_BANIXA505_01513_TODO_06","空"
@@ -106,7 +106,7 @@ int32,str,str
 和我們的沒有太大差別，但有的地方是我們沒想到的。
 唔……很有參考價值！"
 67,"TEXT_BANIXA505_01513_DUZALMEYEAN_000_132","……這下應該能做出很棒的試製品了。
-老大的師父……迪茲爾·庫瓦蘭說不定
+老大的師父……迪茲爾・庫瓦蘭說不定
 也曾經像這樣與人類交流過技術……"
 68,"TEXT_BANIXA505_01513_POPMESSAGE_000_200","製作設施已準備就緒。"
 69,"TEXT_BANIXA505_01513_SYSTEM_200_200","背包中留有在本次任務中製作出的普通品質道具。

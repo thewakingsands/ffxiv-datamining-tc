@@ -1,10 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_GAIUSB106_00825_SEQ_00","遺忘綠洲的烏·庫巴·提亞，有東西想要冒險者幫忙收集。"
-1,"TEXT_GAIUSB106_00825_SEQ_01","烏·庫巴·提亞想要收集箭頭。從<Sheet(BNpcName,285,0)/>身上獲得6個<Sheet(EventItem,2000646,0)/>。"
-2,"TEXT_GAIUSB106_00825_SEQ_02","獲得了6個<Sheet(EventItem,2000646,0)/>。將其交給遺忘綠洲的烏·庫巴·提亞。"
-3,"TEXT_GAIUSB106_00825_SEQ_03","將<Sheet(EventItem,2000646,0)/>交給了烏·庫巴·提亞。他似乎有一定把握能當上族長了。"
+0,"TEXT_GAIUSB106_00825_SEQ_00","遺忘綠洲的烏・庫巴・提亞，有東西想要冒險者幫忙收集。"
+1,"TEXT_GAIUSB106_00825_SEQ_01","烏・庫巴・提亞想要收集箭頭。從<Sheet(BNpcName,285,0)/>身上獲得6個<Sheet(EventItem,2000646,0)/>。"
+2,"TEXT_GAIUSB106_00825_SEQ_02","獲得了6個<Sheet(EventItem,2000646,0)/>。將其交給遺忘綠洲的烏・庫巴・提亞。"
+3,"TEXT_GAIUSB106_00825_SEQ_03","將<Sheet(EventItem,2000646,0)/>交給了烏・庫巴・提亞。他似乎有一定把握能當上族長了。"
 4,"TEXT_GAIUSB106_00825_SEQ_04","無"
 5,"TEXT_GAIUSB106_00825_SEQ_05","無"
 6,"TEXT_GAIUSB106_00825_SEQ_06","無"
@@ -26,7 +26,7 @@ int32,str,str
 22,"TEXT_GAIUSB106_00825_SEQ_22","無"
 23,"TEXT_GAIUSB106_00825_SEQ_23","無"
 24,"TEXT_GAIUSB106_00825_TODO_00","從<Sheet(BNpcName,285,0)/>身上獲得<Sheet(EventItem,2000646,0)/>"
-25,"TEXT_GAIUSB106_00825_TODO_01","將<Sheet(EventItem,2000646,0)/>交給烏·庫巴·提亞"
+25,"TEXT_GAIUSB106_00825_TODO_01","將<Sheet(EventItem,2000646,0)/>交給烏・庫巴・提亞"
 26,"TEXT_GAIUSB106_00825_TODO_02","無"
 27,"TEXT_GAIUSB106_00825_TODO_03","無"
 28,"TEXT_GAIUSB106_00825_TODO_04","無"

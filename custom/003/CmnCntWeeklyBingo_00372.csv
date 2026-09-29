@@ -109,7 +109,7 @@ int32,str,str
 52,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_211","領取完奇談書後，需要等待一段時間才能再領新的，
 因為製作奇談書也是要花時間的……
 不好意思，<Highlight>ObjectParameter(1)</Highlight>。"
-53,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_212","每週可以從庫洛·阿里亞珀處領取一次奇談書。
+53,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_212","每週可以從庫洛・阿里亞珀處領取一次奇談書。
 需要新的奇談書時，
 請在每週<ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>周日</Case><Case(2)>周一</Case><Case(3)>周二</Case><Case(4)>周三</Case><Case(5)>周四</Case><Case(6)>周五</Case><Case(7)>周六</Case></Switch>的<If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>點（地球時間）後和庫洛對話。"
 54,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_220","你給我創作素材，我給你獎勵！
@@ -122,7 +122,7 @@ int32,str,str
 任意完成1項，即可在4×4的16個格子中隨機貼上1個印花。
 每本奇談書最多能貼9個印花。"
 58,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_224","完成諸如「貼上9個印花」，「完成1條故事線」等特殊條件，
-將奇談書還給庫洛·阿里亞珀的時候，可以獲得獎勵。"
+將奇談書還給庫洛・阿里亞珀的時候，可以獲得獎勵。"
 59,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_225","完成情況可以透過使用任務道具「庫洛的奇談書」隨時確認。"
 60,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_230","我創作故事是為了講給朋友聽。
 但是，總不能讓那孩子一直等下去……"
