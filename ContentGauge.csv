@@ -88,5 +88,5 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 84,0,"呼嘯之劍的劍氣",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 85,0,"節奏感",1,True,"",-1,1,0,-1,1,0,0
 86,0,"澤蓮尼亞的乙太",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-87,0,"",0,False,"",0,0,0,0,0,0,0
-88,0,"",0,False,"",0,0,0,0,0,0,0
+87,0,"對死亡的恐懼",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+88,1,"",0,True,"",-1,1,0,-1,1,0,0

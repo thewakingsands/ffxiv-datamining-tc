@@ -421,7 +421,7 @@ HP變為0時會陷入<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>�
 169,0,0,0,0,"","",""
 170,1,0,150361,0,"
 進入了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>休息區<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
-在休息區中，經驗欄下面會出現特殊的圖示。
+在休息區中，經驗欄右側會出現特殊的圖示。
 
 處於休息區時會隨時間累積相應的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>休息獎勵<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。此時即使退出遊戲，獎勵還是會繼續累積。","",""
 171,1,0,150362,0,"
@@ -692,12 +692,12 @@ HP變為0時會陷入<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>�
 308,0,0,0,0,"","",""
 309,0,0,0,0,"","",""
 310,1,0,150831,0,"
-騎乘狀態下在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狀態效果<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>騎乘圖示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。圖示上的數位為這次租借的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剩餘時間<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+騎乘狀態下在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狀態效果<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>騎乘圖示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。圖示上的數字為這次租借的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剩餘時間<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 執行特殊快速鍵中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳下<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以自己主動下鳥。
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※要注意的是下鳥後所騎的陸行鳥也會自動離開。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 311,1,0,150831,0,"
-騎乘狀態下在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狀態效果<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>騎乘圖示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。圖示上的數位為這次租借的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剩餘時間<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+騎乘狀態下在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>狀態效果<UIGlow>01</UIGlow><UIForeground>01</UIForeground>中會顯示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>騎乘圖示<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。圖示上的數字為這次租借的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>剩餘時間<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 執行特殊快速鍵中的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>跳下<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以自己主動下鳥
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※要注意的是下鳥後所騎的陸行鳥也會自動離開。<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
@@ -2638,7 +2638,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1460,1,0,151661,0,"
 透過<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「搬運」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>可以將貨物運送到目的地。
 
-「搬運」狀態下有專門的狀態圖示，圖示上顯示的數位表示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「持續搬運的剩餘時間」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+「搬運」狀態下有專門的狀態圖示，圖示上顯示的數字表示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「持續搬運的剩餘時間」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 1461,1,0,151661,0,"
 搬運過程中遭到敵人攻擊時會減少持續的時間。當持續時間減到0時會損失掉搬運中的貨物。","",""
 1462,0,0,0,0,"","",""
@@ -2652,7 +2652,7 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 1470,1,0,151671,0,"
 在<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「透明」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>狀態下可以隱蔽自身的氣息，讓敵人不會注意到自己。
 
-「透明」狀態下有專門的狀態圖示，圖示上顯示的數位表示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「透明效果的剩餘時間」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
+「透明」狀態下有專門的狀態圖示，圖示上顯示的數字表示<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>「透明效果的剩餘時間」<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。","",""
 1471,1,0,151672,0,"
 透明狀態下無法發動任何技能。當剩餘時間減到0時狀態會解除。
 
@@ -4415,10 +4415,35 @@ F.A.T.E.結束後，根據結果可以得到相應的報酬。
 <CommandIcon(14)/>＋<Gui(17)/>按鍵：切換技能
 <CommandIcon(15)/>＋<Gui(17)/>按鍵：使用技能
 ","",""
-2585,0,0,0,0,"","",""
-2586,0,0,0,0,"","",""
-2587,0,0,0,0,"","",""
-2588,0,0,0,0,"","",""
+2585,1,0,151011,0,"
+進入了寶物庫<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>尋夢金庫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>區域！
+
+在這裡，可以啟動<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>夢想拉霸機<UIGlow>01</UIGlow><UIForeground>01</UIForeground>召喚守護財寶的怪物。
+
+擊敗召喚出的怪物即可獲得財寶！","",""
+2586,1,0,151012,0,"
+地圖的持有者<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>最多可以挑戰5次<UIGlow>01</UIGlow><UIForeground>01</UIForeground>夢想拉霸機。
+
+出現何種怪物
+由夢想拉霸機的<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>圖案<UIGlow>01</UIGlow><UIForeground>01</UIForeground>決定。
+
+出現的怪物越強，
+打倒時獲得的財寶也會增加。","",""
+2587,1,0,151013,0,"
+圖案總共分為四種。
+除了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>碎裂的鑽石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>以外
+只要出現三個相同圖案就能召喚怪物。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>小鑽石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>圖案代表下級怪物，
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>三顆鑽石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>圖案代表中級怪物，
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>大鑽石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>圖案代表上級怪物。
+
+如果運氣不好出現三顆<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>碎裂的鑽石<UIGlow>01</UIGlow><UIForeground>01</UIForeground>圖案，則會被驅逐出寶物庫……","",""
+2588,1,0,151014,0,"
+根據圖案還會觸發<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>特殊遊戲<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
+具體內容還請冒險者親自嘗試體驗。
+
+會湊齊哪種圖案全靠運氣！
+跟夥伴一起獲得秘寶吧！","",""
 2589,1,0,150911,0,"獲得了<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>鳳凰尾巴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>。
 
 使用鳳凰尾巴

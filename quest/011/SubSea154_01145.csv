@@ -60,11 +60,11 @@ int32,str,str
 51,"TEXT_SUBSEA154_01145_AHLDFOET_000_011","……啊，就是這個就是這個。
 謝謝你，<Switch(PlayerParameter(71))><Case(1)><If(PlayerParameter(4))>小姐<Else/>小哥</If></Case><Case(2)><If(PlayerParameter(4))>大姐<Else/>兄弟</If></Case><Case(3)>小不點</Case><Case(4)><If(PlayerParameter(4))>小貓咪<Else/>貓小哥</If></Case><Case(5)><If(PlayerParameter(4))>大姐<Else/>大哥</If></Case><Case(6)><If(PlayerParameter(4))>小姐<Else/>小哥</If></Case><Case(7)><If(PlayerParameter(4))>小姐<Else/>小哥</If></Case><Case(8)><If(PlayerParameter(4))>大姐<Else/>大哥</If></Case></Switch>。"
 52,"TEXT_SUBSEA154_01145_AHLDFOET_000_012","蝙蝠既不是鳥類也不是獸類。
-所以常有人認為它是不倫不類的異類，
+所以常有人認為牠是不倫不類的異類，
 其實並不是那樣。"
-53,"TEXT_SUBSEA154_01145_AHLDFOET_000_013","它能夠臨機應變，根據狀況採取分屬鳥獸的行動。
+53,"TEXT_SUBSEA154_01145_AHLDFOET_000_013","牠能夠臨機應變，根據狀況採取分屬鳥獸的行動。
 在大叔看來……
-它的判斷力和果斷值得學習。"
+牠的判斷力和果斷值得學習。"
 54,"TEXT_SUBSEA154_01145_AHLDFOET_000_014","幻影群島就位於這附近的近海區域，礁石很多。
 雖然為了防止船隻觸礁設有燈塔，
 但最緊急的天狼星燈塔故障了，燈光很暗。"

@@ -412,6 +412,17 @@ int32,byte,byte,sbyte,sbyte,sbyte,str,str,str,str,str,TextCommandParam,uint32
 將發動敵對性質技能時自動選中目標設定為無效。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 在開啟與關閉之間切換。","/自動選中目標","",36,0
+49,2,1,2,0,0,"/vieraears","/vears","/維艾拉耳朵
+/vieraears、/vears
+切換是否顯示維艾拉族的耳朵。
+※僅對已經實裝了切換耳部顯示功能的裝備有效。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>開<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　顯示維艾拉族的耳部。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>關<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　不顯示維艾拉族的耳部。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+　在開啟和關閉之間切換。
+","/維艾拉耳朵","",36,0
 91,1,0,0,0,0,"/pvpteam","/pt","/戰隊頻道(/戰) 發言內容
 /pvpteam、/pt
 向同一戰隊內的全體成員發送聊天訊息，無論離多遠、無論在哪個地區都可以看到。
@@ -1136,12 +1147,12 @@ F.A.T.E.範圍內
 /alarm
 設定鬧鐘。
 >>指令
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>""鬧鐘名"" 時間類型(本、服、艾) 重覆通知(重覆) 時間(0000-2400) 提前(0-60)分鐘提醒 音效編號(音效00-音效05) 副本任務中靜音(靜音)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>""鬧鐘名"" 時間類型(本、服、艾) 重複通知(重複) 時間(0000-2400) 提前(0-60)分鐘提醒 音效編號(音效00-音效05) 副本任務中靜音(靜音)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　設定在指定時間進行通知提醒的鬧鐘。
-　加上重覆通知(重覆)指令時鬧鐘會每小時提醒一次。
+　加上重複通知(重複)指令時鬧鐘會每小時提醒一次。
 　加上音效編號(音效00-音效05)指令可以指定鬧鐘音效。
 　加上副本任務中靜音(靜音)指令可以讓副本中不進行鬧鐘的聲音提醒。
-　重覆、提前多少分鐘提醒、音效編號、副本任務中靜音的指令可以省略。
+　重複、提前多少分鐘提醒、音效編號、副本任務中靜音的指令可以省略。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>撤除<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 　將設定的鬧鐘全部刪除。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -1155,7 +1166,7 @@ F.A.T.E.範圍內
 >>範例
 /鬧鐘 ""集合時間"" 本 2000 10 音效04
 　設定一個名為集合時間的鬧鐘，在本地時間20點前提前10分鐘以4號音效提醒。
-/鬧鐘 ""休息"" 本 重覆 30 音效05
+/鬧鐘 ""休息"" 本 重複 30 音效05
 　設定一個名為休息的鬧鐘，在本地時間每個小時的30分時以5號音效提醒。","/鬧鐘","",32,0
 231,2,1,2,0,0,"/busy","","/忙碌 指令
 /busy
@@ -4112,3 +4123,67 @@ F.A.T.E.範圍內
 只做動作。
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 做出動作並顯示文字提示。","/認真看書","",293,0
+699,2,1,2,0,0,"/gridaniansip","","/用森都風格馬克杯喝 指令
+/gridaniansip
+用森都風格馬克杯喝飲料。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/用森都風格馬克杯喝","",293,0
+700,2,1,2,0,0,"/uldahnsip","","/用沙都風格馬克杯喝 指令
+/uldahnsip
+用沙都風格馬克杯喝飲料。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/用沙都風格馬克杯喝","",293,0
+701,2,1,2,0,0,"/lominsansip","","/用海都風格馬克杯喝 指令
+/lominsansip
+用海都風格馬克杯喝飲料。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/用海都風格馬克杯喝","",293,0
+702,2,1,2,0,0,"/gridaniangulp","","/持續用森都風格馬克杯喝 指令
+/gridaniangulp
+持續用森都風格馬克杯喝飲料。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/持續用森都風格馬克杯喝","",293,0
+703,2,1,2,0,0,"/uldahngulp","","/持續用沙都風格馬克杯喝 指令
+/uldahngulp
+持續用沙都風格馬克杯喝飲料。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/持續用沙都風格馬克杯喝","",293,0
+704,2,1,2,0,0,"/lominsangulp","","/持續用海都風格馬克杯喝 指令
+/lominsangulp
+持續用海都風格馬克杯喝飲料。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/持續用海都風格馬克杯喝","",293,0
+705,2,1,2,0,0,"/limberup","/limber","/躍躍欲試 指令
+/limberup、/limber
+擺出躍躍欲試的樣子。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/躍躍欲試","",293,0
+708,2,1,2,0,0,"/pen","","/用羽毛筆記錄 指令
+/pen
+用羽毛筆記錄文字。
+>>指令
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>動作(motion)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+只做動作。
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>無指令<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+做出動作並顯示文字提示。","/用羽毛筆記錄","",293,0
